@@ -1,5 +1,20 @@
-# Byte-compiled / optimized / DLL files
+# dir
 __pycache__/
+.vscode/
+
+# file
+*.npz
+*.npy
+*.csv
+*.pkl
+*.h5
+*.pt
+core*
+*.p
+*.pickle
+*.pyc
+*.txt
+
 *.py[cod]
 *$py.class
 
