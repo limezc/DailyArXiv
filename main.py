@@ -37,15 +37,13 @@ back_up_files() # back up README.md and ISSUE_TEMPLATE.md
 # write to README.md
 f_rm = open("README.md", "w") # file for README.md
 f_rm.write("# Daily Papers\n")
-f_rm.write("The project automatically fetches the latest papers from arXiv based on keywords.\n\nThe subheadings in the README file represent the search keywords.\n\nOnly the most recent articles for each keyword are retained, up to a maximum of 100 papers.\n\nYou can click the 'Watch' button to receive daily email notifications.\n\nLast update: {0}\n\n".format(current_date))
+f_rm.write("The project automatically fetches the latest papers from arXiv based on keywords.\n\nLast update: {0}\n\n".format(current_date))
 
 # write to ISSUE_TEMPLATE.md
 f_is = open(".github/ISSUE_TEMPLATE.md", "w") # file for ISSUE_TEMPLATE.md
 f_is.write("---\n")
 f_is.write("title: Latest {0} Papers - {1}\n".format(issues_result, get_daily_date()))
 f_is.write("labels: documentation\n")
-f_is.write("---\n")
-f_is.write("**Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**\n\n")
 
 for keyword in keywords:
     f_rm.write("## {0}\n".format(keyword))
@@ -67,6 +65,7 @@ for keyword in keywords:
     f_is.write("\n\n")
     time.sleep(5) # avoid being blocked by arXiv API
 
+f_rm.write("This project is inspired by [https://github.com/zezhishao/DailyArXiv](https://github.com/zezhishao/DailyArXiv).\n")
 f_rm.close()
 f_is.close()
 remove_backups()
