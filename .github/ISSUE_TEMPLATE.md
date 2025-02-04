@@ -1,9 +1,10 @@
 ---
-title: Latest 15 Papers - February 04, 2025
+title: Latest 15 Papers - February 05, 2025
 labels: documentation
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Interpretable Neural ODEs for Gene Regulatory Network Discovery under Perturbations](http://arxiv.org/abs/2501.02409v2)** | 2025-02-01 |  |
 | **[Large Language Models for Single-Step and Multi-Step Flight Trajectory Prediction](http://arxiv.org/abs/2501.17459v1)** | 2025-01-29 | 9 pages, 7 figures |
 | **[Dream to Drive with Predictive Individual World Model](http://arxiv.org/abs/2501.16733v1)** | 2025-01-28 | <details><summary>Codes...</summary><p>Codes: https://github.com/gaoyinfeng/PIWM</p></details> |
 | **[Toward Safe Integration of UAM in Terminal Airspace: UAM Route Feasibility Assessment using Probabilistic Aircraft Trajectory Prediction](http://arxiv.org/abs/2501.16599v1)** | 2025-01-28 | 10 pages, 7 figures |
@@ -18,7 +19,6 @@ labels: documentation
 | **[Risk-Informed Diffusion Transformer for Long-Tail Trajectory Prediction in the Crash Scenario](http://arxiv.org/abs/2501.16349v1)** | 2025-01-18 |  |
 | **[ASTRA: A Scene-aware TRAnsformer-based model for trajectory prediction](http://arxiv.org/abs/2501.09878v1)** | 2025-01-16 |  |
 | **[MGF: Mixed Gaussian Flow for Diverse Trajectory Prediction](http://arxiv.org/abs/2402.12238v2)** | 2025-01-15 | <details><summary>Accep...</summary><p>Accepted by Neurips 2024. Code: https://github.com/mulplue/MGF</p></details> |
-| **[Pedestrian Trajectory Prediction Based on Social Interactions Learning With Random Weights](http://arxiv.org/abs/2501.07711v1)** | 2025-01-13 | <details><summary>13 pa...</summary><p>13 pages,7 figures,Accepted to IEEE Transactions on Multimedia (TMM)</p></details> |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
