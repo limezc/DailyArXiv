@@ -44,6 +44,7 @@ f_is = open(".github/ISSUE_TEMPLATE.md", "w") # file for ISSUE_TEMPLATE.md
 f_is.write("---\n")
 f_is.write("title: Latest {0} Papers - {1}\n".format(issues_result, get_daily_date()))
 f_is.write("labels: documentation\n")
+f_is.write("---\n")
 
 for keyword in keywords:
     f_rm.write("## {0}\n".format(keyword))
