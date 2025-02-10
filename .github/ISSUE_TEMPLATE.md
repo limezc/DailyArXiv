@@ -1,10 +1,11 @@
 ---
-title: Latest 15 Papers - February 10, 2025
+title: Latest 15 Papers - February 11, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The $α$-Alternator: Dynamic Adaptation To Varying Noise Levels In Sequences Using The Vendi Score For Improved Robustness and Performance](http://arxiv.org/abs/2502.04593v1)** | 2025-02-07 | <details><summary>The c...</summary><p>The codebase will be made available upon publication. This paper is dedicated to Patrice Lumumba</p></details> |
 | **[CUQDS: Conformal Uncertainty Quantification under Distribution Shift for Trajectory Prediction](http://arxiv.org/abs/2406.12100v4)** | 2025-02-04 | 9 pages, 2 figures |
 | **[Unified Spatial-Temporal Edge-Enhanced Graph Networks for Pedestrian Trajectory Prediction](http://arxiv.org/abs/2502.02504v1)** | 2025-02-04 |  |
 | **[Bayesian Approximation-Based Trajectory Prediction and Tracking with 4D Radar](http://arxiv.org/abs/2502.01357v1)** | 2025-02-03 | 6pages, 4 figures |
@@ -19,7 +20,6 @@ labels: documentation
 | **[Towards Physically Interpretable World Models: Meaningful Weakly Supervised Representations for Visual Trajectory Prediction](http://arxiv.org/abs/2412.12870v2)** | 2025-01-27 |  |
 | **[A scalable adaptive deep Koopman predictive controller for real-time optimization of mixed traffic flow](http://arxiv.org/abs/2502.00043v1)** | 2025-01-27 |  |
 | **[Beyond In-Distribution Performance: A Cross-Dataset Study of Trajectory Prediction Robustness](http://arxiv.org/abs/2501.15842v1)** | 2025-01-27 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2407.13431</p></details> |
-| **[Improving Out-of-Distribution Generalization of Trajectory Prediction for Autonomous Driving via Polynomial Representations](http://arxiv.org/abs/2407.13431v3)** | 2025-01-25 |  |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
