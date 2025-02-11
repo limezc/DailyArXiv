@@ -1,10 +1,12 @@
 ---
-title: Latest 15 Papers - February 11, 2025
+title: Latest 15 Papers - February 12, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Gaussian Process-driven Hidden Markov Models for Early Diagnosis of Infant Gait Anomalies](http://arxiv.org/abs/2502.06334v1)** | 2025-02-10 |  |
+| **[Interaction-aware Conformal Prediction for Crowd Navigation](http://arxiv.org/abs/2502.06221v1)** | 2025-02-10 | <details><summary>Accep...</summary><p>Accepted by WAFR 2024</p></details> |
 | **[The $α$-Alternator: Dynamic Adaptation To Varying Noise Levels In Sequences Using The Vendi Score For Improved Robustness and Performance](http://arxiv.org/abs/2502.04593v1)** | 2025-02-07 | <details><summary>The c...</summary><p>The codebase will be made available upon publication. This paper is dedicated to Patrice Lumumba</p></details> |
 | **[CUQDS: Conformal Uncertainty Quantification under Distribution Shift for Trajectory Prediction](http://arxiv.org/abs/2406.12100v4)** | 2025-02-04 | 9 pages, 2 figures |
 | **[Unified Spatial-Temporal Edge-Enhanced Graph Networks for Pedestrian Trajectory Prediction](http://arxiv.org/abs/2502.02504v1)** | 2025-02-04 |  |
@@ -18,12 +20,12 @@ labels: documentation
 | **[Toward Safe Integration of UAM in Terminal Airspace: UAM Route Feasibility Assessment using Probabilistic Aircraft Trajectory Prediction](http://arxiv.org/abs/2501.16599v1)** | 2025-01-28 | 10 pages, 7 figures |
 | **[Modular Framework for Uncertainty Prediction in Autonomous Vehicle Motion Forecasting within Complex Traffic Scenarios](http://arxiv.org/abs/2501.16480v1)** | 2025-01-27 |  |
 | **[Towards Physically Interpretable World Models: Meaningful Weakly Supervised Representations for Visual Trajectory Prediction](http://arxiv.org/abs/2412.12870v2)** | 2025-01-27 |  |
-| **[A scalable adaptive deep Koopman predictive controller for real-time optimization of mixed traffic flow](http://arxiv.org/abs/2502.00043v1)** | 2025-01-27 |  |
-| **[Beyond In-Distribution Performance: A Cross-Dataset Study of Trajectory Prediction Robustness](http://arxiv.org/abs/2501.15842v1)** | 2025-01-27 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2407.13431</p></details> |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Acquisition through My Eyes and Steps: A Joint Predictive Agent Model in Egocentric Worlds](http://arxiv.org/abs/2502.05857v1)** | 2025-02-09 |  |
+| **[AToM: Adaptive Theory-of-Mind-Based Human Motion Prediction in Long-Term Human-Robot Interactions](http://arxiv.org/abs/2502.05792v1)** | 2025-02-09 | <details><summary>submi...</summary><p>submitted to ICRA 2025</p></details> |
 | **[VideoJAM: Joint Appearance-Motion Representations for Enhanced Motion Generation in Video Models](http://arxiv.org/abs/2502.02492v1)** | 2025-02-04 |  |
 | **[Bayesian Approximation-Based Trajectory Prediction and Tracking with 4D Radar](http://arxiv.org/abs/2502.01357v1)** | 2025-02-03 | 6pages, 4 figures |
 | **[FlexCloud: Direct, Modular Georeferencing and Drift-Correction of Point Cloud Maps](http://arxiv.org/abs/2502.00395v1)** | 2025-02-01 | <details><summary>Accep...</summary><p>Accepted for publication at VEHITS 2025, Proceedings of the 11th International Conference on Vehicle Technology and Intelligent Transport Systems - VEHITS; 2025</p></details> |
@@ -37,6 +39,4 @@ labels: documentation
 | **[DiffMesh: A Motion-aware Diffusion Framework for Human Mesh Recovery from Videos](http://arxiv.org/abs/2303.13397v6)** | 2025-01-16 | WACV 2025 |
 | **[Nonisotropic Gaussian Diffusion for Realistic 3D Human Motion Prediction](http://arxiv.org/abs/2501.06035v1)** | 2025-01-10 |  |
 | **[UDMC: Unified Decision-Making and Control Framework for Urban Autonomous Driving with Motion Prediction of Traffic Participants](http://arxiv.org/abs/2501.02530v1)** | 2025-01-05 |  |
-| **[Spatio-Temporal Multi-Subgraph GCN for 3D Human Motion Prediction](http://arxiv.org/abs/2501.00317v1)** | 2024-12-31 |  |
-| **[Temporal Dynamics Decoupling with Inverse Processing for Enhancing Human Motion Prediction](http://arxiv.org/abs/2501.00315v1)** | 2024-12-31 |  |
 
