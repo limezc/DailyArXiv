@@ -1,10 +1,11 @@
 ---
-title: Latest 15 Papers - February 12, 2025
+title: Latest 15 Papers - February 13, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Online Aggregation of Trajectory Predictors](http://arxiv.org/abs/2502.07178v1)** | 2025-02-11 | 9 pages, 7 figures |
 | **[Gaussian Process-driven Hidden Markov Models for Early Diagnosis of Infant Gait Anomalies](http://arxiv.org/abs/2502.06334v1)** | 2025-02-10 |  |
 | **[Interaction-aware Conformal Prediction for Crowd Navigation](http://arxiv.org/abs/2502.06221v1)** | 2025-02-10 | <details><summary>Accep...</summary><p>Accepted by WAFR 2024</p></details> |
 | **[The $α$-Alternator: Dynamic Adaptation To Varying Noise Levels In Sequences Using The Vendi Score For Improved Robustness and Performance](http://arxiv.org/abs/2502.04593v1)** | 2025-02-07 | <details><summary>The c...</summary><p>The codebase will be made available upon publication. This paper is dedicated to Patrice Lumumba</p></details> |
@@ -19,7 +20,6 @@ labels: documentation
 | **[Dream to Drive with Predictive Individual World Model](http://arxiv.org/abs/2501.16733v1)** | 2025-01-28 | <details><summary>Codes...</summary><p>Codes: https://github.com/gaoyinfeng/PIWM</p></details> |
 | **[Toward Safe Integration of UAM in Terminal Airspace: UAM Route Feasibility Assessment using Probabilistic Aircraft Trajectory Prediction](http://arxiv.org/abs/2501.16599v1)** | 2025-01-28 | 10 pages, 7 figures |
 | **[Modular Framework for Uncertainty Prediction in Autonomous Vehicle Motion Forecasting within Complex Traffic Scenarios](http://arxiv.org/abs/2501.16480v1)** | 2025-01-27 |  |
-| **[Towards Physically Interpretable World Models: Meaningful Weakly Supervised Representations for Visual Trajectory Prediction](http://arxiv.org/abs/2412.12870v2)** | 2025-01-27 |  |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
