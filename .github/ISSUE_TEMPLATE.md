@@ -1,10 +1,13 @@
 ---
-title: Latest 15 Papers - February 13, 2025
+title: Latest 15 Papers - February 14, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Poly-Autoregressive Prediction for Modeling Interactions](http://arxiv.org/abs/2502.08646v1)** | 2025-02-12 | preprint |
+| **[Annealed Winner-Takes-All for Motion Forecasting](http://arxiv.org/abs/2409.11172v3)** | 2025-02-12 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, Accepted to ICRA2025</p></details> |
+| **[End-to-End Predictive Planner for Autonomous Driving with Consistency Models](http://arxiv.org/abs/2502.08033v1)** | 2025-02-12 |  |
 | **[Online Aggregation of Trajectory Predictors](http://arxiv.org/abs/2502.07178v1)** | 2025-02-11 | 9 pages, 7 figures |
 | **[Gaussian Process-driven Hidden Markov Models for Early Diagnosis of Infant Gait Anomalies](http://arxiv.org/abs/2502.06334v1)** | 2025-02-10 |  |
 | **[Interaction-aware Conformal Prediction for Crowd Navigation](http://arxiv.org/abs/2502.06221v1)** | 2025-02-10 | <details><summary>Accep...</summary><p>Accepted by WAFR 2024</p></details> |
@@ -17,15 +20,14 @@ labels: documentation
 | **[Interpretable Neural ODEs for Gene Regulatory Network Discovery under Perturbations](http://arxiv.org/abs/2501.02409v2)** | 2025-02-01 |  |
 | **[Large Language Models for Single-Step and Multi-Step Flight Trajectory Prediction](http://arxiv.org/abs/2501.17459v1)** | 2025-01-29 | 9 pages, 7 figures |
 | **[DISC: Dataset for Analyzing Driving Styles In Simulated Crashes for Mixed Autonomy](http://arxiv.org/abs/2502.00050v1)** | 2025-01-28 |  |
-| **[Dream to Drive with Predictive Individual World Model](http://arxiv.org/abs/2501.16733v1)** | 2025-01-28 | <details><summary>Codes...</summary><p>Codes: https://github.com/gaoyinfeng/PIWM</p></details> |
-| **[Toward Safe Integration of UAM in Terminal Airspace: UAM Route Feasibility Assessment using Probabilistic Aircraft Trajectory Prediction](http://arxiv.org/abs/2501.16599v1)** | 2025-01-28 | 10 pages, 7 figures |
-| **[Modular Framework for Uncertainty Prediction in Autonomous Vehicle Motion Forecasting within Complex Traffic Scenarios](http://arxiv.org/abs/2501.16480v1)** | 2025-01-27 |  |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Annealed Winner-Takes-All for Motion Forecasting](http://arxiv.org/abs/2409.11172v3)** | 2025-02-12 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, Accepted to ICRA2025</p></details> |
+| **[Not All Frame Features Are Equal: Video-to-4D Generation via Decoupling Dynamic-Static Features](http://arxiv.org/abs/2502.08377v1)** | 2025-02-12 |  |
+| **[AToM: Adaptive Theory-of-Mind-Based Human Motion Prediction in Long-Term Human-Robot Interactions](http://arxiv.org/abs/2502.05792v2)** | 2025-02-12 | <details><summary>submi...</summary><p>submitted to ICRA 2025</p></details> |
 | **[Acquisition through My Eyes and Steps: A Joint Predictive Agent Model in Egocentric Worlds](http://arxiv.org/abs/2502.05857v1)** | 2025-02-09 |  |
-| **[AToM: Adaptive Theory-of-Mind-Based Human Motion Prediction in Long-Term Human-Robot Interactions](http://arxiv.org/abs/2502.05792v1)** | 2025-02-09 | <details><summary>submi...</summary><p>submitted to ICRA 2025</p></details> |
 | **[VideoJAM: Joint Appearance-Motion Representations for Enhanced Motion Generation in Video Models](http://arxiv.org/abs/2502.02492v1)** | 2025-02-04 |  |
 | **[Bayesian Approximation-Based Trajectory Prediction and Tracking with 4D Radar](http://arxiv.org/abs/2502.01357v1)** | 2025-02-03 | 6pages, 4 figures |
 | **[FlexCloud: Direct, Modular Georeferencing and Drift-Correction of Point Cloud Maps](http://arxiv.org/abs/2502.00395v1)** | 2025-02-01 | <details><summary>Accep...</summary><p>Accepted for publication at VEHITS 2025, Proceedings of the 11th International Conference on Vehicle Technology and Intelligent Transport Systems - VEHITS; 2025</p></details> |
@@ -37,6 +39,4 @@ labels: documentation
 | **[STPOTR: Simultaneous Human Trajectory and Pose Prediction Using a Non-Autoregressive Transformer for Robot Following Ahead](http://arxiv.org/abs/2209.07600v4)** | 2025-01-17 |  |
 | **[ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras](http://arxiv.org/abs/2410.09374v2)** | 2025-01-17 |  |
 | **[DiffMesh: A Motion-aware Diffusion Framework for Human Mesh Recovery from Videos](http://arxiv.org/abs/2303.13397v6)** | 2025-01-16 | WACV 2025 |
-| **[Nonisotropic Gaussian Diffusion for Realistic 3D Human Motion Prediction](http://arxiv.org/abs/2501.06035v1)** | 2025-01-10 |  |
-| **[UDMC: Unified Decision-Making and Control Framework for Urban Autonomous Driving with Motion Prediction of Traffic Participants](http://arxiv.org/abs/2501.02530v1)** | 2025-01-05 |  |
 
