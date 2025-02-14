@@ -1,29 +1,30 @@
 ---
-title: Latest 15 Papers - February 14, 2025
+title: Latest 15 Papers - February 15, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Training Trajectory Predictors Without Ground-Truth Data](http://arxiv.org/abs/2502.08957v1)** | 2025-02-13 | <details><summary>6 pag...</summary><p>6 pages, 6 figures, IEEE INTELLIGENT VEHICLES SYMPOSIUM (IV 2025)</p></details> |
+| **[EPN: An Ego Vehicle Planning-Informed Network for Target Trajectory Prediction](http://arxiv.org/abs/2412.14442v2)** | 2025-02-13 |  |
 | **[Poly-Autoregressive Prediction for Modeling Interactions](http://arxiv.org/abs/2502.08646v1)** | 2025-02-12 | preprint |
 | **[Annealed Winner-Takes-All for Motion Forecasting](http://arxiv.org/abs/2409.11172v3)** | 2025-02-12 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, Accepted to ICRA2025</p></details> |
 | **[End-to-End Predictive Planner for Autonomous Driving with Consistency Models](http://arxiv.org/abs/2502.08033v1)** | 2025-02-12 |  |
 | **[Online Aggregation of Trajectory Predictors](http://arxiv.org/abs/2502.07178v1)** | 2025-02-11 | 9 pages, 7 figures |
 | **[Gaussian Process-driven Hidden Markov Models for Early Diagnosis of Infant Gait Anomalies](http://arxiv.org/abs/2502.06334v1)** | 2025-02-10 |  |
 | **[Interaction-aware Conformal Prediction for Crowd Navigation](http://arxiv.org/abs/2502.06221v1)** | 2025-02-10 | <details><summary>Accep...</summary><p>Accepted by WAFR 2024</p></details> |
+| **[Analyzable Parameters Dominated Vehicle Platoon Dynamics Modeling and Analysis: A Physics-Encoded Deep Learning Approach](http://arxiv.org/abs/2502.08658v1)** | 2025-02-09 |  |
 | **[The $α$-Alternator: Dynamic Adaptation To Varying Noise Levels In Sequences Using The Vendi Score For Improved Robustness and Performance](http://arxiv.org/abs/2502.04593v1)** | 2025-02-07 | <details><summary>The c...</summary><p>The codebase will be made available upon publication. This paper is dedicated to Patrice Lumumba</p></details> |
 | **[CUQDS: Conformal Uncertainty Quantification under Distribution Shift for Trajectory Prediction](http://arxiv.org/abs/2406.12100v4)** | 2025-02-04 | 9 pages, 2 figures |
 | **[Unified Spatial-Temporal Edge-Enhanced Graph Networks for Pedestrian Trajectory Prediction](http://arxiv.org/abs/2502.02504v1)** | 2025-02-04 |  |
 | **[Bayesian Approximation-Based Trajectory Prediction and Tracking with 4D Radar](http://arxiv.org/abs/2502.01357v1)** | 2025-02-03 | 6pages, 4 figures |
 | **[Multi-Object Active Search and Tracking by Multiple Agents in Untrusted, Dynamically Changing Environments](http://arxiv.org/abs/2502.01041v1)** | 2025-02-03 | <details><summary>Submi...</summary><p>Submitted to Autonomous Robots</p></details> |
 | **[Wizard of Shopping: Target-Oriented E-commerce Dialogue Generation with Decision Tree Branching](http://arxiv.org/abs/2502.00969v1)** | 2025-02-03 | <details><summary>Accep...</summary><p>Accepted by SIGDIAL 2024 but withdrawn</p></details> |
-| **[Interpretable Neural ODEs for Gene Regulatory Network Discovery under Perturbations](http://arxiv.org/abs/2501.02409v2)** | 2025-02-01 |  |
-| **[Large Language Models for Single-Step and Multi-Step Flight Trajectory Prediction](http://arxiv.org/abs/2501.17459v1)** | 2025-01-29 | 9 pages, 7 figures |
-| **[DISC: Dataset for Analyzing Driving Styles In Simulated Crashes for Mixed Autonomy](http://arxiv.org/abs/2502.00050v1)** | 2025-01-28 |  |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Long-Term TalkingFace Generation via Motion-Prior Conditional Diffusion Model](http://arxiv.org/abs/2502.09533v1)** | 2025-02-13 |  |
 | **[Annealed Winner-Takes-All for Motion Forecasting](http://arxiv.org/abs/2409.11172v3)** | 2025-02-12 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, Accepted to ICRA2025</p></details> |
 | **[Not All Frame Features Are Equal: Video-to-4D Generation via Decoupling Dynamic-Static Features](http://arxiv.org/abs/2502.08377v1)** | 2025-02-12 |  |
 | **[AToM: Adaptive Theory-of-Mind-Based Human Motion Prediction in Long-Term Human-Robot Interactions](http://arxiv.org/abs/2502.05792v2)** | 2025-02-12 | <details><summary>submi...</summary><p>submitted to ICRA 2025</p></details> |
@@ -38,5 +39,4 @@ labels: documentation
 | **[MambaMOT: State-Space Model as Motion Predictor for Multi-Object Tracking](http://arxiv.org/abs/2403.10826v2)** | 2025-01-21 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2025. Previous version paper title: Exploring Learning-based Motion Models in Multi-Object Tracking</p></details> |
 | **[STPOTR: Simultaneous Human Trajectory and Pose Prediction Using a Non-Autoregressive Transformer for Robot Following Ahead](http://arxiv.org/abs/2209.07600v4)** | 2025-01-17 |  |
 | **[ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras](http://arxiv.org/abs/2410.09374v2)** | 2025-01-17 |  |
-| **[DiffMesh: A Motion-aware Diffusion Framework for Human Mesh Recovery from Videos](http://arxiv.org/abs/2303.13397v6)** | 2025-01-16 | WACV 2025 |
 
