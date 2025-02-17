@@ -1,10 +1,11 @@
 ---
-title: Latest 15 Papers - February 17, 2025
+title: Latest 15 Papers - February 18, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM](http://arxiv.org/abs/2501.11893v2)** | 2025-02-14 | <details><summary>20 pa...</summary><p>20 pages, 10 figures. Submitted to T-RO Visual SLAM SI 2025</p></details> |
 | **[Training Trajectory Predictors Without Ground-Truth Data](http://arxiv.org/abs/2502.08957v1)** | 2025-02-13 | <details><summary>6 pag...</summary><p>6 pages, 6 figures, IEEE INTELLIGENT VEHICLES SYMPOSIUM (IV 2025)</p></details> |
 | **[EPN: An Ego Vehicle Planning-Informed Network for Target Trajectory Prediction](http://arxiv.org/abs/2412.14442v2)** | 2025-02-13 |  |
 | **[Poly-Autoregressive Prediction for Modeling Interactions](http://arxiv.org/abs/2502.08646v1)** | 2025-02-12 | preprint |
@@ -19,7 +20,6 @@ labels: documentation
 | **[Unified Spatial-Temporal Edge-Enhanced Graph Networks for Pedestrian Trajectory Prediction](http://arxiv.org/abs/2502.02504v1)** | 2025-02-04 |  |
 | **[Bayesian Approximation-Based Trajectory Prediction and Tracking with 4D Radar](http://arxiv.org/abs/2502.01357v1)** | 2025-02-03 | 6pages, 4 figures |
 | **[Multi-Object Active Search and Tracking by Multiple Agents in Untrusted, Dynamically Changing Environments](http://arxiv.org/abs/2502.01041v1)** | 2025-02-03 | <details><summary>Submi...</summary><p>Submitted to Autonomous Robots</p></details> |
-| **[Wizard of Shopping: Target-Oriented E-commerce Dialogue Generation with Decision Tree Branching](http://arxiv.org/abs/2502.00969v1)** | 2025-02-03 | <details><summary>Accep...</summary><p>Accepted by SIGDIAL 2024 but withdrawn</p></details> |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
