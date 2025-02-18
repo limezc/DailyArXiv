@@ -1,11 +1,13 @@
 ---
-title: Latest 15 Papers - February 18, 2025
+title: Latest 15 Papers - February 19, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Prediction uncertainty-aware planning using deep ensembles and trajectory optimisation](http://arxiv.org/abs/2502.10585v1)** | 2025-02-14 |  |
 | **[DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM](http://arxiv.org/abs/2501.11893v2)** | 2025-02-14 | <details><summary>20 pa...</summary><p>20 pages, 10 figures. Submitted to T-RO Visual SLAM SI 2025</p></details> |
+| **[Knowledge Integration Strategies in Autonomous Vehicle Prediction and Planning: A Comprehensive Survey](http://arxiv.org/abs/2502.10477v1)** | 2025-02-13 |  |
 | **[Training Trajectory Predictors Without Ground-Truth Data](http://arxiv.org/abs/2502.08957v1)** | 2025-02-13 | <details><summary>6 pag...</summary><p>6 pages, 6 figures, IEEE INTELLIGENT VEHICLES SYMPOSIUM (IV 2025)</p></details> |
 | **[EPN: An Ego Vehicle Planning-Informed Network for Target Trajectory Prediction](http://arxiv.org/abs/2412.14442v2)** | 2025-02-13 |  |
 | **[Poly-Autoregressive Prediction for Modeling Interactions](http://arxiv.org/abs/2502.08646v1)** | 2025-02-12 | preprint |
@@ -18,12 +20,12 @@ labels: documentation
 | **[The $α$-Alternator: Dynamic Adaptation To Varying Noise Levels In Sequences Using The Vendi Score For Improved Robustness and Performance](http://arxiv.org/abs/2502.04593v1)** | 2025-02-07 | <details><summary>The c...</summary><p>The codebase will be made available upon publication. This paper is dedicated to Patrice Lumumba</p></details> |
 | **[CUQDS: Conformal Uncertainty Quantification under Distribution Shift for Trajectory Prediction](http://arxiv.org/abs/2406.12100v4)** | 2025-02-04 | 9 pages, 2 figures |
 | **[Unified Spatial-Temporal Edge-Enhanced Graph Networks for Pedestrian Trajectory Prediction](http://arxiv.org/abs/2502.02504v1)** | 2025-02-04 |  |
-| **[Bayesian Approximation-Based Trajectory Prediction and Tracking with 4D Radar](http://arxiv.org/abs/2502.01357v1)** | 2025-02-03 | 6pages, 4 figures |
-| **[Multi-Object Active Search and Tracking by Multiple Agents in Untrusted, Dynamically Changing Environments](http://arxiv.org/abs/2502.01041v1)** | 2025-02-03 | <details><summary>Submi...</summary><p>Submitted to Autonomous Robots</p></details> |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Survey of World Models for Autonomous Driving](http://arxiv.org/abs/2501.11260v2)** | 2025-02-16 | Ongoing project |
+| **[Semantics-aware Test-time Adaptation for 3D Human Pose Estimation](http://arxiv.org/abs/2502.10724v1)** | 2025-02-15 | 10 pages, 4 figures |
 | **[Long-Term TalkingFace Generation via Motion-Prior Conditional Diffusion Model](http://arxiv.org/abs/2502.09533v1)** | 2025-02-13 |  |
 | **[Annealed Winner-Takes-All for Motion Forecasting](http://arxiv.org/abs/2409.11172v3)** | 2025-02-12 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, Accepted to ICRA2025</p></details> |
 | **[Not All Frame Features Are Equal: Video-to-4D Generation via Decoupling Dynamic-Static Features](http://arxiv.org/abs/2502.08377v1)** | 2025-02-12 |  |
@@ -37,6 +39,4 @@ labels: documentation
 | **[The Components of Collaborative Joint Perception and Prediction -- A Conceptual Framework](http://arxiv.org/abs/2501.15860v1)** | 2025-01-27 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, accepted by conference VEHITS2025</p></details> |
 | **[Towards Real-World Validation of a Physics-Based Ship Motion Prediction Model](http://arxiv.org/abs/2501.13804v1)** | 2025-01-23 |  |
 | **[MambaMOT: State-Space Model as Motion Predictor for Multi-Object Tracking](http://arxiv.org/abs/2403.10826v2)** | 2025-01-21 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2025. Previous version paper title: Exploring Learning-based Motion Models in Multi-Object Tracking</p></details> |
-| **[STPOTR: Simultaneous Human Trajectory and Pose Prediction Using a Non-Autoregressive Transformer for Robot Following Ahead](http://arxiv.org/abs/2209.07600v4)** | 2025-01-17 |  |
-| **[ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras](http://arxiv.org/abs/2410.09374v2)** | 2025-01-17 |  |
 
