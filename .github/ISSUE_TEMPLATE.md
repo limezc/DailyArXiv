@@ -1,10 +1,11 @@
 ---
-title: Latest 15 Papers - February 21, 2025
+title: Latest 15 Papers - February 22, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BP-SGCN: Behavioral Pseudo-Label Informed Sparse Graph Convolution Network for Pedestrian and Heterogeneous Trajectory Prediction](http://arxiv.org/abs/2502.14676v1)** | 2025-02-20 |  |
 | **[Gradient-based Trajectory Optimization with Parallelized Differentiable Traffic Simulation](http://arxiv.org/abs/2412.16750v2)** | 2025-02-18 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 3 tables</p></details> |
 | **[Prediction uncertainty-aware planning using deep ensembles and trajectory optimisation](http://arxiv.org/abs/2502.10585v1)** | 2025-02-14 |  |
 | **[DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM](http://arxiv.org/abs/2501.11893v2)** | 2025-02-14 | <details><summary>20 pa...</summary><p>20 pages, 10 figures. Submitted to T-RO Visual SLAM SI 2025</p></details> |
@@ -19,7 +20,6 @@ labels: documentation
 | **[Interaction-aware Conformal Prediction for Crowd Navigation](http://arxiv.org/abs/2502.06221v1)** | 2025-02-10 | <details><summary>Accep...</summary><p>Accepted by WAFR 2024</p></details> |
 | **[Analyzable Parameters Dominated Vehicle Platoon Dynamics Modeling and Analysis: A Physics-Encoded Deep Learning Approach](http://arxiv.org/abs/2502.08658v1)** | 2025-02-09 |  |
 | **[The $α$-Alternator: Dynamic Adaptation To Varying Noise Levels In Sequences Using The Vendi Score For Improved Robustness and Performance](http://arxiv.org/abs/2502.04593v1)** | 2025-02-07 | <details><summary>The c...</summary><p>The codebase will be made available upon publication. This paper is dedicated to Patrice Lumumba</p></details> |
-| **[CUQDS: Conformal Uncertainty Quantification under Distribution Shift for Trajectory Prediction](http://arxiv.org/abs/2406.12100v4)** | 2025-02-04 | 9 pages, 2 figures |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
