@@ -1,11 +1,14 @@
 ---
-title: Latest 15 Papers - February 25, 2025
+title: Latest 15 Papers - February 26, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[BP-SGCN: Behavioral Pseudo-Label Informed Sparse Graph Convolution Network for Pedestrian and Heterogeneous Trajectory Prediction](http://arxiv.org/abs/2502.14676v1)** | 2025-02-20 |  |
+| **[Characterizing Structured versus Unstructured Environments based on Pedestrians' and Vehicles' Motion Trajectories](http://arxiv.org/abs/2502.16847v1)** | 2025-02-24 |  |
+| **[Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving](http://arxiv.org/abs/2502.16589v1)** | 2025-02-23 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, ICRA 2025</p></details> |
+| **[An Expert Ensemble for Detecting Anomalous Scenes, Interactions, and Behaviors in Autonomous Driving](http://arxiv.org/abs/2502.16389v1)** | 2025-02-23 | <details><summary>Accep...</summary><p>Accepted by International Journal of Robotics Research (IJRR)</p></details> |
+| **[BP-SGCN: Behavioral Pseudo-Label Informed Sparse Graph Convolution Network for Pedestrian and Heterogeneous Trajectory Prediction](http://arxiv.org/abs/2502.14676v2)** | 2025-02-21 |  |
 | **[Gradient-based Trajectory Optimization with Parallelized Differentiable Traffic Simulation](http://arxiv.org/abs/2412.16750v2)** | 2025-02-18 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 3 tables</p></details> |
 | **[Prediction uncertainty-aware planning using deep ensembles and trajectory optimisation](http://arxiv.org/abs/2502.10585v1)** | 2025-02-14 |  |
 | **[DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM](http://arxiv.org/abs/2501.11893v2)** | 2025-02-14 | <details><summary>20 pa...</summary><p>20 pages, 10 figures. Submitted to T-RO Visual SLAM SI 2025</p></details> |
@@ -17,13 +20,12 @@ labels: documentation
 | **[End-to-End Predictive Planner for Autonomous Driving with Consistency Models](http://arxiv.org/abs/2502.08033v1)** | 2025-02-12 |  |
 | **[Online Aggregation of Trajectory Predictors](http://arxiv.org/abs/2502.07178v1)** | 2025-02-11 | 9 pages, 7 figures |
 | **[Gaussian Process-driven Hidden Markov Models for Early Diagnosis of Infant Gait Anomalies](http://arxiv.org/abs/2502.06334v1)** | 2025-02-10 |  |
-| **[Interaction-aware Conformal Prediction for Crowd Navigation](http://arxiv.org/abs/2502.06221v1)** | 2025-02-10 | <details><summary>Accep...</summary><p>Accepted by WAFR 2024</p></details> |
-| **[Analyzable Parameters Dominated Vehicle Platoon Dynamics Modeling and Analysis: A Physics-Encoded Deep Learning Approach](http://arxiv.org/abs/2502.08658v1)** | 2025-02-09 |  |
-| **[The $α$-Alternator: Dynamic Adaptation To Varying Noise Levels In Sequences Using The Vendi Score For Improved Robustness and Performance](http://arxiv.org/abs/2502.04593v1)** | 2025-02-07 | <details><summary>The c...</summary><p>The codebase will be made available upon publication. This paper is dedicated to Patrice Lumumba</p></details> |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HVIS: A Human-like Vision and Inference System for Human Motion Prediction](http://arxiv.org/abs/2502.16913v1)** | 2025-02-24 |  |
+| **[Human Motion Prediction, Reconstruction, and Generation](http://arxiv.org/abs/2502.15956v1)** | 2025-02-21 | Tech report |
 | **[State estimation of marine vessels affected by waves by unmanned aerial vehicles](http://arxiv.org/abs/2410.05186v2)** | 2025-02-18 |  |
 | **[A Survey of World Models for Autonomous Driving](http://arxiv.org/abs/2501.11260v2)** | 2025-02-16 | Ongoing project |
 | **[Semantics-aware Test-time Adaptation for 3D Human Pose Estimation](http://arxiv.org/abs/2502.10724v1)** | 2025-02-15 | 10 pages, 4 figures |
@@ -37,6 +39,4 @@ labels: documentation
 | **[FlexCloud: Direct, Modular Georeferencing and Drift-Correction of Point Cloud Maps](http://arxiv.org/abs/2502.00395v1)** | 2025-02-01 | <details><summary>Accep...</summary><p>Accepted for publication at VEHITS 2025, Proceedings of the 11th International Conference on Vehicle Technology and Intelligent Transport Systems - VEHITS; 2025</p></details> |
 | **[Overcoming Semantic Dilution in Transformer-Based Next Frame Prediction](http://arxiv.org/abs/2501.16753v1)** | 2025-01-28 |  |
 | **[PackDiT: Joint Human Motion and Text Generation via Mutual Prompting](http://arxiv.org/abs/2501.16551v1)** | 2025-01-27 |  |
-| **[The Components of Collaborative Joint Perception and Prediction -- A Conceptual Framework](http://arxiv.org/abs/2501.15860v1)** | 2025-01-27 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, accepted by conference VEHITS2025</p></details> |
-| **[Towards Real-World Validation of a Physics-Based Ship Motion Prediction Model](http://arxiv.org/abs/2501.13804v1)** | 2025-01-23 |  |
 
