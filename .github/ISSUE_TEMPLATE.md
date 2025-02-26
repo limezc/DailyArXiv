@@ -1,12 +1,14 @@
 ---
-title: Latest 15 Papers - February 26, 2025
+title: Latest 15 Papers - February 27, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving](http://arxiv.org/abs/2502.16589v2)** | 2025-02-25 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, ICRA 2025</p></details> |
+| **[Patient Trajectory Prediction: Integrating Clinical Notes with Transformers](http://arxiv.org/abs/2502.18009v1)** | 2025-02-25 |  |
+| **[Learning System Dynamics without Forgetting](http://arxiv.org/abs/2407.00717v2)** | 2025-02-25 |  |
 | **[Characterizing Structured versus Unstructured Environments based on Pedestrians' and Vehicles' Motion Trajectories](http://arxiv.org/abs/2502.16847v1)** | 2025-02-24 |  |
-| **[Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving](http://arxiv.org/abs/2502.16589v1)** | 2025-02-23 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, ICRA 2025</p></details> |
 | **[An Expert Ensemble for Detecting Anomalous Scenes, Interactions, and Behaviors in Autonomous Driving](http://arxiv.org/abs/2502.16389v1)** | 2025-02-23 | <details><summary>Accep...</summary><p>Accepted by International Journal of Robotics Research (IJRR)</p></details> |
 | **[BP-SGCN: Behavioral Pseudo-Label Informed Sparse Graph Convolution Network for Pedestrian and Heterogeneous Trajectory Prediction](http://arxiv.org/abs/2502.14676v2)** | 2025-02-21 |  |
 | **[Gradient-based Trajectory Optimization with Parallelized Differentiable Traffic Simulation](http://arxiv.org/abs/2412.16750v2)** | 2025-02-18 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 3 tables</p></details> |
@@ -18,8 +20,6 @@ labels: documentation
 | **[Poly-Autoregressive Prediction for Modeling Interactions](http://arxiv.org/abs/2502.08646v1)** | 2025-02-12 | preprint |
 | **[Annealed Winner-Takes-All for Motion Forecasting](http://arxiv.org/abs/2409.11172v3)** | 2025-02-12 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, Accepted to ICRA2025</p></details> |
 | **[End-to-End Predictive Planner for Autonomous Driving with Consistency Models](http://arxiv.org/abs/2502.08033v1)** | 2025-02-12 |  |
-| **[Online Aggregation of Trajectory Predictors](http://arxiv.org/abs/2502.07178v1)** | 2025-02-11 | 9 pages, 7 figures |
-| **[Gaussian Process-driven Hidden Markov Models for Early Diagnosis of Infant Gait Anomalies](http://arxiv.org/abs/2502.06334v1)** | 2025-02-10 |  |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
