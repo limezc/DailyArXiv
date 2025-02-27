@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 27, 2025
+title: Latest 15 Papers - February 28, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
@@ -24,6 +24,7 @@ labels: documentation
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Interpretable Data-Driven Ship Dynamics Model: Enhancing Physics-Based Motion Prediction with Parameter Optimization](http://arxiv.org/abs/2502.18696v1)** | 2025-02-25 |  |
 | **[HVIS: A Human-like Vision and Inference System for Human Motion Prediction](http://arxiv.org/abs/2502.16913v1)** | 2025-02-24 |  |
 | **[Human Motion Prediction, Reconstruction, and Generation](http://arxiv.org/abs/2502.15956v1)** | 2025-02-21 | Tech report |
 | **[State estimation of marine vessels affected by waves by unmanned aerial vehicles](http://arxiv.org/abs/2410.05186v2)** | 2025-02-18 |  |
@@ -38,5 +39,4 @@ labels: documentation
 | **[Bayesian Approximation-Based Trajectory Prediction and Tracking with 4D Radar](http://arxiv.org/abs/2502.01357v1)** | 2025-02-03 | 6pages, 4 figures |
 | **[FlexCloud: Direct, Modular Georeferencing and Drift-Correction of Point Cloud Maps](http://arxiv.org/abs/2502.00395v1)** | 2025-02-01 | <details><summary>Accep...</summary><p>Accepted for publication at VEHITS 2025, Proceedings of the 11th International Conference on Vehicle Technology and Intelligent Transport Systems - VEHITS; 2025</p></details> |
 | **[Overcoming Semantic Dilution in Transformer-Based Next Frame Prediction](http://arxiv.org/abs/2501.16753v1)** | 2025-01-28 |  |
-| **[PackDiT: Joint Human Motion and Text Generation via Mutual Prompting](http://arxiv.org/abs/2501.16551v1)** | 2025-01-27 |  |
 
