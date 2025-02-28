@@ -1,10 +1,12 @@
 ---
-title: Latest 15 Papers - February 28, 2025
+title: Latest 15 Papers - March 01, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Minds on the Move: Decoding Trajectory Prediction in Autonomous Driving with Cognitive Insights](http://arxiv.org/abs/2502.20084v1)** | 2025-02-27 |  |
+| **[Sports-Traj: A Unified Trajectory Generation Model for Multi-Agent Movement in Sports](http://arxiv.org/abs/2405.17680v2)** | 2025-02-26 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025. Datasets, code, and model weights are available at: https://github.com/colorfulfuture/UniTraj-pytorch</p></details> |
 | **[Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving](http://arxiv.org/abs/2502.16589v2)** | 2025-02-25 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, ICRA 2025</p></details> |
 | **[Patient Trajectory Prediction: Integrating Clinical Notes with Transformers](http://arxiv.org/abs/2502.18009v1)** | 2025-02-25 |  |
 | **[Learning System Dynamics without Forgetting](http://arxiv.org/abs/2407.00717v2)** | 2025-02-25 |  |
@@ -18,12 +20,11 @@ labels: documentation
 | **[Training Trajectory Predictors Without Ground-Truth Data](http://arxiv.org/abs/2502.08957v1)** | 2025-02-13 | <details><summary>6 pag...</summary><p>6 pages, 6 figures, IEEE INTELLIGENT VEHICLES SYMPOSIUM (IV 2025)</p></details> |
 | **[EPN: An Ego Vehicle Planning-Informed Network for Target Trajectory Prediction](http://arxiv.org/abs/2412.14442v2)** | 2025-02-13 |  |
 | **[Poly-Autoregressive Prediction for Modeling Interactions](http://arxiv.org/abs/2502.08646v1)** | 2025-02-12 | preprint |
-| **[Annealed Winner-Takes-All for Motion Forecasting](http://arxiv.org/abs/2409.11172v3)** | 2025-02-12 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, Accepted to ICRA2025</p></details> |
-| **[End-to-End Predictive Planner for Autonomous Driving with Consistency Models](http://arxiv.org/abs/2502.08033v1)** | 2025-02-12 |  |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SmartPretrain: Model-Agnostic and Dataset-Agnostic Representation Learning for Motion Prediction](http://arxiv.org/abs/2410.08669v2)** | 2025-02-27 | <details><summary>Camer...</summary><p>Camera-ready version for ICLR 2025</p></details> |
 | **[Interpretable Data-Driven Ship Dynamics Model: Enhancing Physics-Based Motion Prediction with Parameter Optimization](http://arxiv.org/abs/2502.18696v1)** | 2025-02-25 |  |
 | **[HVIS: A Human-like Vision and Inference System for Human Motion Prediction](http://arxiv.org/abs/2502.16913v1)** | 2025-02-24 |  |
 | **[Human Motion Prediction, Reconstruction, and Generation](http://arxiv.org/abs/2502.15956v1)** | 2025-02-21 | Tech report |
@@ -38,5 +39,4 @@ labels: documentation
 | **[VideoJAM: Joint Appearance-Motion Representations for Enhanced Motion Generation in Video Models](http://arxiv.org/abs/2502.02492v1)** | 2025-02-04 |  |
 | **[Bayesian Approximation-Based Trajectory Prediction and Tracking with 4D Radar](http://arxiv.org/abs/2502.01357v1)** | 2025-02-03 | 6pages, 4 figures |
 | **[FlexCloud: Direct, Modular Georeferencing and Drift-Correction of Point Cloud Maps](http://arxiv.org/abs/2502.00395v1)** | 2025-02-01 | <details><summary>Accep...</summary><p>Accepted for publication at VEHITS 2025, Proceedings of the 11th International Conference on Vehicle Technology and Intelligent Transport Systems - VEHITS; 2025</p></details> |
-| **[Overcoming Semantic Dilution in Transformer-Based Next Frame Prediction](http://arxiv.org/abs/2501.16753v1)** | 2025-01-28 |  |
 
