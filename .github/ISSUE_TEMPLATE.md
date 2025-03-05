@@ -1,11 +1,14 @@
 ---
-title: Latest 15 Papers - March 05, 2025
+title: Latest 15 Papers - March 06, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Interpretable Interaction Modeling for Trajectory Prediction via Agent Selection and Physical Coefficient](http://arxiv.org/abs/2405.13152v4)** | 2025-03-04 | <details><summary>code:...</summary><p>code:https://github.com/kkk00714/ASPILin</p></details> |
+| **[DeLTa: A Decoding Strategy based on Logit Trajectory Prediction Improves Factuality and Reasoning Ability](http://arxiv.org/abs/2503.02343v1)** | 2025-03-04 | <details><summary>Sourc...</summary><p>Source code is available at https://github.com/githubhyz/DeLTa</p></details> |
 | **[GDTS: Goal-Guided Diffusion Model with Tree Sampling for Multi-Modal Pedestrian Trajectory Prediction](http://arxiv.org/abs/2311.14922v3)** | 2025-03-03 |  |
+| **[TRACE: A Self-Improving Framework for Robot Behavior Forecasting with Vision-Language Models](http://arxiv.org/abs/2503.00761v1)** | 2025-03-02 |  |
 | **[RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete](http://arxiv.org/abs/2502.21257v1)** | 2025-02-28 |  |
 | **[Stochasticity in Motion: An Information-Theoretic Approach to Trajectory Prediction](http://arxiv.org/abs/2410.01628v3)** | 2025-02-28 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, submitted to International Conference on Intelligent Robots and Systems (IROS 2025)</p></details> |
 | **[Enhancing End-to-End Autonomous Driving with Latent World Model](http://arxiv.org/abs/2406.08481v2)** | 2025-02-28 | ICLR 2025 |
@@ -17,15 +20,14 @@ labels: documentation
 | **[Learning System Dynamics without Forgetting](http://arxiv.org/abs/2407.00717v2)** | 2025-02-25 |  |
 | **[Characterizing Structured versus Unstructured Environments based on Pedestrians' and Vehicles' Motion Trajectories](http://arxiv.org/abs/2502.16847v1)** | 2025-02-24 |  |
 | **[An Expert Ensemble for Detecting Anomalous Scenes, Interactions, and Behaviors in Autonomous Driving](http://arxiv.org/abs/2502.16389v1)** | 2025-02-23 | <details><summary>Accep...</summary><p>Accepted by International Journal of Robotics Research (IJRR)</p></details> |
-| **[BP-SGCN: Behavioral Pseudo-Label Informed Sparse Graph Convolution Network for Pedestrian and Heterogeneous Trajectory Prediction](http://arxiv.org/abs/2502.14676v2)** | 2025-02-21 |  |
-| **[Gradient-based Trajectory Optimization with Parallelized Differentiable Traffic Simulation](http://arxiv.org/abs/2412.16750v2)** | 2025-02-18 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 3 tables</p></details> |
-| **[Prediction uncertainty-aware planning using deep ensembles and trajectory optimisation](http://arxiv.org/abs/2502.10585v1)** | 2025-02-14 |  |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Controllable Motion Generation via Diffusion Modal Coupling](http://arxiv.org/abs/2503.02353v1)** | 2025-03-04 |  |
 | **[Interpretable Data-Driven Ship Dynamics Model: Enhancing Physics-Based Motion Prediction with Parameter Optimization](http://arxiv.org/abs/2502.18696v2)** | 2025-03-03 |  |
 | **[ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras](http://arxiv.org/abs/2410.09374v3)** | 2025-03-03 |  |
+| **[Enhancing Context-Aware Human Motion Prediction for Efficient Robot Handovers](http://arxiv.org/abs/2503.00576v1)** | 2025-03-01 | 7 pages, 3 figures |
 | **[Stochasticity in Motion: An Information-Theoretic Approach to Trajectory Prediction](http://arxiv.org/abs/2410.01628v3)** | 2025-02-28 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, submitted to International Conference on Intelligent Robots and Systems (IROS 2025)</p></details> |
 | **[SmartPretrain: Model-Agnostic and Dataset-Agnostic Representation Learning for Motion Prediction](http://arxiv.org/abs/2410.08669v2)** | 2025-02-27 | <details><summary>Camer...</summary><p>Camera-ready version for ICLR 2025</p></details> |
 | **[HVIS: A Human-like Vision and Inference System for Human Motion Prediction](http://arxiv.org/abs/2502.16913v1)** | 2025-02-24 |  |
@@ -37,6 +39,4 @@ labels: documentation
 | **[Annealed Winner-Takes-All for Motion Forecasting](http://arxiv.org/abs/2409.11172v3)** | 2025-02-12 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, Accepted to ICRA2025</p></details> |
 | **[Not All Frame Features Are Equal: Video-to-4D Generation via Decoupling Dynamic-Static Features](http://arxiv.org/abs/2502.08377v1)** | 2025-02-12 |  |
 | **[AToM: Adaptive Theory-of-Mind-Based Human Motion Prediction in Long-Term Human-Robot Interactions](http://arxiv.org/abs/2502.05792v2)** | 2025-02-12 | <details><summary>submi...</summary><p>submitted to ICRA 2025</p></details> |
-| **[Acquisition through My Eyes and Steps: A Joint Predictive Agent Model in Egocentric Worlds](http://arxiv.org/abs/2502.05857v1)** | 2025-02-09 |  |
-| **[VideoJAM: Joint Appearance-Motion Representations for Enhanced Motion Generation in Video Models](http://arxiv.org/abs/2502.02492v1)** | 2025-02-04 |  |
 
