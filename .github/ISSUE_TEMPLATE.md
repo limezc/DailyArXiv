@@ -1,10 +1,14 @@
 ---
-title: Latest 15 Papers - March 06, 2025
+title: Latest 15 Papers - March 07, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Digital Twin-Enabled Blockage-Aware Dynamic mmWave Multi-Hop V2X Communication](http://arxiv.org/abs/2503.03590v1)** | 2025-03-05 |  |
+| **[Unified Human Localization and Trajectory Prediction with Monocular Vision](http://arxiv.org/abs/2503.03535v1)** | 2025-03-05 | ICRA 2025 |
+| **[Trajectory Prediction for Autonomous Driving: Progress, Limitations, and Future Directions](http://arxiv.org/abs/2503.03262v1)** | 2025-03-05 |  |
+| **[Don't Shake the Wheel: Momentum-Aware Planning in End-to-End Autonomous Driving](http://arxiv.org/abs/2503.03125v1)** | 2025-03-05 | 16 pages, 8 figures |
 | **[Interpretable Interaction Modeling for Trajectory Prediction via Agent Selection and Physical Coefficient](http://arxiv.org/abs/2405.13152v4)** | 2025-03-04 | <details><summary>code:...</summary><p>code:https://github.com/kkk00714/ASPILin</p></details> |
 | **[DeLTa: A Decoding Strategy based on Logit Trajectory Prediction Improves Factuality and Reasoning Ability](http://arxiv.org/abs/2503.02343v1)** | 2025-03-04 | <details><summary>Sourc...</summary><p>Source code is available at https://github.com/githubhyz/DeLTa</p></details> |
 | **[GDTS: Goal-Guided Diffusion Model with Tree Sampling for Multi-Modal Pedestrian Trajectory Prediction](http://arxiv.org/abs/2311.14922v3)** | 2025-03-03 |  |
@@ -16,10 +20,6 @@ labels: documentation
 | **[Minds on the Move: Decoding Trajectory Prediction in Autonomous Driving with Cognitive Insights](http://arxiv.org/abs/2502.20084v1)** | 2025-02-27 |  |
 | **[Sports-Traj: A Unified Trajectory Generation Model for Multi-Agent Movement in Sports](http://arxiv.org/abs/2405.17680v2)** | 2025-02-26 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025. Datasets, code, and model weights are available at: https://github.com/colorfulfuture/UniTraj-pytorch</p></details> |
 | **[Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving](http://arxiv.org/abs/2502.16589v2)** | 2025-02-25 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, ICRA 2025</p></details> |
-| **[Patient Trajectory Prediction: Integrating Clinical Notes with Transformers](http://arxiv.org/abs/2502.18009v1)** | 2025-02-25 |  |
-| **[Learning System Dynamics without Forgetting](http://arxiv.org/abs/2407.00717v2)** | 2025-02-25 |  |
-| **[Characterizing Structured versus Unstructured Environments based on Pedestrians' and Vehicles' Motion Trajectories](http://arxiv.org/abs/2502.16847v1)** | 2025-02-24 |  |
-| **[An Expert Ensemble for Detecting Anomalous Scenes, Interactions, and Behaviors in Autonomous Driving](http://arxiv.org/abs/2502.16389v1)** | 2025-02-23 | <details><summary>Accep...</summary><p>Accepted by International Journal of Robotics Research (IJRR)</p></details> |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
