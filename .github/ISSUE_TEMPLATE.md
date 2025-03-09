@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 09, 2025
+title: Latest 15 Papers - March 10, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
