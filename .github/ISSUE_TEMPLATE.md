@@ -1,25 +1,25 @@
 ---
-title: Latest 15 Papers - March 10, 2025
+title: Latest 15 Papers - March 11, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Evidential Uncertainty Estimation for Multi-Modal Trajectory Prediction](http://arxiv.org/abs/2503.05274v1)** | 2025-03-07 |  |
+| **[Feedback Favors the Generalization of Neural ODEs](http://arxiv.org/abs/2410.10253v3)** | 2025-03-07 | 27 pages, 23 figures |
+| **[Curb Your Attention: Causal Attention Gating for Robust Trajectory Prediction in Autonomous Driving](http://arxiv.org/abs/2410.07191v2)** | 2025-03-06 | Accepted ICRA 2025 |
+| **[INTENT: Trajectory Prediction Framework with Intention-Guided Contrastive Clustering](http://arxiv.org/abs/2503.04952v1)** | 2025-03-06 |  |
 | **[Don't Shake the Wheel: Momentum-Aware Planning in End-to-End Autonomous Driving](http://arxiv.org/abs/2503.03125v2)** | 2025-03-06 | 16 pages, 8 figures |
 | **[Digital Twin-Enabled Blockage-Aware Dynamic mmWave Multi-Hop V2X Communication](http://arxiv.org/abs/2503.03590v1)** | 2025-03-05 |  |
 | **[Unified Human Localization and Trajectory Prediction with Monocular Vision](http://arxiv.org/abs/2503.03535v1)** | 2025-03-05 | ICRA 2025 |
 | **[Trajectory Prediction for Autonomous Driving: Progress, Limitations, and Future Directions](http://arxiv.org/abs/2503.03262v1)** | 2025-03-05 |  |
+| **[DA-STGCN: 4D Trajectory Prediction Based on Spatiotemporal Feature Extraction](http://arxiv.org/abs/2503.04823v1)** | 2025-03-05 |  |
 | **[Interpretable Interaction Modeling for Trajectory Prediction via Agent Selection and Physical Coefficient](http://arxiv.org/abs/2405.13152v4)** | 2025-03-04 | <details><summary>code:...</summary><p>code:https://github.com/kkk00714/ASPILin</p></details> |
 | **[DeLTa: A Decoding Strategy based on Logit Trajectory Prediction Improves Factuality and Reasoning Ability](http://arxiv.org/abs/2503.02343v1)** | 2025-03-04 | <details><summary>Sourc...</summary><p>Source code is available at https://github.com/githubhyz/DeLTa</p></details> |
 | **[GDTS: Goal-Guided Diffusion Model with Tree Sampling for Multi-Modal Pedestrian Trajectory Prediction](http://arxiv.org/abs/2311.14922v3)** | 2025-03-03 |  |
 | **[TRACE: A Self-Improving Framework for Robot Behavior Forecasting with Vision-Language Models](http://arxiv.org/abs/2503.00761v1)** | 2025-03-02 |  |
 | **[RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete](http://arxiv.org/abs/2502.21257v1)** | 2025-02-28 |  |
 | **[Stochasticity in Motion: An Information-Theoretic Approach to Trajectory Prediction](http://arxiv.org/abs/2410.01628v3)** | 2025-02-28 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, submitted to International Conference on Intelligent Robots and Systems (IROS 2025)</p></details> |
-| **[Enhancing End-to-End Autonomous Driving with Latent World Model](http://arxiv.org/abs/2406.08481v2)** | 2025-02-28 | ICLR 2025 |
-| **[Feedback Favors the Generalization of Neural ODEs](http://arxiv.org/abs/2410.10253v2)** | 2025-02-28 | 27 pages, 23 figures |
-| **[Minds on the Move: Decoding Trajectory Prediction in Autonomous Driving with Cognitive Insights](http://arxiv.org/abs/2502.20084v1)** | 2025-02-27 |  |
-| **[Sports-Traj: A Unified Trajectory Generation Model for Multi-Agent Movement in Sports](http://arxiv.org/abs/2405.17680v2)** | 2025-02-26 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025. Datasets, code, and model weights are available at: https://github.com/colorfulfuture/UniTraj-pytorch</p></details> |
-| **[Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving](http://arxiv.org/abs/2502.16589v2)** | 2025-02-25 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, ICRA 2025</p></details> |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
