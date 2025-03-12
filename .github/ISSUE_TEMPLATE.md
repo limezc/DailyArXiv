@@ -1,10 +1,14 @@
 ---
-title: Latest 15 Papers - March 12, 2025
+title: Latest 15 Papers - March 13, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HiP-AD: Hierarchical and Multi-Granularity Planning with Deformable Attention for Autonomous Driving in a Single Decoder](http://arxiv.org/abs/2503.08612v1)** | 2025-03-11 |  |
+| **[STGDPM:Vessel Trajectory Prediction with Spatio-Temporal Graph Diffusion Probabilistic Model](http://arxiv.org/abs/2503.08065v1)** | 2025-03-11 | <details><summary>This ...</summary><p>This paper has been ACCEPTED as a FULL PAPER at DASFAA 2025</p></details> |
+| **[Behavior-Inspired Neural Networks for Relational Inference](http://arxiv.org/abs/2406.14746v3)** | 2025-03-11 | <details><summary>Accep...</summary><p>Accept to The 28th International Conference on Artificial Intelligence and Statistics (AISTATS 2025)</p></details> |
+| **[SGNetPose+: Stepwise Goal-Driven Networks with Pose Information for Trajectory Prediction in Autonomous Driving](http://arxiv.org/abs/2503.08016v1)** | 2025-03-11 |  |
 | **[CATPlan: Loss-based Collision Prediction in End-to-End Autonomous Driving](http://arxiv.org/abs/2503.07425v1)** | 2025-03-10 |  |
 | **[Digital Twin-Enabled Blockage-Aware Dynamic mmWave Multi-Hop V2X Communication](http://arxiv.org/abs/2503.03590v2)** | 2025-03-10 |  |
 | **[GUIDE-CoT: Goal-driven and User-Informed Dynamic Estimation for Pedestrian Trajectory using Chain-of-Thought](http://arxiv.org/abs/2503.06832v1)** | 2025-03-10 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, will be published on The 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025)</p></details> |
@@ -16,10 +20,6 @@ labels: documentation
 | **[Evidential Uncertainty Estimation for Multi-Modal Trajectory Prediction](http://arxiv.org/abs/2503.05274v1)** | 2025-03-07 |  |
 | **[Feedback Favors the Generalization of Neural ODEs](http://arxiv.org/abs/2410.10253v3)** | 2025-03-07 | 27 pages, 23 figures |
 | **[Curb Your Attention: Causal Attention Gating for Robust Trajectory Prediction in Autonomous Driving](http://arxiv.org/abs/2410.07191v2)** | 2025-03-06 | Accepted ICRA 2025 |
-| **[INTENT: Trajectory Prediction Framework with Intention-Guided Contrastive Clustering](http://arxiv.org/abs/2503.04952v1)** | 2025-03-06 |  |
-| **[Don't Shake the Wheel: Momentum-Aware Planning in End-to-End Autonomous Driving](http://arxiv.org/abs/2503.03125v2)** | 2025-03-06 | 16 pages, 8 figures |
-| **[Unified Human Localization and Trajectory Prediction with Monocular Vision](http://arxiv.org/abs/2503.03535v1)** | 2025-03-05 | ICRA 2025 |
-| **[Trajectory Prediction for Autonomous Driving: Progress, Limitations, and Future Directions](http://arxiv.org/abs/2503.03262v1)** | 2025-03-05 |  |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
