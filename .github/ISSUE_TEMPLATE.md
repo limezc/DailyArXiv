@@ -1,10 +1,13 @@
 ---
-title: Latest 15 Papers - March 13, 2025
+title: Latest 15 Papers - March 14, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Post-interactive Multimodal Trajectory Prediction for Autonomous Driving](http://arxiv.org/abs/2503.09366v1)** | 2025-03-12 |  |
+| **[SICNav-Diffusion: Safe and Interactive Crowd Navigation with Diffusion Trajectory Predictions](http://arxiv.org/abs/2503.08858v1)** | 2025-03-11 |  |
+| **[Conformal Trajectory Prediction with Multi-View Data Integration in Cooperative Driving](http://arxiv.org/abs/2408.00374v3)** | 2025-03-11 |  |
 | **[HiP-AD: Hierarchical and Multi-Granularity Planning with Deformable Attention for Autonomous Driving in a Single Decoder](http://arxiv.org/abs/2503.08612v1)** | 2025-03-11 |  |
 | **[STGDPM:Vessel Trajectory Prediction with Spatio-Temporal Graph Diffusion Probabilistic Model](http://arxiv.org/abs/2503.08065v1)** | 2025-03-11 | <details><summary>This ...</summary><p>This paper has been ACCEPTED as a FULL PAPER at DASFAA 2025</p></details> |
 | **[Behavior-Inspired Neural Networks for Relational Inference](http://arxiv.org/abs/2406.14746v3)** | 2025-03-11 | <details><summary>Accep...</summary><p>Accept to The 28th International Conference on Artificial Intelligence and Statistics (AISTATS 2025)</p></details> |
@@ -17,13 +20,12 @@ labels: documentation
 | **[Recursively Feasible Chance-constrained Model Predictive Control under Gaussian Mixture Model Uncertainty](http://arxiv.org/abs/2401.03799v2)** | 2025-03-08 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Control Systems Technology SI: Intelligent Decision Making, Planning and Control of Automated Vehicles</p></details> |
 | **[TransParking: A Dual-Decoder Transformer Framework with Soft Localization for End-to-End Automatic Parking](http://arxiv.org/abs/2503.06071v1)** | 2025-03-08 |  |
 | **[Universal Framework to Evaluate Automotive Perception Sensor Impact on Perception Functions](http://arxiv.org/abs/2503.05939v1)** | 2025-03-07 | 11 pages, 10 figures |
-| **[Evidential Uncertainty Estimation for Multi-Modal Trajectory Prediction](http://arxiv.org/abs/2503.05274v1)** | 2025-03-07 |  |
-| **[Feedback Favors the Generalization of Neural ODEs](http://arxiv.org/abs/2410.10253v3)** | 2025-03-07 | 27 pages, 23 figures |
-| **[Curb Your Attention: Causal Attention Gating for Robust Trajectory Prediction in Autonomous Driving](http://arxiv.org/abs/2410.07191v2)** | 2025-03-06 | Accepted ICRA 2025 |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Not All Frame Features Are Equal: Video-to-4D Generation via Decoupling Dynamic-Static Features](http://arxiv.org/abs/2502.08377v2)** | 2025-03-12 | Revised version |
+| **[Towards Motion Compensation in Autonomous Robotic Subretinal Injections](http://arxiv.org/abs/2411.18521v2)** | 2025-03-11 |  |
 | **[LEGO-Motion: Learning-Enhanced Grids with Occupancy Instance Modeling for Class-Agnostic Motion Prediction](http://arxiv.org/abs/2503.07367v1)** | 2025-03-10 | 8 pages, 4 figures |
 | **[PriorMotion: Generative Class-Agnostic Motion Prediction with Raster-Vector Motion Field Priors](http://arxiv.org/abs/2412.04020v2)** | 2025-03-10 | 17 pages, 9 figures |
 | **[U-Motion: Learned Point Cloud Video Compression with U-Structured Motion Estimation](http://arxiv.org/abs/2411.14501v2)** | 2025-03-10 |  |
@@ -37,6 +39,4 @@ labels: documentation
 | **[Human Motion Prediction, Reconstruction, and Generation](http://arxiv.org/abs/2502.15956v1)** | 2025-02-21 | Tech report |
 | **[State estimation of marine vessels affected by waves by unmanned aerial vehicles](http://arxiv.org/abs/2410.05186v2)** | 2025-02-18 |  |
 | **[A Survey of World Models for Autonomous Driving](http://arxiv.org/abs/2501.11260v2)** | 2025-02-16 | Ongoing project |
-| **[Semantics-aware Test-time Adaptation for 3D Human Pose Estimation](http://arxiv.org/abs/2502.10724v1)** | 2025-02-15 | 10 pages, 4 figures |
-| **[Long-Term TalkingFace Generation via Motion-Prior Conditional Diffusion Model](http://arxiv.org/abs/2502.09533v1)** | 2025-02-13 |  |
 
