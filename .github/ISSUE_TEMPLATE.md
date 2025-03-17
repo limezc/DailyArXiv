@@ -1,10 +1,12 @@
 ---
-title: Latest 15 Papers - March 17, 2025
+title: Latest 15 Papers - March 18, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On the relationship between Koopman operator approximations and neural ordinary differential equations for data-driven time-evolution predictions](http://arxiv.org/abs/2411.12940v2)** | 2025-03-14 | 18 pages, 10 figures |
+| **[Trajectory Mamba: Efficient Attention-Mamba Forecasting Model Based on Selective SSM](http://arxiv.org/abs/2503.10898v1)** | 2025-03-13 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
 | **[Knowledge-data fusion dominated vehicle platoon dynamics modeling and analysis: A physics-encoded deep learning approach](http://arxiv.org/abs/2502.08658v2)** | 2025-03-13 |  |
 | **[DA-STGCN: 4D Trajectory Prediction Based on Spatiotemporal Feature Extraction](http://arxiv.org/abs/2503.04823v2)** | 2025-03-13 |  |
 | **[Post-interactive Multimodal Trajectory Prediction for Autonomous Driving](http://arxiv.org/abs/2503.09366v1)** | 2025-03-12 |  |
@@ -18,12 +20,11 @@ labels: documentation
 | **[Digital Twin-Enabled Blockage-Aware Dynamic mmWave Multi-Hop V2X Communication](http://arxiv.org/abs/2503.03590v2)** | 2025-03-10 |  |
 | **[GUIDE-CoT: Goal-driven and User-Informed Dynamic Estimation for Pedestrian Trajectory using Chain-of-Thought](http://arxiv.org/abs/2503.06832v1)** | 2025-03-10 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, will be published on The 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025)</p></details> |
 | **[Scene-Aware Explainable Multimodal Trajectory Prediction](http://arxiv.org/abs/2410.16795v2)** | 2025-03-10 |  |
-| **[Chance-Constrained Trajectory Planning with Multimodal Environmental Uncertainty](http://arxiv.org/abs/2503.06779v1)** | 2025-03-09 | <details><summary>Publi...</summary><p>Published in IEEE Control Systems Letters</p></details> |
-| **[Recursively Feasible Chance-constrained Model Predictive Control under Gaussian Mixture Model Uncertainty](http://arxiv.org/abs/2401.03799v2)** | 2025-03-08 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Control Systems Technology SI: Intelligent Decision Making, Planning and Control of Automated Vehicles</p></details> |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Trajectory Mamba: Efficient Attention-Mamba Forecasting Model Based on Selective SSM](http://arxiv.org/abs/2503.10898v1)** | 2025-03-13 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
 | **[MoFlow: One-Step Flow Matching for Human Trajectory Forecasting via Implicit Maximum Likelihood Estimation based Distillation](http://arxiv.org/abs/2503.09950v1)** | 2025-03-13 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025</p></details> |
 | **[U-Motion: Learned Point Cloud Video Compression with U-Structured Motion Estimation](http://arxiv.org/abs/2411.14501v3)** | 2025-03-12 |  |
 | **[CMP: Cooperative Motion Prediction with Multi-Agent Communication](http://arxiv.org/abs/2403.17916v3)** | 2025-03-12 | <details><summary>IEEE ...</summary><p>IEEE Robotics and Automation Letters; Project website: https://cmp-cooperative-prediction.github.io/</p></details> |
@@ -38,5 +39,4 @@ labels: documentation
 | **[Stochasticity in Motion: An Information-Theoretic Approach to Trajectory Prediction](http://arxiv.org/abs/2410.01628v3)** | 2025-02-28 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, submitted to International Conference on Intelligent Robots and Systems (IROS 2025)</p></details> |
 | **[SmartPretrain: Model-Agnostic and Dataset-Agnostic Representation Learning for Motion Prediction](http://arxiv.org/abs/2410.08669v2)** | 2025-02-27 | <details><summary>Camer...</summary><p>Camera-ready version for ICLR 2025</p></details> |
 | **[HVIS: A Human-like Vision and Inference System for Human Motion Prediction](http://arxiv.org/abs/2502.16913v1)** | 2025-02-24 |  |
-| **[Human Motion Prediction, Reconstruction, and Generation](http://arxiv.org/abs/2502.15956v1)** | 2025-02-21 | Tech report |
 
