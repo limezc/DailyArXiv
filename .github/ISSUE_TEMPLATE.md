@@ -1,10 +1,15 @@
 ---
-title: Latest 15 Papers - March 18, 2025
+title: Latest 15 Papers - March 19, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Digital Twin-Enabled Blockage-Aware Dynamic mmWave Multi-Hop V2X Communication](http://arxiv.org/abs/2503.03590v3)** | 2025-03-17 |  |
+| **[COSMOS: Continuous Simplicial Neural Networks](http://arxiv.org/abs/2503.12919v1)** | 2025-03-17 | 17 pages, 6 figures |
+| **[CDKFormer: Contextual Deviation Knowledge-Based Transformer for Long-Tail Trajectory Prediction](http://arxiv.org/abs/2503.12695v1)** | 2025-03-16 |  |
+| **[Hydra-NeXt: Robust Closed-Loop Driving with Open-Loop Training](http://arxiv.org/abs/2503.12030v1)** | 2025-03-15 |  |
+| **[Toward Unified Practices in Trajectory Prediction Research on Drone Datasets](http://arxiv.org/abs/2405.00604v3)** | 2025-03-14 | <details><summary>https...</summary><p>https://github.com/westny/dronalize</p></details> |
 | **[On the relationship between Koopman operator approximations and neural ordinary differential equations for data-driven time-evolution predictions](http://arxiv.org/abs/2411.12940v2)** | 2025-03-14 | 18 pages, 10 figures |
 | **[Trajectory Mamba: Efficient Attention-Mamba Forecasting Model Based on Selective SSM](http://arxiv.org/abs/2503.10898v1)** | 2025-03-13 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
 | **[Knowledge-data fusion dominated vehicle platoon dynamics modeling and analysis: A physics-encoded deep learning approach](http://arxiv.org/abs/2502.08658v2)** | 2025-03-13 |  |
@@ -15,15 +20,14 @@ labels: documentation
 | **[HiP-AD: Hierarchical and Multi-Granularity Planning with Deformable Attention for Autonomous Driving in a Single Decoder](http://arxiv.org/abs/2503.08612v1)** | 2025-03-11 |  |
 | **[STGDPM:Vessel Trajectory Prediction with Spatio-Temporal Graph Diffusion Probabilistic Model](http://arxiv.org/abs/2503.08065v1)** | 2025-03-11 | <details><summary>This ...</summary><p>This paper has been ACCEPTED as a FULL PAPER at DASFAA 2025</p></details> |
 | **[Behavior-Inspired Neural Networks for Relational Inference](http://arxiv.org/abs/2406.14746v3)** | 2025-03-11 | <details><summary>Accep...</summary><p>Accept to The 28th International Conference on Artificial Intelligence and Statistics (AISTATS 2025)</p></details> |
-| **[SGNetPose+: Stepwise Goal-Driven Networks with Pose Information for Trajectory Prediction in Autonomous Driving](http://arxiv.org/abs/2503.08016v1)** | 2025-03-11 |  |
-| **[CATPlan: Loss-based Collision Prediction in End-to-End Autonomous Driving](http://arxiv.org/abs/2503.07425v1)** | 2025-03-10 |  |
-| **[Digital Twin-Enabled Blockage-Aware Dynamic mmWave Multi-Hop V2X Communication](http://arxiv.org/abs/2503.03590v2)** | 2025-03-10 |  |
-| **[GUIDE-CoT: Goal-driven and User-Informed Dynamic Estimation for Pedestrian Trajectory using Chain-of-Thought](http://arxiv.org/abs/2503.06832v1)** | 2025-03-10 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, will be published on The 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025)</p></details> |
-| **[Scene-Aware Explainable Multimodal Trajectory Prediction](http://arxiv.org/abs/2410.16795v2)** | 2025-03-10 |  |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[InsightDrive: Insight Scene Representation for End-to-End Autonomous Driving](http://arxiv.org/abs/2503.13047v1)** | 2025-03-17 |  |
+| **[TA-GNN: Physics Inspired Time-Agnostic Graph Neural Network for Finger Motion Prediction](http://arxiv.org/abs/2503.13034v1)** | 2025-03-17 |  |
+| **[S2O: Static to Openable Enhancement for Articulated 3D Objects](http://arxiv.org/abs/2409.18896v2)** | 2025-03-15 |  |
+| **[DynaGSLAM: Real-Time Gaussian-Splatting SLAM for Online Rendering, Tracking, Motion Predictions of Moving Objects in Dynamic Scenes](http://arxiv.org/abs/2503.11979v1)** | 2025-03-15 |  |
 | **[Trajectory Mamba: Efficient Attention-Mamba Forecasting Model Based on Selective SSM](http://arxiv.org/abs/2503.10898v1)** | 2025-03-13 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
 | **[MoFlow: One-Step Flow Matching for Human Trajectory Forecasting via Implicit Maximum Likelihood Estimation based Distillation](http://arxiv.org/abs/2503.09950v1)** | 2025-03-13 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025</p></details> |
 | **[U-Motion: Learned Point Cloud Video Compression with U-Structured Motion Estimation](http://arxiv.org/abs/2411.14501v3)** | 2025-03-12 |  |
@@ -35,8 +39,4 @@ labels: documentation
 | **[Controllable Motion Generation via Diffusion Modal Coupling](http://arxiv.org/abs/2503.02353v1)** | 2025-03-04 |  |
 | **[Interpretable Data-Driven Ship Dynamics Model: Enhancing Physics-Based Motion Prediction with Parameter Optimization](http://arxiv.org/abs/2502.18696v2)** | 2025-03-03 |  |
 | **[ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras](http://arxiv.org/abs/2410.09374v3)** | 2025-03-03 |  |
-| **[Enhancing Context-Aware Human Motion Prediction for Efficient Robot Handovers](http://arxiv.org/abs/2503.00576v1)** | 2025-03-01 | 7 pages, 3 figures |
-| **[Stochasticity in Motion: An Information-Theoretic Approach to Trajectory Prediction](http://arxiv.org/abs/2410.01628v3)** | 2025-02-28 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, submitted to International Conference on Intelligent Robots and Systems (IROS 2025)</p></details> |
-| **[SmartPretrain: Model-Agnostic and Dataset-Agnostic Representation Learning for Motion Prediction](http://arxiv.org/abs/2410.08669v2)** | 2025-02-27 | <details><summary>Camer...</summary><p>Camera-ready version for ICLR 2025</p></details> |
-| **[HVIS: A Human-like Vision and Inference System for Human Motion Prediction](http://arxiv.org/abs/2502.16913v1)** | 2025-02-24 |  |
 
