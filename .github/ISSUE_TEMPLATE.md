@@ -1,10 +1,11 @@
 ---
-title: Latest 15 Papers - March 19, 2025
+title: Latest 15 Papers - March 20, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Stochastic Trajectory Prediction under Unstructured Constraints](http://arxiv.org/abs/2503.14203v1)** | 2025-03-18 | <details><summary>has b...</summary><p>has been accepted by ICRA 2025</p></details> |
 | **[Digital Twin-Enabled Blockage-Aware Dynamic mmWave Multi-Hop V2X Communication](http://arxiv.org/abs/2503.03590v3)** | 2025-03-17 |  |
 | **[COSMOS: Continuous Simplicial Neural Networks](http://arxiv.org/abs/2503.12919v1)** | 2025-03-17 | 17 pages, 6 figures |
 | **[CDKFormer: Contextual Deviation Knowledge-Based Transformer for Long-Tail Trajectory Prediction](http://arxiv.org/abs/2503.12695v1)** | 2025-03-16 |  |
@@ -19,7 +20,6 @@ labels: documentation
 | **[Conformal Trajectory Prediction with Multi-View Data Integration in Cooperative Driving](http://arxiv.org/abs/2408.00374v3)** | 2025-03-11 |  |
 | **[HiP-AD: Hierarchical and Multi-Granularity Planning with Deformable Attention for Autonomous Driving in a Single Decoder](http://arxiv.org/abs/2503.08612v1)** | 2025-03-11 |  |
 | **[STGDPM:Vessel Trajectory Prediction with Spatio-Temporal Graph Diffusion Probabilistic Model](http://arxiv.org/abs/2503.08065v1)** | 2025-03-11 | <details><summary>This ...</summary><p>This paper has been ACCEPTED as a FULL PAPER at DASFAA 2025</p></details> |
-| **[Behavior-Inspired Neural Networks for Relational Inference](http://arxiv.org/abs/2406.14746v3)** | 2025-03-11 | <details><summary>Accep...</summary><p>Accept to The 28th International Conference on Artificial Intelligence and Statistics (AISTATS 2025)</p></details> |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
