@@ -1,10 +1,12 @@
 ---
-title: Latest 15 Papers - March 21, 2025
+title: Latest 15 Papers - March 22, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SSTP: Efficient Sample Selection for Trajectory Prediction](http://arxiv.org/abs/2409.17385v2)** | 2025-03-20 |  |
+| **[GASP: Unifying Geometric and Semantic Self-Supervised Pre-training for Autonomous Driving](http://arxiv.org/abs/2503.15672v1)** | 2025-03-19 |  |
 | **[Stochastic Trajectory Prediction under Unstructured Constraints](http://arxiv.org/abs/2503.14203v1)** | 2025-03-18 | <details><summary>has b...</summary><p>has been accepted by ICRA 2025</p></details> |
 | **[Digital Twin-Enabled Blockage-Aware Dynamic mmWave Multi-Hop V2X Communication](http://arxiv.org/abs/2503.03590v3)** | 2025-03-17 |  |
 | **[COSMOS: Continuous Simplicial Neural Networks](http://arxiv.org/abs/2503.12919v1)** | 2025-03-17 | 17 pages, 6 figures |
@@ -18,19 +20,17 @@ labels: documentation
 | **[Post-interactive Multimodal Trajectory Prediction for Autonomous Driving](http://arxiv.org/abs/2503.09366v1)** | 2025-03-12 |  |
 | **[SICNav-Diffusion: Safe and Interactive Crowd Navigation with Diffusion Trajectory Predictions](http://arxiv.org/abs/2503.08858v1)** | 2025-03-11 |  |
 | **[Conformal Trajectory Prediction with Multi-View Data Integration in Cooperative Driving](http://arxiv.org/abs/2408.00374v3)** | 2025-03-11 |  |
-| **[HiP-AD: Hierarchical and Multi-Granularity Planning with Deformable Attention for Autonomous Driving in a Single Decoder](http://arxiv.org/abs/2503.08612v1)** | 2025-03-11 |  |
-| **[STGDPM:Vessel Trajectory Prediction with Spatio-Temporal Graph Diffusion Probabilistic Model](http://arxiv.org/abs/2503.08065v1)** | 2025-03-11 | <details><summary>This ...</summary><p>This paper has been ACCEPTED as a FULL PAPER at DASFAA 2025</p></details> |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[U-Motion: Learned Point Cloud Video Compression with U-Structured Temporal Context Generation](http://arxiv.org/abs/2411.14501v4)** | 2025-03-20 |  |
 | **[InsightDrive: Insight Scene Representation for End-to-End Autonomous Driving](http://arxiv.org/abs/2503.13047v1)** | 2025-03-17 |  |
 | **[TA-GNN: Physics Inspired Time-Agnostic Graph Neural Network for Finger Motion Prediction](http://arxiv.org/abs/2503.13034v1)** | 2025-03-17 |  |
 | **[S2O: Static to Openable Enhancement for Articulated 3D Objects](http://arxiv.org/abs/2409.18896v2)** | 2025-03-15 |  |
 | **[DynaGSLAM: Real-Time Gaussian-Splatting SLAM for Online Rendering, Tracking, Motion Predictions of Moving Objects in Dynamic Scenes](http://arxiv.org/abs/2503.11979v1)** | 2025-03-15 |  |
 | **[Trajectory Mamba: Efficient Attention-Mamba Forecasting Model Based on Selective SSM](http://arxiv.org/abs/2503.10898v1)** | 2025-03-13 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
 | **[MoFlow: One-Step Flow Matching for Human Trajectory Forecasting via Implicit Maximum Likelihood Estimation based Distillation](http://arxiv.org/abs/2503.09950v1)** | 2025-03-13 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025</p></details> |
-| **[U-Motion: Learned Point Cloud Video Compression with U-Structured Motion Estimation](http://arxiv.org/abs/2411.14501v3)** | 2025-03-12 |  |
 | **[CMP: Cooperative Motion Prediction with Multi-Agent Communication](http://arxiv.org/abs/2403.17916v3)** | 2025-03-12 | <details><summary>IEEE ...</summary><p>IEEE Robotics and Automation Letters; Project website: https://cmp-cooperative-prediction.github.io/</p></details> |
 | **[Not All Frame Features Are Equal: Video-to-4D Generation via Decoupling Dynamic-Static Features](http://arxiv.org/abs/2502.08377v2)** | 2025-03-12 | Revised version |
 | **[Towards Motion Compensation in Autonomous Robotic Subretinal Injections](http://arxiv.org/abs/2411.18521v2)** | 2025-03-11 |  |
