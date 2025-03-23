@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 23, 2025
+title: Latest 15 Papers - March 24, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
@@ -15,6 +15,11 @@ labels: documentation
 | **[Toward Unified Practices in Trajectory Prediction Research on Drone Datasets](http://arxiv.org/abs/2405.00604v3)** | 2025-03-14 | <details><summary>https...</summary><p>https://github.com/westny/dronalize</p></details> |
 | **[On the relationship between Koopman operator approximations and neural ordinary differential equations for data-driven time-evolution predictions](http://arxiv.org/abs/2411.12940v2)** | 2025-03-14 | 18 pages, 10 figures |
 | **[Trajectory Mamba: Efficient Attention-Mamba Forecasting Model Based on Selective SSM](http://arxiv.org/abs/2503.10898v1)** | 2025-03-13 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
+| **[Knowledge-data fusion dominated vehicle platoon dynamics modeling and analysis: A physics-encoded deep learning approach](http://arxiv.org/abs/2502.08658v2)** | 2025-03-13 |  |
+| **[DA-STGCN: 4D Trajectory Prediction Based on Spatiotemporal Feature Extraction](http://arxiv.org/abs/2503.04823v2)** | 2025-03-13 |  |
+| **[Post-interactive Multimodal Trajectory Prediction for Autonomous Driving](http://arxiv.org/abs/2503.09366v1)** | 2025-03-12 |  |
+| **[SICNav-Diffusion: Safe and Interactive Crowd Navigation with Diffusion Trajectory Predictions](http://arxiv.org/abs/2503.08858v1)** | 2025-03-11 |  |
+| **[Conformal Trajectory Prediction with Multi-View Data Integration in Cooperative Driving](http://arxiv.org/abs/2408.00374v3)** | 2025-03-11 |  |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
