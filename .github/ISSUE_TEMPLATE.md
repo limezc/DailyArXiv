@@ -1,10 +1,11 @@
 ---
-title: Latest 15 Papers - March 24, 2025
+title: Latest 15 Papers - March 25, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Physical Plausibility-aware Trajectory Prediction via Locomotion Embodiment](http://arxiv.org/abs/2503.17267v1)** | 2025-03-21 | <details><summary>CVPR2...</summary><p>CVPR2025. Project page: https://iminthemiddle.github.io/EmLoco-Page/</p></details> |
 | **[SSTP: Efficient Sample Selection for Trajectory Prediction](http://arxiv.org/abs/2409.17385v2)** | 2025-03-20 |  |
 | **[GASP: Unifying Geometric and Semantic Self-Supervised Pre-training for Autonomous Driving](http://arxiv.org/abs/2503.15672v1)** | 2025-03-19 |  |
 | **[Stochastic Trajectory Prediction under Unstructured Constraints](http://arxiv.org/abs/2503.14203v1)** | 2025-03-18 | <details><summary>has b...</summary><p>has been accepted by ICRA 2025</p></details> |
@@ -19,7 +20,6 @@ labels: documentation
 | **[DA-STGCN: 4D Trajectory Prediction Based on Spatiotemporal Feature Extraction](http://arxiv.org/abs/2503.04823v2)** | 2025-03-13 |  |
 | **[Post-interactive Multimodal Trajectory Prediction for Autonomous Driving](http://arxiv.org/abs/2503.09366v1)** | 2025-03-12 |  |
 | **[SICNav-Diffusion: Safe and Interactive Crowd Navigation with Diffusion Trajectory Predictions](http://arxiv.org/abs/2503.08858v1)** | 2025-03-11 |  |
-| **[Conformal Trajectory Prediction with Multi-View Data Integration in Cooperative Driving](http://arxiv.org/abs/2408.00374v3)** | 2025-03-11 |  |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
