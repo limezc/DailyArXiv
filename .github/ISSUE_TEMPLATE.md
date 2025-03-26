@@ -1,12 +1,14 @@
 ---
-title: Latest 15 Papers - March 26, 2025
+title: Latest 15 Papers - March 27, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation](http://arxiv.org/abs/2503.19755v1)** | 2025-03-25 |  |
+| **[A Universal Model Combining Differential Equations and Neural Networks for Ball Trajectory Prediction](http://arxiv.org/abs/2503.18584v2)** | 2025-03-25 | <details><summary>This ...</summary><p>This submission was made without my advisor's consent, and I mistakenly uploaded an incorrect version of the paper. Additionally, some content in the paper should not be made publicly available at this time, as per my advisor's wishes. I apologize for any inconvenience this may have caused</p></details> |
+| **[RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete](http://arxiv.org/abs/2502.21257v2)** | 2025-03-25 |  |
 | **[Predicting the Road Ahead: A Knowledge Graph based Foundation Model for Scene Understanding in Autonomous Driving](http://arxiv.org/abs/2503.18730v1)** | 2025-03-24 |  |
-| **[A Universal Model Combining Differential Equations and Neural Networks for Ball Trajectory Prediction](http://arxiv.org/abs/2503.18584v1)** | 2025-03-24 |  |
 | **[Physical Plausibility-aware Trajectory Prediction via Locomotion Embodiment](http://arxiv.org/abs/2503.17267v1)** | 2025-03-21 | <details><summary>CVPR2...</summary><p>CVPR2025. Project page: https://iminthemiddle.github.io/EmLoco-Page/</p></details> |
 | **[SSTP: Efficient Sample Selection for Trajectory Prediction](http://arxiv.org/abs/2409.17385v2)** | 2025-03-20 |  |
 | **[GASP: Unifying Geometric and Semantic Self-Supervised Pre-training for Autonomous Driving](http://arxiv.org/abs/2503.15672v1)** | 2025-03-19 |  |
@@ -18,8 +20,6 @@ labels: documentation
 | **[Toward Unified Practices in Trajectory Prediction Research on Drone Datasets](http://arxiv.org/abs/2405.00604v3)** | 2025-03-14 | <details><summary>https...</summary><p>https://github.com/westny/dronalize</p></details> |
 | **[On the relationship between Koopman operator approximations and neural ordinary differential equations for data-driven time-evolution predictions](http://arxiv.org/abs/2411.12940v2)** | 2025-03-14 | 18 pages, 10 figures |
 | **[Trajectory Mamba: Efficient Attention-Mamba Forecasting Model Based on Selective SSM](http://arxiv.org/abs/2503.10898v1)** | 2025-03-13 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
-| **[Knowledge-data fusion dominated vehicle platoon dynamics modeling and analysis: A physics-encoded deep learning approach](http://arxiv.org/abs/2502.08658v2)** | 2025-03-13 |  |
-| **[DA-STGCN: 4D Trajectory Prediction Based on Spatiotemporal Feature Extraction](http://arxiv.org/abs/2503.04823v2)** | 2025-03-13 |  |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
