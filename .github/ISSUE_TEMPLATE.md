@@ -1,10 +1,12 @@
 ---
-title: Latest 15 Papers - March 28, 2025
+title: Latest 15 Papers - March 29, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fine-Grained Behavior and Lane Constraints Guided Trajectory Prediction Method](http://arxiv.org/abs/2503.21477v1)** | 2025-03-27 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE TIM for possible publication</p></details> |
+| **[Multi-Agent Inverse Reinforcement Learning in Real World Unstructured Pedestrian Crowds](http://arxiv.org/abs/2405.16439v3)** | 2025-03-26 |  |
 | **[Vision-based Multi-future Trajectory Prediction: A Survey](http://arxiv.org/abs/2302.10463v2)** | 2025-03-26 | <details><summary>Accep...</summary><p>Accepted by TNNLS 2025</p></details> |
 | **[ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation](http://arxiv.org/abs/2503.19755v1)** | 2025-03-25 |  |
 | **[A Universal Model Combining Differential Equations and Neural Networks for Ball Trajectory Prediction](http://arxiv.org/abs/2503.18584v2)** | 2025-03-25 | <details><summary>This ...</summary><p>This submission was made without my advisor's consent, and I mistakenly uploaded an incorrect version of the paper. Additionally, some content in the paper should not be made publicly available at this time, as per my advisor's wishes. I apologize for any inconvenience this may have caused</p></details> |
@@ -18,8 +20,6 @@ labels: documentation
 | **[COSMOS: Continuous Simplicial Neural Networks](http://arxiv.org/abs/2503.12919v1)** | 2025-03-17 | 17 pages, 6 figures |
 | **[CDKFormer: Contextual Deviation Knowledge-Based Transformer for Long-Tail Trajectory Prediction](http://arxiv.org/abs/2503.12695v1)** | 2025-03-16 |  |
 | **[Hydra-NeXt: Robust Closed-Loop Driving with Open-Loop Training](http://arxiv.org/abs/2503.12030v1)** | 2025-03-15 |  |
-| **[Toward Unified Practices in Trajectory Prediction Research on Drone Datasets](http://arxiv.org/abs/2405.00604v3)** | 2025-03-14 | <details><summary>https...</summary><p>https://github.com/westny/dronalize</p></details> |
-| **[On the relationship between Koopman operator approximations and neural ordinary differential equations for data-driven time-evolution predictions](http://arxiv.org/abs/2411.12940v2)** | 2025-03-14 | 18 pages, 10 figures |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
