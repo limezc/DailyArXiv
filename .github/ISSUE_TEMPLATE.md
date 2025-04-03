@@ -1,12 +1,14 @@
 ---
-title: Latest 15 Papers - April 03, 2025
+title: Latest 15 Papers - April 04, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Virtual Target Trajectory Prediction for Stochastic Targets](http://arxiv.org/abs/2504.01851v1)** | 2025-04-02 | <details><summary>will ...</summary><p>will be submitted to Journal of Guidance, Control, and Dynamics</p></details> |
 | **[Tra-MoE: Learning Trajectory Prediction Model from Multiple Domains for Adaptive Policy Conditioning](http://arxiv.org/abs/2411.14519v2)** | 2025-04-01 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025. Code Page: https://github.com/MCG-NJU/Tra-MoE</p></details> |
 | **[Fine-Grained Behavior and Lane Constraints Guided Trajectory Prediction Method](http://arxiv.org/abs/2503.21477v2)** | 2025-04-01 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Design and Validation of an Intention-Aware Probabilistic Framework for Trajectory Prediction: Integrating COLREGS, Grounding Hazards, and Planned Routes](http://arxiv.org/abs/2504.00731v1)** | 2025-04-01 |  |
 | **[Learning Velocity and Acceleration: Self-Supervised Motion Consistency for Pedestrian Trajectory Prediction](http://arxiv.org/abs/2503.24272v1)** | 2025-03-31 |  |
 | **[Joint Modeling of Multiple Longitudinal Biomarkers and Survival Outcomes via Threshold Regression: Variability as a Predictor](http://arxiv.org/abs/2503.24146v1)** | 2025-03-31 |  |
 | **[OnSiteVRU: A High-Resolution Trajectory Dataset for High-Density Vulnerable Road Users](http://arxiv.org/abs/2503.23365v1)** | 2025-03-30 |  |
@@ -15,14 +17,21 @@ labels: documentation
 | **[Vision-based Multi-future Trajectory Prediction: A Survey](http://arxiv.org/abs/2302.10463v2)** | 2025-03-26 | <details><summary>Accep...</summary><p>Accepted by TNNLS 2025</p></details> |
 | **[ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation](http://arxiv.org/abs/2503.19755v1)** | 2025-03-25 |  |
 | **[A Universal Model Combining Differential Equations and Neural Networks for Ball Trajectory Prediction](http://arxiv.org/abs/2503.18584v2)** | 2025-03-25 | <details><summary>This ...</summary><p>This submission was made without my advisor's consent, and I mistakenly uploaded an incorrect version of the paper. Additionally, some content in the paper should not be made publicly available at this time, as per my advisor's wishes. I apologize for any inconvenience this may have caused</p></details> |
+| **[RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete](http://arxiv.org/abs/2502.21257v2)** | 2025-03-25 |  |
+| **[Predicting the Road Ahead: A Knowledge Graph based Foundation Model for Scene Understanding in Autonomous Driving](http://arxiv.org/abs/2503.18730v1)** | 2025-03-24 |  |
+| **[Physical Plausibility-aware Trajectory Prediction via Locomotion Embodiment](http://arxiv.org/abs/2503.17267v1)** | 2025-03-21 | <details><summary>CVPR2...</summary><p>CVPR2025. Project page: https://iminthemiddle.github.io/EmLoco-Page/</p></details> |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Focal Mechanism Uncertainty Quantification In Ground Motion Simulations Of Le Teil Earthquake](http://arxiv.org/abs/2504.01868v1)** | 2025-04-02 |  |
+| **[A Retina-Inspired Pathway to Real-Time Motion Prediction inside Image Sensors for Extreme-Edge Intelligence](http://arxiv.org/abs/2504.01275v1)** | 2025-04-02 | 24 pages, 8 figures |
 | **[RedMotion: Motion Prediction via Redundancy Reduction](http://arxiv.org/abs/2306.10840v4)** | 2025-04-01 | <details><summary>TMLR ...</summary><p>TMLR published version</p></details> |
+| **[DecoFuse: Decomposing and Fusing the "What", "Where", and "How" for Brain-Inspired fMRI-to-Video Decoding](http://arxiv.org/abs/2504.00432v1)** | 2025-04-01 |  |
 | **[Fast Online Learning of CLiFF-maps in Changing Environments](http://arxiv.org/abs/2410.12237v2)** | 2025-03-31 | <details><summary>Accep...</summary><p>Accepted to the 2025 IEEE International Conference on Robotics and Automation (ICRA)</p></details> |
 | **[Enhancing Human Motion Prediction via Multi-range Decoupling Decoding with Gating-adjusting Aggregation](http://arxiv.org/abs/2503.23381v1)** | 2025-03-30 |  |
 | **[LoRD: Adapting Differentiable Driving Policies to Distribution Shifts](http://arxiv.org/abs/2410.09681v3)** | 2025-03-28 | <details><summary>IEEE ...</summary><p>IEEE International Conference on Robotics & Automation, ICRA 2025</p></details> |
+| **[Gaze-Guided 3D Hand Motion Prediction for Detecting Intent in Egocentric Grasping Tasks](http://arxiv.org/abs/2504.01024v1)** | 2025-03-27 |  |
 | **[ModeSeq: Taming Sparse Multimodal Motion Prediction with Sequential Mode Modeling](http://arxiv.org/abs/2411.11911v2)** | 2025-03-23 | CVPR 2025 |
 | **[U-Motion: Learned Point Cloud Video Compression with U-Structured Temporal Context Generation](http://arxiv.org/abs/2411.14501v4)** | 2025-03-20 |  |
 | **[InsightDrive: Insight Scene Representation for End-to-End Autonomous Driving](http://arxiv.org/abs/2503.13047v1)** | 2025-03-17 |  |
@@ -30,8 +39,4 @@ labels: documentation
 | **[S2O: Static to Openable Enhancement for Articulated 3D Objects](http://arxiv.org/abs/2409.18896v2)** | 2025-03-15 |  |
 | **[DynaGSLAM: Real-Time Gaussian-Splatting SLAM for Online Rendering, Tracking, Motion Predictions of Moving Objects in Dynamic Scenes](http://arxiv.org/abs/2503.11979v1)** | 2025-03-15 |  |
 | **[Trajectory Mamba: Efficient Attention-Mamba Forecasting Model Based on Selective SSM](http://arxiv.org/abs/2503.10898v1)** | 2025-03-13 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
-| **[MoFlow: One-Step Flow Matching for Human Trajectory Forecasting via Implicit Maximum Likelihood Estimation based Distillation](http://arxiv.org/abs/2503.09950v1)** | 2025-03-13 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025</p></details> |
-| **[CMP: Cooperative Motion Prediction with Multi-Agent Communication](http://arxiv.org/abs/2403.17916v3)** | 2025-03-12 | <details><summary>IEEE ...</summary><p>IEEE Robotics and Automation Letters; Project website: https://cmp-cooperative-prediction.github.io/</p></details> |
-| **[Not All Frame Features Are Equal: Video-to-4D Generation via Decoupling Dynamic-Static Features](http://arxiv.org/abs/2502.08377v2)** | 2025-03-12 | Revised version |
-| **[Towards Motion Compensation in Autonomous Robotic Subretinal Injections](http://arxiv.org/abs/2411.18521v2)** | 2025-03-11 |  |
 
