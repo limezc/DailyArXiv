@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 09, 2025
+title: Latest 15 Papers - April 10, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
@@ -7,6 +7,7 @@ labels: documentation
 | --- | --- | --- |
 | **[MIAT: Maneuver-Intention-Aware Transformer for Spatio-Temporal Trajectory Prediction](http://arxiv.org/abs/2504.05059v1)** | 2025-04-07 |  |
 | **[Wavelet Policy: Imitation Policy Learning in Frequency Domain with Wavelet Transforms](http://arxiv.org/abs/2504.04991v1)** | 2025-04-07 |  |
+| **[DyTTP: Trajectory Prediction with Normalization-Free Transformers](http://arxiv.org/abs/2504.05356v1)** | 2025-04-07 |  |
 | **[GAMDTP: Dynamic Trajectory Prediction with Graph Attention Mamba Network](http://arxiv.org/abs/2504.04862v1)** | 2025-04-07 |  |
 | **[TrajLearn: Trajectory Prediction Learning using Deep Generative Models](http://arxiv.org/abs/2501.00184v2)** | 2025-04-04 | <details><summary>Accep...</summary><p>Accepted at ACM Transactions on Spatial Algorithms and Systems</p></details> |
 | **[Data-Driven Object Tracking: Integrating Modular Neural Networks into a Kalman Framework](http://arxiv.org/abs/2504.02519v1)** | 2025-04-03 |  |
@@ -19,11 +20,12 @@ labels: documentation
 | **[OnSiteVRU: A High-Resolution Trajectory Dataset for High-Density Vulnerable Road Users](http://arxiv.org/abs/2503.23365v1)** | 2025-03-30 |  |
 | **[A Multi-Modal Knowledge-Enhanced Framework for Vessel Trajectory Prediction](http://arxiv.org/abs/2503.21834v1)** | 2025-03-27 | 8 pages, 5 figures |
 | **[Multi-Agent Inverse Reinforcement Learning in Real World Unstructured Pedestrian Crowds](http://arxiv.org/abs/2405.16439v3)** | 2025-03-26 |  |
-| **[Vision-based Multi-future Trajectory Prediction: A Survey](http://arxiv.org/abs/2302.10463v2)** | 2025-03-26 | <details><summary>Accep...</summary><p>Accepted by TNNLS 2025</p></details> |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Self-Supervised Framework for Space Object Behaviour Characterisation](http://arxiv.org/abs/2504.06176v1)** | 2025-04-08 | 15 pages, 10 figures |
+| **[POD: Predictive Object Detection with Single-Frame FMCW LiDAR Point Cloud](http://arxiv.org/abs/2504.05649v1)** | 2025-04-08 |  |
 | **[GAMDTP: Dynamic Trajectory Prediction with Graph Attention Mamba Network](http://arxiv.org/abs/2504.04862v1)** | 2025-04-07 |  |
 | **[A High-Speed Time-Optimal Trajectory Generation Strategy via a Two-layer Planning Model](http://arxiv.org/abs/2503.11072v2)** | 2025-04-06 |  |
 | **[Data Scaling Laws for End-to-End Autonomous Driving](http://arxiv.org/abs/2504.04338v1)** | 2025-04-06 | <details><summary>15 pa...</summary><p>15 pages, 11 figures, 4 tables, CVPR 2025 Workshop on Autonomous Driving</p></details> |
@@ -37,6 +39,4 @@ labels: documentation
 | **[Fast Online Learning of CLiFF-maps in Changing Environments](http://arxiv.org/abs/2410.12237v2)** | 2025-03-31 | <details><summary>Accep...</summary><p>Accepted to the 2025 IEEE International Conference on Robotics and Automation (ICRA)</p></details> |
 | **[Enhancing Human Motion Prediction via Multi-range Decoupling Decoding with Gating-adjusting Aggregation](http://arxiv.org/abs/2503.23381v1)** | 2025-03-30 |  |
 | **[LoRD: Adapting Differentiable Driving Policies to Distribution Shifts](http://arxiv.org/abs/2410.09681v3)** | 2025-03-28 | <details><summary>IEEE ...</summary><p>IEEE International Conference on Robotics & Automation, ICRA 2025</p></details> |
-| **[Gaze-Guided 3D Hand Motion Prediction for Detecting Intent in Egocentric Grasping Tasks](http://arxiv.org/abs/2504.01024v1)** | 2025-03-27 |  |
-| **[ModeSeq: Taming Sparse Multimodal Motion Prediction with Sequential Mode Modeling](http://arxiv.org/abs/2411.11911v2)** | 2025-03-23 | CVPR 2025 |
 
