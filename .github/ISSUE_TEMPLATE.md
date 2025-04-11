@@ -1,10 +1,11 @@
 ---
-title: Latest 15 Papers - April 11, 2025
+title: Latest 15 Papers - April 12, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Novel Diffusion Models for Multimodal 3D Hand Trajectory Prediction](http://arxiv.org/abs/2504.07375v1)** | 2025-04-10 |  |
 | **[MIAT: Maneuver-Intention-Aware Transformer for Spatio-Temporal Trajectory Prediction](http://arxiv.org/abs/2504.05059v1)** | 2025-04-07 |  |
 | **[Wavelet Policy: Imitation Policy Learning in Frequency Domain with Wavelet Transforms](http://arxiv.org/abs/2504.04991v1)** | 2025-04-07 |  |
 | **[DyTTP: Trajectory Prediction with Normalization-Free Transformers](http://arxiv.org/abs/2504.05356v1)** | 2025-04-07 |  |
@@ -19,7 +20,6 @@ labels: documentation
 | **[Joint Modeling of Multiple Longitudinal Biomarkers and Survival Outcomes via Threshold Regression: Variability as a Predictor](http://arxiv.org/abs/2503.24146v1)** | 2025-03-31 |  |
 | **[OnSiteVRU: A High-Resolution Trajectory Dataset for High-Density Vulnerable Road Users](http://arxiv.org/abs/2503.23365v1)** | 2025-03-30 |  |
 | **[A Multi-Modal Knowledge-Enhanced Framework for Vessel Trajectory Prediction](http://arxiv.org/abs/2503.21834v1)** | 2025-03-27 | 8 pages, 5 figures |
-| **[Multi-Agent Inverse Reinforcement Learning in Real World Unstructured Pedestrian Crowds](http://arxiv.org/abs/2405.16439v3)** | 2025-03-26 |  |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
