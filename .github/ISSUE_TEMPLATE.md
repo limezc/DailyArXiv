@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 14, 2025
+title: Latest 15 Papers - April 15, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
@@ -24,7 +24,7 @@ labels: documentation
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Self-Supervised Framework for Space Object Behaviour Characterisation](http://arxiv.org/abs/2504.06176v1)** | 2025-04-08 | 15 pages, 10 figures |
+| **[A Self-Supervised Framework for Space Object Behaviour Characterisation](http://arxiv.org/abs/2504.06176v2)** | 2025-04-11 | 15 pages, 10 figures |
 | **[POD: Predictive Object Detection with Single-Frame FMCW LiDAR Point Cloud](http://arxiv.org/abs/2504.05649v1)** | 2025-04-08 |  |
 | **[GAMDTP: Dynamic Trajectory Prediction with Graph Attention Mamba Network](http://arxiv.org/abs/2504.04862v1)** | 2025-04-07 |  |
 | **[A High-Speed Time-Optimal Trajectory Generation Strategy via a Two-layer Planning Model](http://arxiv.org/abs/2503.11072v2)** | 2025-04-06 |  |
