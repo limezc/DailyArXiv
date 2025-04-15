@@ -1,10 +1,12 @@
 ---
-title: Latest 15 Papers - April 15, 2025
+title: Latest 15 Papers - April 16, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LMFormer: Lane based Motion Prediction Transformer](http://arxiv.org/abs/2504.10275v1)** | 2025-04-14 | <details><summary>Accep...</summary><p>Accepted: Autonomous Driving Workshop, CVPR 2025</p></details> |
+| **[IMPACT: Behavioral Intention-aware Multimodal Trajectory Prediction with Adaptive Context Trimming](http://arxiv.org/abs/2504.09103v1)** | 2025-04-12 | under review |
 | **[Novel Diffusion Models for Multimodal 3D Hand Trajectory Prediction](http://arxiv.org/abs/2504.07375v1)** | 2025-04-10 |  |
 | **[MIAT: Maneuver-Intention-Aware Transformer for Spatio-Temporal Trajectory Prediction](http://arxiv.org/abs/2504.05059v1)** | 2025-04-07 |  |
 | **[Wavelet Policy: Imitation Policy Learning in Frequency Domain with Wavelet Transforms](http://arxiv.org/abs/2504.04991v1)** | 2025-04-07 |  |
@@ -18,12 +20,11 @@ labels: documentation
 | **[Design and Validation of an Intention-Aware Probabilistic Framework for Trajectory Prediction: Integrating COLREGS, Grounding Hazards, and Planned Routes](http://arxiv.org/abs/2504.00731v1)** | 2025-04-01 |  |
 | **[Learning Velocity and Acceleration: Self-Supervised Motion Consistency for Pedestrian Trajectory Prediction](http://arxiv.org/abs/2503.24272v1)** | 2025-03-31 |  |
 | **[Joint Modeling of Multiple Longitudinal Biomarkers and Survival Outcomes via Threshold Regression: Variability as a Predictor](http://arxiv.org/abs/2503.24146v1)** | 2025-03-31 |  |
-| **[OnSiteVRU: A High-Resolution Trajectory Dataset for High-Density Vulnerable Road Users](http://arxiv.org/abs/2503.23365v1)** | 2025-03-30 |  |
-| **[A Multi-Modal Knowledge-Enhanced Framework for Vessel Trajectory Prediction](http://arxiv.org/abs/2503.21834v1)** | 2025-03-27 | 8 pages, 5 figures |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LMFormer: Lane based Motion Prediction Transformer](http://arxiv.org/abs/2504.10275v1)** | 2025-04-14 | <details><summary>Accep...</summary><p>Accepted: Autonomous Driving Workshop, CVPR 2025</p></details> |
 | **[A Self-Supervised Framework for Space Object Behaviour Characterisation](http://arxiv.org/abs/2504.06176v2)** | 2025-04-11 | 15 pages, 10 figures |
 | **[POD: Predictive Object Detection with Single-Frame FMCW LiDAR Point Cloud](http://arxiv.org/abs/2504.05649v1)** | 2025-04-08 |  |
 | **[GAMDTP: Dynamic Trajectory Prediction with Graph Attention Mamba Network](http://arxiv.org/abs/2504.04862v1)** | 2025-04-07 |  |
@@ -38,5 +39,4 @@ labels: documentation
 | **[DecoFuse: Decomposing and Fusing the "What", "Where", and "How" for Brain-Inspired fMRI-to-Video Decoding](http://arxiv.org/abs/2504.00432v1)** | 2025-04-01 |  |
 | **[Fast Online Learning of CLiFF-maps in Changing Environments](http://arxiv.org/abs/2410.12237v2)** | 2025-03-31 | <details><summary>Accep...</summary><p>Accepted to the 2025 IEEE International Conference on Robotics and Automation (ICRA)</p></details> |
 | **[Enhancing Human Motion Prediction via Multi-range Decoupling Decoding with Gating-adjusting Aggregation](http://arxiv.org/abs/2503.23381v1)** | 2025-03-30 |  |
-| **[LoRD: Adapting Differentiable Driving Policies to Distribution Shifts](http://arxiv.org/abs/2410.09681v3)** | 2025-03-28 | <details><summary>IEEE ...</summary><p>IEEE International Conference on Robotics & Automation, ICRA 2025</p></details> |
 
