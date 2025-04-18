@@ -1,10 +1,11 @@
 ---
-title: Latest 15 Papers - April 18, 2025
+title: Latest 15 Papers - April 19, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Uncertainty-Aware Trajectory Prediction via Rule-Regularized Heteroscedastic Deep Classification](http://arxiv.org/abs/2504.13111v1)** | 2025-04-17 | <details><summary>17 Pa...</summary><p>17 Pages, 9 figures. Accepted to Robotics: Science and Systems(RSS), 2025</p></details> |
 | **[GC-GAT: Multimodal Vehicular Trajectory Prediction using Graph Goal Conditioning and Cross-context Attention](http://arxiv.org/abs/2504.11150v1)** | 2025-04-15 |  |
 | **[Leveraging Driver Field-of-View for Multimodal Ego-Trajectory Prediction](http://arxiv.org/abs/2312.08558v2)** | 2025-04-15 | <details><summary>Accep...</summary><p>Accepted to 13th International Conference on Learning Representations (ICLR 2025), 29 pages</p></details> |
 | **[LMFormer: Lane based Motion Prediction Transformer](http://arxiv.org/abs/2504.10275v1)** | 2025-04-14 | <details><summary>Accep...</summary><p>Accepted: Autonomous Driving Workshop, CVPR 2025</p></details> |
@@ -19,11 +20,11 @@ labels: documentation
 | **[Virtual Target Trajectory Prediction for Stochastic Targets](http://arxiv.org/abs/2504.01851v1)** | 2025-04-02 | <details><summary>will ...</summary><p>will be submitted to Journal of Guidance, Control, and Dynamics</p></details> |
 | **[Tra-MoE: Learning Trajectory Prediction Model from Multiple Domains for Adaptive Policy Conditioning](http://arxiv.org/abs/2411.14519v2)** | 2025-04-01 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025. Code Page: https://github.com/MCG-NJU/Tra-MoE</p></details> |
 | **[Fine-Grained Behavior and Lane Constraints Guided Trajectory Prediction Method](http://arxiv.org/abs/2503.21477v2)** | 2025-04-01 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Design and Validation of an Intention-Aware Probabilistic Framework for Trajectory Prediction: Integrating COLREGS, Grounding Hazards, and Planned Routes](http://arxiv.org/abs/2504.00731v1)** | 2025-04-01 |  |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UncAD: Towards Safe End-to-end Autonomous Driving via Online Map Uncertainty](http://arxiv.org/abs/2504.12826v1)** | 2025-04-17 |  |
 | **[GC-GAT: Multimodal Vehicular Trajectory Prediction using Graph Goal Conditioning and Cross-context Attention](http://arxiv.org/abs/2504.11150v1)** | 2025-04-15 |  |
 | **[LMFormer: Lane based Motion Prediction Transformer](http://arxiv.org/abs/2504.10275v1)** | 2025-04-14 | <details><summary>Accep...</summary><p>Accepted: Autonomous Driving Workshop, CVPR 2025</p></details> |
 | **[A Self-Supervised Framework for Space Object Behaviour Characterisation](http://arxiv.org/abs/2504.06176v2)** | 2025-04-11 | 15 pages, 10 figures |
@@ -38,5 +39,4 @@ labels: documentation
 | **[A Retina-Inspired Pathway to Real-Time Motion Prediction inside Image Sensors for Extreme-Edge Intelligence](http://arxiv.org/abs/2504.01275v1)** | 2025-04-02 | 24 pages, 8 figures |
 | **[RedMotion: Motion Prediction via Redundancy Reduction](http://arxiv.org/abs/2306.10840v4)** | 2025-04-01 | <details><summary>TMLR ...</summary><p>TMLR published version</p></details> |
 | **[DecoFuse: Decomposing and Fusing the "What", "Where", and "How" for Brain-Inspired fMRI-to-Video Decoding](http://arxiv.org/abs/2504.00432v1)** | 2025-04-01 |  |
-| **[Fast Online Learning of CLiFF-maps in Changing Environments](http://arxiv.org/abs/2410.12237v2)** | 2025-03-31 | <details><summary>Accep...</summary><p>Accepted to the 2025 IEEE International Conference on Robotics and Automation (ICRA)</p></details> |
 
