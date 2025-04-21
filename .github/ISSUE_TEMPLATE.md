@@ -1,10 +1,13 @@
 ---
-title: Latest 15 Papers - April 21, 2025
+title: Latest 15 Papers - April 22, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning Through Retrospection: Improving Trajectory Prediction for Automated Driving with Error Feedback](http://arxiv.org/abs/2504.13785v1)** | 2025-04-18 |  |
+| **[Equi-Euler GraphNet: An Equivariant, Temporal-Dynamics Informed Graph Neural Network for Dual Force and Trajectory Prediction in Multi-Body Systems](http://arxiv.org/abs/2504.13768v1)** | 2025-04-18 |  |
+| **[Lightweight LiDAR-Camera 3D Dynamic Object Detection and Multi-Class Trajectory Prediction](http://arxiv.org/abs/2504.13647v1)** | 2025-04-18 |  |
 | **[Uncertainty-Aware Trajectory Prediction via Rule-Regularized Heteroscedastic Deep Classification](http://arxiv.org/abs/2504.13111v1)** | 2025-04-17 | <details><summary>17 Pa...</summary><p>17 Pages, 9 figures. Accepted to Robotics: Science and Systems(RSS), 2025</p></details> |
 | **[GC-GAT: Multimodal Vehicular Trajectory Prediction using Graph Goal Conditioning and Cross-context Attention](http://arxiv.org/abs/2504.11150v1)** | 2025-04-15 |  |
 | **[Leveraging Driver Field-of-View for Multimodal Ego-Trajectory Prediction](http://arxiv.org/abs/2312.08558v2)** | 2025-04-15 | <details><summary>Accep...</summary><p>Accepted to 13th International Conference on Learning Representations (ICLR 2025), 29 pages</p></details> |
@@ -17,9 +20,6 @@ labels: documentation
 | **[GAMDTP: Dynamic Trajectory Prediction with Graph Attention Mamba Network](http://arxiv.org/abs/2504.04862v1)** | 2025-04-07 |  |
 | **[TrajLearn: Trajectory Prediction Learning using Deep Generative Models](http://arxiv.org/abs/2501.00184v2)** | 2025-04-04 | <details><summary>Accep...</summary><p>Accepted at ACM Transactions on Spatial Algorithms and Systems</p></details> |
 | **[Data-Driven Object Tracking: Integrating Modular Neural Networks into a Kalman Framework](http://arxiv.org/abs/2504.02519v1)** | 2025-04-03 |  |
-| **[Virtual Target Trajectory Prediction for Stochastic Targets](http://arxiv.org/abs/2504.01851v1)** | 2025-04-02 | <details><summary>will ...</summary><p>will be submitted to Journal of Guidance, Control, and Dynamics</p></details> |
-| **[Tra-MoE: Learning Trajectory Prediction Model from Multiple Domains for Adaptive Policy Conditioning](http://arxiv.org/abs/2411.14519v2)** | 2025-04-01 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025. Code Page: https://github.com/MCG-NJU/Tra-MoE</p></details> |
-| **[Fine-Grained Behavior and Lane Constraints Guided Trajectory Prediction Method](http://arxiv.org/abs/2503.21477v2)** | 2025-04-01 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
