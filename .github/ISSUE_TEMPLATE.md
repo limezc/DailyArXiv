@@ -1,10 +1,11 @@
 ---
-title: Latest 15 Papers - April 22, 2025
+title: Latest 15 Papers - April 23, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Relevance-driven Decision Making for Safer and More Efficient Human Robot Collaboration](http://arxiv.org/abs/2409.13998v2)** | 2025-04-18 |  |
 | **[Learning Through Retrospection: Improving Trajectory Prediction for Automated Driving with Error Feedback](http://arxiv.org/abs/2504.13785v1)** | 2025-04-18 |  |
 | **[Equi-Euler GraphNet: An Equivariant, Temporal-Dynamics Informed Graph Neural Network for Dual Force and Trajectory Prediction in Multi-Body Systems](http://arxiv.org/abs/2504.13768v1)** | 2025-04-18 |  |
 | **[Lightweight LiDAR-Camera 3D Dynamic Object Detection and Multi-Class Trajectory Prediction](http://arxiv.org/abs/2504.13647v1)** | 2025-04-18 |  |
@@ -19,7 +20,6 @@ labels: documentation
 | **[DyTTP: Trajectory Prediction with Normalization-Free Transformers](http://arxiv.org/abs/2504.05356v1)** | 2025-04-07 |  |
 | **[GAMDTP: Dynamic Trajectory Prediction with Graph Attention Mamba Network](http://arxiv.org/abs/2504.04862v1)** | 2025-04-07 |  |
 | **[TrajLearn: Trajectory Prediction Learning using Deep Generative Models](http://arxiv.org/abs/2501.00184v2)** | 2025-04-04 | <details><summary>Accep...</summary><p>Accepted at ACM Transactions on Spatial Algorithms and Systems</p></details> |
-| **[Data-Driven Object Tracking: Integrating Modular Neural Networks into a Kalman Framework](http://arxiv.org/abs/2504.02519v1)** | 2025-04-03 |  |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
