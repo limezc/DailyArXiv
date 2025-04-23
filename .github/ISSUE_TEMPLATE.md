@@ -1,13 +1,18 @@
 ---
-title: Latest 15 Papers - April 23, 2025
+title: Latest 15 Papers - April 24, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Mitigating Traffic Oscillations in Mixed Traffic Flow with Scalable Deep Koopman Predictive Control](http://arxiv.org/abs/2502.00043v2)** | 2025-04-22 |  |
+| **[Bidirectional Task-Motion Planning Based on Hierarchical Reinforcement Learning for Strategic Confrontation](http://arxiv.org/abs/2504.15876v1)** | 2025-04-22 |  |
+| **[Dynamic Intent Queries for Motion Transformer-based Trajectory Prediction](http://arxiv.org/abs/2504.15766v1)** | 2025-04-22 |  |
+| **[Equi-Euler GraphNet: An Equivariant, Temporal-Dynamics Informed Graph Neural Network for Dual Force and Trajectory Prediction in Multi-Body Systems](http://arxiv.org/abs/2504.13768v2)** | 2025-04-22 | <details><summary>permi...</summary><p>permission not yet received for arXiv</p></details> |
+| **[SocialMOIF: Multi-Order Intention Fusion for Pedestrian Trajectory Prediction](http://arxiv.org/abs/2504.15616v1)** | 2025-04-22 | 11 pages,6 figures |
+| **[RiskNet: Interaction-Aware Risk Forecasting for Autonomous Driving in Long-Tail Scenarios](http://arxiv.org/abs/2504.15541v1)** | 2025-04-22 | 24 pages, 14 figures |
 | **[Relevance-driven Decision Making for Safer and More Efficient Human Robot Collaboration](http://arxiv.org/abs/2409.13998v2)** | 2025-04-18 |  |
 | **[Learning Through Retrospection: Improving Trajectory Prediction for Automated Driving with Error Feedback](http://arxiv.org/abs/2504.13785v1)** | 2025-04-18 |  |
-| **[Equi-Euler GraphNet: An Equivariant, Temporal-Dynamics Informed Graph Neural Network for Dual Force and Trajectory Prediction in Multi-Body Systems](http://arxiv.org/abs/2504.13768v1)** | 2025-04-18 |  |
 | **[Lightweight LiDAR-Camera 3D Dynamic Object Detection and Multi-Class Trajectory Prediction](http://arxiv.org/abs/2504.13647v1)** | 2025-04-18 |  |
 | **[Uncertainty-Aware Trajectory Prediction via Rule-Regularized Heteroscedastic Deep Classification](http://arxiv.org/abs/2504.13111v1)** | 2025-04-17 | <details><summary>17 Pa...</summary><p>17 Pages, 9 figures. Accepted to Robotics: Science and Systems(RSS), 2025</p></details> |
 | **[GC-GAT: Multimodal Vehicular Trajectory Prediction using Graph Goal Conditioning and Cross-context Attention](http://arxiv.org/abs/2504.11150v1)** | 2025-04-15 |  |
@@ -15,11 +20,6 @@ labels: documentation
 | **[LMFormer: Lane based Motion Prediction Transformer](http://arxiv.org/abs/2504.10275v1)** | 2025-04-14 | <details><summary>Accep...</summary><p>Accepted: Autonomous Driving Workshop, CVPR 2025</p></details> |
 | **[IMPACT: Behavioral Intention-aware Multimodal Trajectory Prediction with Adaptive Context Trimming](http://arxiv.org/abs/2504.09103v1)** | 2025-04-12 | under review |
 | **[Novel Diffusion Models for Multimodal 3D Hand Trajectory Prediction](http://arxiv.org/abs/2504.07375v1)** | 2025-04-10 |  |
-| **[MIAT: Maneuver-Intention-Aware Transformer for Spatio-Temporal Trajectory Prediction](http://arxiv.org/abs/2504.05059v1)** | 2025-04-07 |  |
-| **[Wavelet Policy: Imitation Policy Learning in Frequency Domain with Wavelet Transforms](http://arxiv.org/abs/2504.04991v1)** | 2025-04-07 |  |
-| **[DyTTP: Trajectory Prediction with Normalization-Free Transformers](http://arxiv.org/abs/2504.05356v1)** | 2025-04-07 |  |
-| **[GAMDTP: Dynamic Trajectory Prediction with Graph Attention Mamba Network](http://arxiv.org/abs/2504.04862v1)** | 2025-04-07 |  |
-| **[TrajLearn: Trajectory Prediction Learning using Deep Generative Models](http://arxiv.org/abs/2501.00184v2)** | 2025-04-04 | <details><summary>Accep...</summary><p>Accepted at ACM Transactions on Spatial Algorithms and Systems</p></details> |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
