@@ -1,13 +1,13 @@
 ---
-title: Latest 15 Papers - April 25, 2025
+title: Latest 15 Papers - April 26, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Marginalized Generalized IoU (MGIoU): A Unified Objective Function for Optimizing Any Convex Parametric Shapes](http://arxiv.org/abs/2504.16443v2)** | 2025-04-24 | 8 pages |
 | **[Building Real-time Awareness of Out-of-distribution in Trajectory Prediction for Autonomous Vehicles](http://arxiv.org/abs/2409.17277v2)** | 2025-04-23 |  |
 | **[Bidirectional Task-Motion Planning Based on Hierarchical Reinforcement Learning for Strategic Confrontation](http://arxiv.org/abs/2504.15876v2)** | 2025-04-23 |  |
-| **[Marginalized Generalized IoU (MGIoU): A Unified Objective Function for Optimizing Any Convex Parametric Shapes](http://arxiv.org/abs/2504.16443v1)** | 2025-04-23 | 8 pages |
 | **[SILM: A Subjective Intent Based Low-Latency Framework for Multiple Traffic Participants Joint Trajectory Prediction](http://arxiv.org/abs/2504.16377v1)** | 2025-04-23 |  |
 | **[Mitigating Traffic Oscillations in Mixed Traffic Flow with Scalable Deep Koopman Predictive Control](http://arxiv.org/abs/2502.00043v2)** | 2025-04-22 |  |
 | **[Dynamic Intent Queries for Motion Transformer-based Trajectory Prediction](http://arxiv.org/abs/2504.15766v1)** | 2025-04-22 |  |
@@ -24,6 +24,7 @@ labels: documentation
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset](http://arxiv.org/abs/2504.17371v1)** | 2025-04-24 |  |
 | **[UncAD: Towards Safe End-to-end Autonomous Driving via Online Map Uncertainty](http://arxiv.org/abs/2504.12826v1)** | 2025-04-17 |  |
 | **[GC-GAT: Multimodal Vehicular Trajectory Prediction using Graph Goal Conditioning and Cross-context Attention](http://arxiv.org/abs/2504.11150v1)** | 2025-04-15 |  |
 | **[LMFormer: Lane based Motion Prediction Transformer](http://arxiv.org/abs/2504.10275v1)** | 2025-04-14 | <details><summary>Accep...</summary><p>Accepted: Autonomous Driving Workshop, CVPR 2025</p></details> |
@@ -38,5 +39,4 @@ labels: documentation
 | **[Focal Mechanism Uncertainty Quantification In Ground Motion Simulations Of Le Teil Earthquake](http://arxiv.org/abs/2504.01868v1)** | 2025-04-02 |  |
 | **[A Retina-Inspired Pathway to Real-Time Motion Prediction inside Image Sensors for Extreme-Edge Intelligence](http://arxiv.org/abs/2504.01275v1)** | 2025-04-02 | 24 pages, 8 figures |
 | **[RedMotion: Motion Prediction via Redundancy Reduction](http://arxiv.org/abs/2306.10840v4)** | 2025-04-01 | <details><summary>TMLR ...</summary><p>TMLR published version</p></details> |
-| **[DecoFuse: Decomposing and Fusing the "What", "Where", and "How" for Brain-Inspired fMRI-to-Video Decoding](http://arxiv.org/abs/2504.00432v1)** | 2025-04-01 |  |
 
