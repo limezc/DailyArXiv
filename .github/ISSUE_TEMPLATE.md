@@ -1,30 +1,30 @@
 ---
-title: Latest 15 Papers - April 28, 2025
+title: Latest 15 Papers - April 29, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Enhancing System Self-Awareness and Trust of AI: A Case Study in Trajectory Prediction and Planning](http://arxiv.org/abs/2504.18421v1)** | 2025-04-25 | <details><summary>Accep...</summary><p>Accepted to be published as part of the 2025 IEEE Intelligent Vehicles Symposium (IV), JCluj-Napoca, Romania, June 22-25, 2025</p></details> |
+| **[Equi-Euler GraphNet: An Equivariant, Temporal-Dynamics Informed Graph Neural Network for Dual Force and Trajectory Prediction in Multi-Body Systems](http://arxiv.org/abs/2504.13768v3)** | 2025-04-25 | <details><summary>Reupl...</summary><p>Reuploaded with new version-- equation 16 was incorrect</p></details> |
+| **[PreGSU-A Generalized Traffic Scene Understanding Model for Autonomous Driving based on Pre-trained Graph Attention Network](http://arxiv.org/abs/2404.10263v2)** | 2025-04-25 | 14 pages |
 | **[Marginalized Generalized IoU (MGIoU): A Unified Objective Function for Optimizing Any Convex Parametric Shapes](http://arxiv.org/abs/2504.16443v2)** | 2025-04-24 | 8 pages |
 | **[Building Real-time Awareness of Out-of-distribution in Trajectory Prediction for Autonomous Vehicles](http://arxiv.org/abs/2409.17277v2)** | 2025-04-23 |  |
 | **[Bidirectional Task-Motion Planning Based on Hierarchical Reinforcement Learning for Strategic Confrontation](http://arxiv.org/abs/2504.15876v2)** | 2025-04-23 |  |
 | **[SILM: A Subjective Intent Based Low-Latency Framework for Multiple Traffic Participants Joint Trajectory Prediction](http://arxiv.org/abs/2504.16377v1)** | 2025-04-23 |  |
 | **[Mitigating Traffic Oscillations in Mixed Traffic Flow with Scalable Deep Koopman Predictive Control](http://arxiv.org/abs/2502.00043v2)** | 2025-04-22 |  |
 | **[Dynamic Intent Queries for Motion Transformer-based Trajectory Prediction](http://arxiv.org/abs/2504.15766v1)** | 2025-04-22 |  |
-| **[Equi-Euler GraphNet: An Equivariant, Temporal-Dynamics Informed Graph Neural Network for Dual Force and Trajectory Prediction in Multi-Body Systems](http://arxiv.org/abs/2504.13768v2)** | 2025-04-22 | <details><summary>permi...</summary><p>permission not yet received for arXiv</p></details> |
 | **[SocialMOIF: Multi-Order Intention Fusion for Pedestrian Trajectory Prediction](http://arxiv.org/abs/2504.15616v1)** | 2025-04-22 | 11 pages,6 figures |
 | **[RiskNet: Interaction-Aware Risk Forecasting for Autonomous Driving in Long-Tail Scenarios](http://arxiv.org/abs/2504.15541v1)** | 2025-04-22 | 24 pages, 14 figures |
 | **[Relevance-driven Decision Making for Safer and More Efficient Human Robot Collaboration](http://arxiv.org/abs/2409.13998v2)** | 2025-04-18 |  |
 | **[Learning Through Retrospection: Improving Trajectory Prediction for Automated Driving with Error Feedback](http://arxiv.org/abs/2504.13785v1)** | 2025-04-18 |  |
 | **[Lightweight LiDAR-Camera 3D Dynamic Object Detection and Multi-Class Trajectory Prediction](http://arxiv.org/abs/2504.13647v1)** | 2025-04-18 |  |
 | **[Uncertainty-Aware Trajectory Prediction via Rule-Regularized Heteroscedastic Deep Classification](http://arxiv.org/abs/2504.13111v1)** | 2025-04-17 | <details><summary>17 Pa...</summary><p>17 Pages, 9 figures. Accepted to Robotics: Science and Systems(RSS), 2025</p></details> |
-| **[GC-GAT: Multimodal Vehicular Trajectory Prediction using Graph Goal Conditioning and Cross-context Attention](http://arxiv.org/abs/2504.11150v1)** | 2025-04-15 |  |
-| **[Leveraging Driver Field-of-View for Multimodal Ego-Trajectory Prediction](http://arxiv.org/abs/2312.08558v2)** | 2025-04-15 | <details><summary>Accep...</summary><p>Accepted to 13th International Conference on Learning Representations (ICLR 2025), 29 pages</p></details> |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset](http://arxiv.org/abs/2504.17371v1)** | 2025-04-24 |  |
+| **[Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset](http://arxiv.org/abs/2504.17371v2)** | 2025-04-25 |  |
 | **[UncAD: Towards Safe End-to-end Autonomous Driving via Online Map Uncertainty](http://arxiv.org/abs/2504.12826v1)** | 2025-04-17 |  |
 | **[GC-GAT: Multimodal Vehicular Trajectory Prediction using Graph Goal Conditioning and Cross-context Attention](http://arxiv.org/abs/2504.11150v1)** | 2025-04-15 |  |
 | **[LMFormer: Lane based Motion Prediction Transformer](http://arxiv.org/abs/2504.10275v1)** | 2025-04-14 | <details><summary>Accep...</summary><p>Accepted: Autonomous Driving Workshop, CVPR 2025</p></details> |
