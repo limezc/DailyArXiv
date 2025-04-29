@@ -1,10 +1,12 @@
 ---
-title: Latest 15 Papers - April 29, 2025
+title: Latest 15 Papers - April 30, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Ball Spin and Trajectory Analysis in Table Tennis Broadcast Videos via Physically Grounded Synthetic-to-Real Transfer](http://arxiv.org/abs/2504.19863v1)** | 2025-04-28 | <details><summary>To be...</summary><p>To be published in 2025 IEEE/CVF International Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)</p></details> |
+| **[Demonstrating DVS: Dynamic Virtual-Real Simulation Platform for Mobile Robotic Tasks](http://arxiv.org/abs/2504.18944v1)** | 2025-04-26 |  |
 | **[Enhancing System Self-Awareness and Trust of AI: A Case Study in Trajectory Prediction and Planning](http://arxiv.org/abs/2504.18421v1)** | 2025-04-25 | <details><summary>Accep...</summary><p>Accepted to be published as part of the 2025 IEEE Intelligent Vehicles Symposium (IV), JCluj-Napoca, Romania, June 22-25, 2025</p></details> |
 | **[Equi-Euler GraphNet: An Equivariant, Temporal-Dynamics Informed Graph Neural Network for Dual Force and Trajectory Prediction in Multi-Body Systems](http://arxiv.org/abs/2504.13768v3)** | 2025-04-25 | <details><summary>Reupl...</summary><p>Reuploaded with new version-- equation 16 was incorrect</p></details> |
 | **[PreGSU-A Generalized Traffic Scene Understanding Model for Autonomous Driving based on Pre-trained Graph Attention Network](http://arxiv.org/abs/2404.10263v2)** | 2025-04-25 | 14 pages |
@@ -18,8 +20,6 @@ labels: documentation
 | **[RiskNet: Interaction-Aware Risk Forecasting for Autonomous Driving in Long-Tail Scenarios](http://arxiv.org/abs/2504.15541v1)** | 2025-04-22 | 24 pages, 14 figures |
 | **[Relevance-driven Decision Making for Safer and More Efficient Human Robot Collaboration](http://arxiv.org/abs/2409.13998v2)** | 2025-04-18 |  |
 | **[Learning Through Retrospection: Improving Trajectory Prediction for Automated Driving with Error Feedback](http://arxiv.org/abs/2504.13785v1)** | 2025-04-18 |  |
-| **[Lightweight LiDAR-Camera 3D Dynamic Object Detection and Multi-Class Trajectory Prediction](http://arxiv.org/abs/2504.13647v1)** | 2025-04-18 |  |
-| **[Uncertainty-Aware Trajectory Prediction via Rule-Regularized Heteroscedastic Deep Classification](http://arxiv.org/abs/2504.13111v1)** | 2025-04-17 | <details><summary>17 Pa...</summary><p>17 Pages, 9 figures. Accepted to Robotics: Science and Systems(RSS), 2025</p></details> |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
