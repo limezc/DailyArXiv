@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 30, 2025
+title: Latest 15 Papers - May 01, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
@@ -24,6 +24,7 @@ labels: documentation
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EgoAgent: A Joint Predictive Agent Model in Egocentric Worlds](http://arxiv.org/abs/2502.05857v2)** | 2025-04-29 |  |
 | **[Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset](http://arxiv.org/abs/2504.17371v2)** | 2025-04-25 |  |
 | **[UncAD: Towards Safe End-to-end Autonomous Driving via Online Map Uncertainty](http://arxiv.org/abs/2504.12826v1)** | 2025-04-17 |  |
 | **[GC-GAT: Multimodal Vehicular Trajectory Prediction using Graph Goal Conditioning and Cross-context Attention](http://arxiv.org/abs/2504.11150v1)** | 2025-04-15 |  |
@@ -38,5 +39,4 @@ labels: documentation
 | **[Nonisotropic Gaussian Diffusion for Realistic 3D Human Motion Prediction](http://arxiv.org/abs/2501.06035v2)** | 2025-04-03 | <details><summary>CVPR ...</summary><p>CVPR 2025. Code availabe at https://ceveloper.github.io/publications/skeletondiffusion</p></details> |
 | **[Focal Mechanism Uncertainty Quantification In Ground Motion Simulations Of Le Teil Earthquake](http://arxiv.org/abs/2504.01868v1)** | 2025-04-02 |  |
 | **[A Retina-Inspired Pathway to Real-Time Motion Prediction inside Image Sensors for Extreme-Edge Intelligence](http://arxiv.org/abs/2504.01275v1)** | 2025-04-02 | 24 pages, 8 figures |
-| **[RedMotion: Motion Prediction via Redundancy Reduction](http://arxiv.org/abs/2306.10840v4)** | 2025-04-01 | <details><summary>TMLR ...</summary><p>TMLR published version</p></details> |
 
