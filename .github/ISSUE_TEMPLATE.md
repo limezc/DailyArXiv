@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 01, 2025
+title: Latest 15 Papers - May 02, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
@@ -24,6 +24,7 @@ labels: documentation
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BEVWorld: A Multimodal World Simulator for Autonomous Driving via Scene-Level BEV Latents](http://arxiv.org/abs/2407.05679v3)** | 2025-04-30 | 10 pages |
 | **[EgoAgent: A Joint Predictive Agent Model in Egocentric Worlds](http://arxiv.org/abs/2502.05857v2)** | 2025-04-29 |  |
 | **[Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset](http://arxiv.org/abs/2504.17371v2)** | 2025-04-25 |  |
 | **[UncAD: Towards Safe End-to-end Autonomous Driving via Online Map Uncertainty](http://arxiv.org/abs/2504.12826v1)** | 2025-04-17 |  |
@@ -38,5 +39,4 @@ labels: documentation
 | **[L-LBVC: Long-Term Motion Estimation and Prediction for Learned Bi-Directional Video Compression](http://arxiv.org/abs/2504.02560v1)** | 2025-04-03 | <details><summary>Accep...</summary><p>Accepted to 2025 Data Compression Conference (DCC)</p></details> |
 | **[Nonisotropic Gaussian Diffusion for Realistic 3D Human Motion Prediction](http://arxiv.org/abs/2501.06035v2)** | 2025-04-03 | <details><summary>CVPR ...</summary><p>CVPR 2025. Code availabe at https://ceveloper.github.io/publications/skeletondiffusion</p></details> |
 | **[Focal Mechanism Uncertainty Quantification In Ground Motion Simulations Of Le Teil Earthquake](http://arxiv.org/abs/2504.01868v1)** | 2025-04-02 |  |
-| **[A Retina-Inspired Pathway to Real-Time Motion Prediction inside Image Sensors for Extreme-Edge Intelligence](http://arxiv.org/abs/2504.01275v1)** | 2025-04-02 | 24 pages, 8 figures |
 
