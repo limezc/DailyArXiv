@@ -1,10 +1,14 @@
 ---
-title: Latest 15 Papers - May 02, 2025
+title: Latest 15 Papers - May 03, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Open-Source LLM-Driven Federated Transformer for Predictive IoV Management](http://arxiv.org/abs/2505.00651v1)** | 2025-05-01 | <details><summary>Prepr...</summary><p>Preprint version; submitted for academic peer review</p></details> |
+| **[Visual Trajectory Prediction of Vessels for Inland Navigation](http://arxiv.org/abs/2505.00599v1)** | 2025-05-01 |  |
+| **[ParkDiffusion: Heterogeneous Multi-Agent Multi-Modal Trajectory Prediction for Automated Parking using Diffusion Models](http://arxiv.org/abs/2505.00586v1)** | 2025-05-01 |  |
+| **[Towards Physically Interpretable World Models: Meaningful Weakly Supervised Representations for Visual Trajectory Prediction](http://arxiv.org/abs/2412.12870v3)** | 2025-05-01 |  |
 | **[Towards Ball Spin and Trajectory Analysis in Table Tennis Broadcast Videos via Physically Grounded Synthetic-to-Real Transfer](http://arxiv.org/abs/2504.19863v1)** | 2025-04-28 | <details><summary>To be...</summary><p>To be published in 2025 IEEE/CVF International Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)</p></details> |
 | **[Demonstrating DVS: Dynamic Virtual-Real Simulation Platform for Mobile Robotic Tasks](http://arxiv.org/abs/2504.18944v1)** | 2025-04-26 |  |
 | **[Enhancing System Self-Awareness and Trust of AI: A Case Study in Trajectory Prediction and Planning](http://arxiv.org/abs/2504.18421v1)** | 2025-04-25 | <details><summary>Accep...</summary><p>Accepted to be published as part of the 2025 IEEE Intelligent Vehicles Symposium (IV), JCluj-Napoca, Romania, June 22-25, 2025</p></details> |
@@ -16,14 +20,11 @@ labels: documentation
 | **[SILM: A Subjective Intent Based Low-Latency Framework for Multiple Traffic Participants Joint Trajectory Prediction](http://arxiv.org/abs/2504.16377v1)** | 2025-04-23 |  |
 | **[Mitigating Traffic Oscillations in Mixed Traffic Flow with Scalable Deep Koopman Predictive Control](http://arxiv.org/abs/2502.00043v2)** | 2025-04-22 |  |
 | **[Dynamic Intent Queries for Motion Transformer-based Trajectory Prediction](http://arxiv.org/abs/2504.15766v1)** | 2025-04-22 |  |
-| **[SocialMOIF: Multi-Order Intention Fusion for Pedestrian Trajectory Prediction](http://arxiv.org/abs/2504.15616v1)** | 2025-04-22 | 11 pages,6 figures |
-| **[RiskNet: Interaction-Aware Risk Forecasting for Autonomous Driving in Long-Tail Scenarios](http://arxiv.org/abs/2504.15541v1)** | 2025-04-22 | 24 pages, 14 figures |
-| **[Relevance-driven Decision Making for Safer and More Efficient Human Robot Collaboration](http://arxiv.org/abs/2409.13998v2)** | 2025-04-18 |  |
-| **[Learning Through Retrospection: Improving Trajectory Prediction for Automated Driving with Error Feedback](http://arxiv.org/abs/2504.13785v1)** | 2025-04-18 |  |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Future-Oriented Navigation: Dynamic Obstacle Avoidance with One-Shot Energy-Based Multimodal Motion Prediction](http://arxiv.org/abs/2505.00237v1)** | 2025-05-01 | <details><summary>Submi...</summary><p>Submitted to IEEE RA-L</p></details> |
 | **[BEVWorld: A Multimodal World Simulator for Autonomous Driving via Scene-Level BEV Latents](http://arxiv.org/abs/2407.05679v3)** | 2025-04-30 | 10 pages |
 | **[EgoAgent: A Joint Predictive Agent Model in Egocentric Worlds](http://arxiv.org/abs/2502.05857v2)** | 2025-04-29 |  |
 | **[Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset](http://arxiv.org/abs/2504.17371v2)** | 2025-04-25 |  |
@@ -38,5 +39,4 @@ labels: documentation
 | **[Deep Learning-Enhanced Robotic Subretinal Injection with Real-Time Retinal Motion Compensation](http://arxiv.org/abs/2504.03939v1)** | 2025-04-04 |  |
 | **[L-LBVC: Long-Term Motion Estimation and Prediction for Learned Bi-Directional Video Compression](http://arxiv.org/abs/2504.02560v1)** | 2025-04-03 | <details><summary>Accep...</summary><p>Accepted to 2025 Data Compression Conference (DCC)</p></details> |
 | **[Nonisotropic Gaussian Diffusion for Realistic 3D Human Motion Prediction](http://arxiv.org/abs/2501.06035v2)** | 2025-04-03 | <details><summary>CVPR ...</summary><p>CVPR 2025. Code availabe at https://ceveloper.github.io/publications/skeletondiffusion</p></details> |
-| **[Focal Mechanism Uncertainty Quantification In Ground Motion Simulations Of Le Teil Earthquake](http://arxiv.org/abs/2504.01868v1)** | 2025-04-02 |  |
 
