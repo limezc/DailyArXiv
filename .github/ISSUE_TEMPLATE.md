@@ -1,10 +1,12 @@
 ---
-title: Latest 15 Papers - May 06, 2025
+title: Latest 15 Papers - May 07, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Probabilistic Method for Optimizing Submarine Search and Rescue Strategy Under Environmental Uncertainty](http://arxiv.org/abs/2505.02186v1)** | 2025-05-04 |  |
+| **[Predictive Planner for Autonomous Driving with Consistency Models](http://arxiv.org/abs/2502.08033v2)** | 2025-05-02 |  |
 | **[Open-Source LLM-Driven Federated Transformer for Predictive IoV Management](http://arxiv.org/abs/2505.00651v1)** | 2025-05-01 | <details><summary>Prepr...</summary><p>Preprint version; submitted for academic peer review</p></details> |
 | **[Visual Trajectory Prediction of Vessels for Inland Navigation](http://arxiv.org/abs/2505.00599v1)** | 2025-05-01 |  |
 | **[ParkDiffusion: Heterogeneous Multi-Agent Multi-Modal Trajectory Prediction for Automated Parking using Diffusion Models](http://arxiv.org/abs/2505.00586v1)** | 2025-05-01 |  |
@@ -18,8 +20,6 @@ labels: documentation
 | **[Building Real-time Awareness of Out-of-distribution in Trajectory Prediction for Autonomous Vehicles](http://arxiv.org/abs/2409.17277v2)** | 2025-04-23 |  |
 | **[Bidirectional Task-Motion Planning Based on Hierarchical Reinforcement Learning for Strategic Confrontation](http://arxiv.org/abs/2504.15876v2)** | 2025-04-23 |  |
 | **[SILM: A Subjective Intent Based Low-Latency Framework for Multiple Traffic Participants Joint Trajectory Prediction](http://arxiv.org/abs/2504.16377v1)** | 2025-04-23 |  |
-| **[Mitigating Traffic Oscillations in Mixed Traffic Flow with Scalable Deep Koopman Predictive Control](http://arxiv.org/abs/2502.00043v2)** | 2025-04-22 |  |
-| **[Dynamic Intent Queries for Motion Transformer-based Trajectory Prediction](http://arxiv.org/abs/2504.15766v1)** | 2025-04-22 |  |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
