@@ -1,10 +1,11 @@
 ---
-title: Latest 15 Papers - May 07, 2025
+title: Latest 15 Papers - May 08, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DyTTP: Trajectory Prediction with Normalization-Free Transformers](http://arxiv.org/abs/2504.05356v2)** | 2025-05-06 |  |
 | **[Probabilistic Method for Optimizing Submarine Search and Rescue Strategy Under Environmental Uncertainty](http://arxiv.org/abs/2505.02186v1)** | 2025-05-04 |  |
 | **[Predictive Planner for Autonomous Driving with Consistency Models](http://arxiv.org/abs/2502.08033v2)** | 2025-05-02 |  |
 | **[Open-Source LLM-Driven Federated Transformer for Predictive IoV Management](http://arxiv.org/abs/2505.00651v1)** | 2025-05-01 | <details><summary>Prepr...</summary><p>Preprint version; submitted for academic peer review</p></details> |
@@ -19,7 +20,6 @@ labels: documentation
 | **[Marginalized Generalized IoU (MGIoU): A Unified Objective Function for Optimizing Any Convex Parametric Shapes](http://arxiv.org/abs/2504.16443v2)** | 2025-04-24 | 8 pages |
 | **[Building Real-time Awareness of Out-of-distribution in Trajectory Prediction for Autonomous Vehicles](http://arxiv.org/abs/2409.17277v2)** | 2025-04-23 |  |
 | **[Bidirectional Task-Motion Planning Based on Hierarchical Reinforcement Learning for Strategic Confrontation](http://arxiv.org/abs/2504.15876v2)** | 2025-04-23 |  |
-| **[SILM: A Subjective Intent Based Low-Latency Framework for Multiple Traffic Participants Joint Trajectory Prediction](http://arxiv.org/abs/2504.16377v1)** | 2025-04-23 |  |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
