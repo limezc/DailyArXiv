@@ -1,10 +1,12 @@
 ---
-title: Latest 15 Papers - May 08, 2025
+title: Latest 15 Papers - May 09, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TrajEvo: Designing Trajectory Prediction Heuristics via LLM-driven Evolution](http://arxiv.org/abs/2505.04480v1)** | 2025-05-07 |  |
+| **[Evaluation Framework for Sensor Configuration Impact on Deep Learning-Based Perception](http://arxiv.org/abs/2503.05939v2)** | 2025-05-07 | 11 pages, 10 figures |
 | **[DyTTP: Trajectory Prediction with Normalization-Free Transformers](http://arxiv.org/abs/2504.05356v2)** | 2025-05-06 |  |
 | **[Probabilistic Method for Optimizing Submarine Search and Rescue Strategy Under Environmental Uncertainty](http://arxiv.org/abs/2505.02186v1)** | 2025-05-04 |  |
 | **[Predictive Planner for Autonomous Driving with Consistency Models](http://arxiv.org/abs/2502.08033v2)** | 2025-05-02 |  |
@@ -18,12 +20,11 @@ labels: documentation
 | **[Equi-Euler GraphNet: An Equivariant, Temporal-Dynamics Informed Graph Neural Network for Dual Force and Trajectory Prediction in Multi-Body Systems](http://arxiv.org/abs/2504.13768v3)** | 2025-04-25 | <details><summary>Reupl...</summary><p>Reuploaded with new version-- equation 16 was incorrect</p></details> |
 | **[PreGSU-A Generalized Traffic Scene Understanding Model for Autonomous Driving based on Pre-trained Graph Attention Network](http://arxiv.org/abs/2404.10263v2)** | 2025-04-25 | 14 pages |
 | **[Marginalized Generalized IoU (MGIoU): A Unified Objective Function for Optimizing Any Convex Parametric Shapes](http://arxiv.org/abs/2504.16443v2)** | 2025-04-24 | 8 pages |
-| **[Building Real-time Awareness of Out-of-distribution in Trajectory Prediction for Autonomous Vehicles](http://arxiv.org/abs/2409.17277v2)** | 2025-04-23 |  |
-| **[Bidirectional Task-Motion Planning Based on Hierarchical Reinforcement Learning for Strategic Confrontation](http://arxiv.org/abs/2504.15876v2)** | 2025-04-23 |  |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dynamic Network Flow Optimization for Task Scheduling in PTZ Camera Surveillance Systems](http://arxiv.org/abs/2505.04596v1)** | 2025-05-07 | <details><summary>7 pag...</summary><p>7 pages, 3 Figures, Accepted at AIRC 2025</p></details> |
 | **[Future-Oriented Navigation: Dynamic Obstacle Avoidance with One-Shot Energy-Based Multimodal Motion Prediction](http://arxiv.org/abs/2505.00237v1)** | 2025-05-01 | <details><summary>Submi...</summary><p>Submitted to IEEE RA-L</p></details> |
 | **[BEVWorld: A Multimodal World Simulator for Autonomous Driving via Scene-Level BEV Latents](http://arxiv.org/abs/2407.05679v3)** | 2025-04-30 | 10 pages |
 | **[EgoAgent: A Joint Predictive Agent Model in Egocentric Worlds](http://arxiv.org/abs/2502.05857v2)** | 2025-04-29 |  |
@@ -38,5 +39,4 @@ labels: documentation
 | **[Data Scaling Laws for End-to-End Autonomous Driving](http://arxiv.org/abs/2504.04338v1)** | 2025-04-06 | <details><summary>15 pa...</summary><p>15 pages, 11 figures, 4 tables, CVPR 2025 Workshop on Autonomous Driving</p></details> |
 | **[Deep Learning-Enhanced Robotic Subretinal Injection with Real-Time Retinal Motion Compensation](http://arxiv.org/abs/2504.03939v1)** | 2025-04-04 |  |
 | **[L-LBVC: Long-Term Motion Estimation and Prediction for Learned Bi-Directional Video Compression](http://arxiv.org/abs/2504.02560v1)** | 2025-04-03 | <details><summary>Accep...</summary><p>Accepted to 2025 Data Compression Conference (DCC)</p></details> |
-| **[Nonisotropic Gaussian Diffusion for Realistic 3D Human Motion Prediction](http://arxiv.org/abs/2501.06035v2)** | 2025-04-03 | <details><summary>CVPR ...</summary><p>CVPR 2025. Code availabe at https://ceveloper.github.io/publications/skeletondiffusion</p></details> |
 
