@@ -1,10 +1,12 @@
 ---
-title: Latest 15 Papers - May 09, 2025
+title: Latest 15 Papers - May 10, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Don't Shake the Wheel: Momentum-Aware Planning in End-to-End Autonomous Driving](http://arxiv.org/abs/2503.03125v3)** | 2025-05-08 | 16 pages, 8 figures |
+| **[Diffusion Models for Intelligent Transportation Systems: A Survey](http://arxiv.org/abs/2409.15816v3)** | 2025-05-08 | 7 figures |
 | **[TrajEvo: Designing Trajectory Prediction Heuristics via LLM-driven Evolution](http://arxiv.org/abs/2505.04480v1)** | 2025-05-07 |  |
 | **[Evaluation Framework for Sensor Configuration Impact on Deep Learning-Based Perception](http://arxiv.org/abs/2503.05939v2)** | 2025-05-07 | 11 pages, 10 figures |
 | **[DyTTP: Trajectory Prediction with Normalization-Free Transformers](http://arxiv.org/abs/2504.05356v2)** | 2025-05-06 |  |
@@ -18,8 +20,6 @@ labels: documentation
 | **[Demonstrating DVS: Dynamic Virtual-Real Simulation Platform for Mobile Robotic Tasks](http://arxiv.org/abs/2504.18944v1)** | 2025-04-26 |  |
 | **[Enhancing System Self-Awareness and Trust of AI: A Case Study in Trajectory Prediction and Planning](http://arxiv.org/abs/2504.18421v1)** | 2025-04-25 | <details><summary>Accep...</summary><p>Accepted to be published as part of the 2025 IEEE Intelligent Vehicles Symposium (IV), JCluj-Napoca, Romania, June 22-25, 2025</p></details> |
 | **[Equi-Euler GraphNet: An Equivariant, Temporal-Dynamics Informed Graph Neural Network for Dual Force and Trajectory Prediction in Multi-Body Systems](http://arxiv.org/abs/2504.13768v3)** | 2025-04-25 | <details><summary>Reupl...</summary><p>Reuploaded with new version-- equation 16 was incorrect</p></details> |
-| **[PreGSU-A Generalized Traffic Scene Understanding Model for Autonomous Driving based on Pre-trained Graph Attention Network](http://arxiv.org/abs/2404.10263v2)** | 2025-04-25 | 14 pages |
-| **[Marginalized Generalized IoU (MGIoU): A Unified Objective Function for Optimizing Any Convex Parametric Shapes](http://arxiv.org/abs/2504.16443v2)** | 2025-04-24 | 8 pages |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
