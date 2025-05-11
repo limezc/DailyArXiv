@@ -1,7 +1,7 @@
 # Daily Papers
 The project automatically fetches the latest papers from arXiv based on keywords.
 
-Last update: 2025-05-11
+Last update: 2025-05-12
 
 ## Trajectory Prediction
 | **Title** | **Date** | **Abstract** | **Comment** |
