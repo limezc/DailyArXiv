@@ -1,10 +1,12 @@
 ---
-title: Latest 15 Papers - May 14, 2025
+title: Latest 15 Papers - May 15, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Open-Source LLM-Driven Federated Transformer for Predictive IoV Management](http://arxiv.org/abs/2505.00651v2)** | 2025-05-13 | <details><summary>Prepr...</summary><p>Preprint version; submitted for academic peer review</p></details> |
+| **[UVTM: Universal Vehicle Trajectory Modeling with ST Feature Domain Generation](http://arxiv.org/abs/2402.07232v4)** | 2025-05-13 |  |
 | **[SICNav-Diffusion: Safe and Interactive Crowd Navigation with Diffusion Trajectory Predictions](http://arxiv.org/abs/2503.08858v2)** | 2025-05-12 |  |
 | **[AIS Data-Driven Maritime Monitoring Based on Transformer: A Comprehensive Review](http://arxiv.org/abs/2505.07374v1)** | 2025-05-12 |  |
 | **[Towards Accurate State Estimation: Kalman Filter Incorporating Motion Dynamics for 3D Multi-Object Tracking](http://arxiv.org/abs/2505.07254v1)** | 2025-05-12 |  |
@@ -18,13 +20,11 @@ labels: documentation
 | **[TrajEvo: Designing Trajectory Prediction Heuristics via LLM-driven Evolution](http://arxiv.org/abs/2505.04480v1)** | 2025-05-07 |  |
 | **[Evaluation Framework for Sensor Configuration Impact on Deep Learning-Based Perception](http://arxiv.org/abs/2503.05939v2)** | 2025-05-07 | 11 pages, 10 figures |
 | **[Occupancy World Model for Robots](http://arxiv.org/abs/2505.05512v1)** | 2025-05-07 |  |
-| **[DyTTP: Trajectory Prediction with Normalization-Free Transformers](http://arxiv.org/abs/2504.05356v2)** | 2025-05-06 |  |
-| **[Probabilistic Method for Optimizing Submarine Search and Rescue Strategy Under Environmental Uncertainty](http://arxiv.org/abs/2505.02186v1)** | 2025-05-04 |  |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Human Motion Prediction via Test-domain-aware Adaptation with Easily-available Human Motions Estimated from Videos](http://arxiv.org/abs/2505.07301v1)** | 2025-05-12 | 5 pages, 4 figures |
+| **[Human Motion Prediction via Test-domain-aware Adaptation with Easily-available Human Motions Estimated from Videos](http://arxiv.org/abs/2505.07301v2)** | 2025-05-13 | 5 pages, 4 figures |
 | **[Closing the Loop: Motion Prediction Models beyond Open-Loop Benchmarks](http://arxiv.org/abs/2505.05638v1)** | 2025-05-08 |  |
 | **[Dynamic Network Flow Optimization for Task Scheduling in PTZ Camera Surveillance Systems](http://arxiv.org/abs/2505.04596v1)** | 2025-05-07 | <details><summary>7 pag...</summary><p>7 pages, 3 Figures, Accepted at AIRC 2025</p></details> |
 | **[Future-Oriented Navigation: Dynamic Obstacle Avoidance with One-Shot Energy-Based Multimodal Motion Prediction](http://arxiv.org/abs/2505.00237v1)** | 2025-05-01 | <details><summary>Submi...</summary><p>Submitted to IEEE RA-L</p></details> |
