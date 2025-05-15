@@ -1,10 +1,11 @@
 ---
-title: Latest 15 Papers - May 15, 2025
+title: Latest 15 Papers - May 16, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Quantum-Enhanced Parameter-Efficient Learning for Typhoon Trajectory Forecasting](http://arxiv.org/abs/2505.09395v1)** | 2025-05-14 |  |
 | **[Open-Source LLM-Driven Federated Transformer for Predictive IoV Management](http://arxiv.org/abs/2505.00651v2)** | 2025-05-13 | <details><summary>Prepr...</summary><p>Preprint version; submitted for academic peer review</p></details> |
 | **[UVTM: Universal Vehicle Trajectory Modeling with ST Feature Domain Generation](http://arxiv.org/abs/2402.07232v4)** | 2025-05-13 |  |
 | **[SICNav-Diffusion: Safe and Interactive Crowd Navigation with Diffusion Trajectory Predictions](http://arxiv.org/abs/2503.08858v2)** | 2025-05-12 |  |
@@ -19,11 +20,11 @@ labels: documentation
 | **[Diffusion Models for Intelligent Transportation Systems: A Survey](http://arxiv.org/abs/2409.15816v3)** | 2025-05-08 | 7 figures |
 | **[TrajEvo: Designing Trajectory Prediction Heuristics via LLM-driven Evolution](http://arxiv.org/abs/2505.04480v1)** | 2025-05-07 |  |
 | **[Evaluation Framework for Sensor Configuration Impact on Deep Learning-Based Perception](http://arxiv.org/abs/2503.05939v2)** | 2025-05-07 | 11 pages, 10 figures |
-| **[Occupancy World Model for Robots](http://arxiv.org/abs/2505.05512v1)** | 2025-05-07 |  |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Deployable and Generalizable Motion Prediction: Taxonomy, Open Challenges and Future Directions](http://arxiv.org/abs/2505.09074v1)** | 2025-05-14 | <details><summary>Initi...</summary><p>Initial draft, 162 pages, 40 figures, 13 tables</p></details> |
 | **[Human Motion Prediction via Test-domain-aware Adaptation with Easily-available Human Motions Estimated from Videos](http://arxiv.org/abs/2505.07301v2)** | 2025-05-13 | 5 pages, 4 figures |
 | **[Closing the Loop: Motion Prediction Models beyond Open-Loop Benchmarks](http://arxiv.org/abs/2505.05638v1)** | 2025-05-08 |  |
 | **[Dynamic Network Flow Optimization for Task Scheduling in PTZ Camera Surveillance Systems](http://arxiv.org/abs/2505.04596v1)** | 2025-05-07 | <details><summary>7 pag...</summary><p>7 pages, 3 Figures, Accepted at AIRC 2025</p></details> |
@@ -38,5 +39,4 @@ labels: documentation
 | **[POD: Predictive Object Detection with Single-Frame FMCW LiDAR Point Cloud](http://arxiv.org/abs/2504.05649v1)** | 2025-04-08 |  |
 | **[GAMDTP: Dynamic Trajectory Prediction with Graph Attention Mamba Network](http://arxiv.org/abs/2504.04862v1)** | 2025-04-07 |  |
 | **[A High-Speed Time-Optimal Trajectory Generation Strategy via a Two-layer Planning Model](http://arxiv.org/abs/2503.11072v2)** | 2025-04-06 |  |
-| **[Data Scaling Laws for End-to-End Autonomous Driving](http://arxiv.org/abs/2504.04338v1)** | 2025-04-06 | <details><summary>15 pa...</summary><p>15 pages, 11 figures, 4 tables, CVPR 2025 Workshop on Autonomous Driving</p></details> |
 
