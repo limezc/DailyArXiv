@@ -1,10 +1,11 @@
 ---
-title: Latest 15 Papers - May 16, 2025
+title: Latest 15 Papers - May 17, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MambaControl: Anatomy Graph-Enhanced Mamba ControlNet with Fourier Refinement for Diffusion-Based Disease Trajectory Prediction](http://arxiv.org/abs/2505.09965v1)** | 2025-05-15 |  |
 | **[Quantum-Enhanced Parameter-Efficient Learning for Typhoon Trajectory Forecasting](http://arxiv.org/abs/2505.09395v1)** | 2025-05-14 |  |
 | **[Open-Source LLM-Driven Federated Transformer for Predictive IoV Management](http://arxiv.org/abs/2505.00651v2)** | 2025-05-13 | <details><summary>Prepr...</summary><p>Preprint version; submitted for academic peer review</p></details> |
 | **[UVTM: Universal Vehicle Trajectory Modeling with ST Feature Domain Generation](http://arxiv.org/abs/2402.07232v4)** | 2025-05-13 |  |
@@ -19,7 +20,6 @@ labels: documentation
 | **[Don't Shake the Wheel: Momentum-Aware Planning in End-to-End Autonomous Driving](http://arxiv.org/abs/2503.03125v3)** | 2025-05-08 | 16 pages, 8 figures |
 | **[Diffusion Models for Intelligent Transportation Systems: A Survey](http://arxiv.org/abs/2409.15816v3)** | 2025-05-08 | 7 figures |
 | **[TrajEvo: Designing Trajectory Prediction Heuristics via LLM-driven Evolution](http://arxiv.org/abs/2505.04480v1)** | 2025-05-07 |  |
-| **[Evaluation Framework for Sensor Configuration Impact on Deep Learning-Based Perception](http://arxiv.org/abs/2503.05939v2)** | 2025-05-07 | 11 pages, 10 figures |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
