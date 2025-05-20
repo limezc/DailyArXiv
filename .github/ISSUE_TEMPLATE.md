@@ -1,10 +1,12 @@
 ---
-title: Latest 15 Papers - May 20, 2025
+title: Latest 15 Papers - May 21, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Knowledge-Informed Multi-Agent Trajectory Prediction at Signalized Intersections for Infrastructure-to-Everything](http://arxiv.org/abs/2501.13461v2)** | 2025-05-17 |  |
+| **[EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video](http://arxiv.org/abs/2505.11709v1)** | 2025-05-16 |  |
 | **[MambaControl: Anatomy Graph-Enhanced Mamba ControlNet with Fourier Refinement for Diffusion-Based Disease Trajectory Prediction](http://arxiv.org/abs/2505.09965v1)** | 2025-05-15 |  |
 | **[Quantum-Enhanced Parameter-Efficient Learning for Typhoon Trajectory Forecasting](http://arxiv.org/abs/2505.09395v1)** | 2025-05-14 |  |
 | **[Open-Source LLM-Driven Federated Transformer for Predictive IoV Management](http://arxiv.org/abs/2505.00651v2)** | 2025-05-13 | <details><summary>Prepr...</summary><p>Preprint version; submitted for academic peer review</p></details> |
@@ -18,12 +20,14 @@ labels: documentation
 | **[Boundary-Guided Trajectory Prediction for Road Aware and Physically Feasible Autonomous Driving](http://arxiv.org/abs/2505.06740v1)** | 2025-05-10 | <details><summary>Accep...</summary><p>Accepted in the 36th IEEE Intelligent Vehicles Symposium (IV 2025)</p></details> |
 | **[Realistic Adversarial Attacks for Robustness Evaluation of Trajectory Prediction Models via Future State Perturbation](http://arxiv.org/abs/2505.06134v1)** | 2025-05-09 | 20 pages, 3 figures |
 | **[Don't Shake the Wheel: Momentum-Aware Planning in End-to-End Autonomous Driving](http://arxiv.org/abs/2503.03125v3)** | 2025-05-08 | 16 pages, 8 figures |
-| **[Diffusion Models for Intelligent Transportation Systems: A Survey](http://arxiv.org/abs/2409.15816v3)** | 2025-05-08 | 7 figures |
-| **[TrajEvo: Designing Trajectory Prediction Heuristics via LLM-driven Evolution](http://arxiv.org/abs/2505.04480v1)** | 2025-05-07 |  |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CacheFlow: Fast Human Motion Prediction by Cached Normalizing Flow](http://arxiv.org/abs/2505.13140v1)** | 2025-05-19 |  |
+| **[Multi-Resolution Haar Network: Enhancing human motion prediction via Haar transform](http://arxiv.org/abs/2505.12631v1)** | 2025-05-19 |  |
+| **[Robust Planning for Autonomous Driving via Mixed Adversarial Diffusion Predictions](http://arxiv.org/abs/2505.12327v1)** | 2025-05-18 | <details><summary>IEEE ...</summary><p>IEEE International Conference on Robotics and Automation (ICRA) 2025</p></details> |
+| **[Patient-Specific Autoregressive Models for Organ Motion Prediction in Radiotherapy](http://arxiv.org/abs/2505.11832v1)** | 2025-05-17 |  |
 | **[Deployable and Generalizable Motion Prediction: Taxonomy, Open Challenges and Future Directions](http://arxiv.org/abs/2505.09074v1)** | 2025-05-14 | <details><summary>Initi...</summary><p>Initial draft, 162 pages, 40 figures, 13 tables</p></details> |
 | **[Human Motion Prediction via Test-domain-aware Adaptation with Easily-available Human Motions Estimated from Videos](http://arxiv.org/abs/2505.07301v2)** | 2025-05-13 | 5 pages, 4 figures |
 | **[Closing the Loop: Motion Prediction Models beyond Open-Loop Benchmarks](http://arxiv.org/abs/2505.05638v1)** | 2025-05-08 |  |
@@ -35,8 +39,4 @@ labels: documentation
 | **[UncAD: Towards Safe End-to-end Autonomous Driving via Online Map Uncertainty](http://arxiv.org/abs/2504.12826v1)** | 2025-04-17 |  |
 | **[GC-GAT: Multimodal Vehicular Trajectory Prediction using Graph Goal Conditioning and Cross-context Attention](http://arxiv.org/abs/2504.11150v1)** | 2025-04-15 |  |
 | **[LMFormer: Lane based Motion Prediction Transformer](http://arxiv.org/abs/2504.10275v1)** | 2025-04-14 | <details><summary>Accep...</summary><p>Accepted: Autonomous Driving Workshop, CVPR 2025</p></details> |
-| **[A Self-Supervised Framework for Space Object Behaviour Characterisation](http://arxiv.org/abs/2504.06176v2)** | 2025-04-11 | 15 pages, 10 figures |
-| **[POD: Predictive Object Detection with Single-Frame FMCW LiDAR Point Cloud](http://arxiv.org/abs/2504.05649v1)** | 2025-04-08 |  |
-| **[GAMDTP: Dynamic Trajectory Prediction with Graph Attention Mamba Network](http://arxiv.org/abs/2504.04862v1)** | 2025-04-07 |  |
-| **[A High-Speed Time-Optimal Trajectory Generation Strategy via a Two-layer Planning Model](http://arxiv.org/abs/2503.11072v2)** | 2025-04-06 |  |
 
