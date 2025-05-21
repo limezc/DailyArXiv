@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 21, 2025
+title: Latest 15 Papers - May 22, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
@@ -24,6 +24,7 @@ labels: documentation
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[APEX: Empowering LLMs with Physics-Based Task Planning for Real-time Insight](http://arxiv.org/abs/2505.13921v1)** | 2025-05-20 |  |
 | **[CacheFlow: Fast Human Motion Prediction by Cached Normalizing Flow](http://arxiv.org/abs/2505.13140v1)** | 2025-05-19 |  |
 | **[Multi-Resolution Haar Network: Enhancing human motion prediction via Haar transform](http://arxiv.org/abs/2505.12631v1)** | 2025-05-19 |  |
 | **[Robust Planning for Autonomous Driving via Mixed Adversarial Diffusion Predictions](http://arxiv.org/abs/2505.12327v1)** | 2025-05-18 | <details><summary>IEEE ...</summary><p>IEEE International Conference on Robotics and Automation (ICRA) 2025</p></details> |
@@ -38,5 +39,4 @@ labels: documentation
 | **[Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset](http://arxiv.org/abs/2504.17371v2)** | 2025-04-25 |  |
 | **[UncAD: Towards Safe End-to-end Autonomous Driving via Online Map Uncertainty](http://arxiv.org/abs/2504.12826v1)** | 2025-04-17 |  |
 | **[GC-GAT: Multimodal Vehicular Trajectory Prediction using Graph Goal Conditioning and Cross-context Attention](http://arxiv.org/abs/2504.11150v1)** | 2025-04-15 |  |
-| **[LMFormer: Lane based Motion Prediction Transformer](http://arxiv.org/abs/2504.10275v1)** | 2025-04-14 | <details><summary>Accep...</summary><p>Accepted: Autonomous Driving Workshop, CVPR 2025</p></details> |
 
