@@ -1,10 +1,12 @@
 ---
-title: Latest 15 Papers - May 23, 2025
+title: Latest 15 Papers - May 24, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SOLVE: Synergy of Language-Vision and End-to-End Networks for Autonomous Driving](http://arxiv.org/abs/2505.16805v1)** | 2025-05-22 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
+| **[Knowledge Integration Strategies in Autonomous Vehicle Prediction and Planning: A Comprehensive Survey](http://arxiv.org/abs/2502.10477v2)** | 2025-05-22 | <details><summary>Accep...</summary><p>Accepted for publication in Proceedings of the IEEE Intelligent Vehicles Symposium (IV), Cluj-Napoca - Romania, 22-25 June 2025</p></details> |
 | **[UPTor: Unified 3D Human Pose Dynamics and Trajectory Prediction for Human-Robot Interaction](http://arxiv.org/abs/2505.14866v1)** | 2025-05-20 | <details><summary>Proje...</summary><p>Project page: https://nisarganc.github.io/UPTor-page/</p></details> |
 | **[Knowledge-Informed Multi-Agent Trajectory Prediction at Signalized Intersections for Infrastructure-to-Everything](http://arxiv.org/abs/2501.13461v2)** | 2025-05-17 |  |
 | **[EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video](http://arxiv.org/abs/2505.11709v1)** | 2025-05-16 |  |
@@ -18,12 +20,11 @@ labels: documentation
 | **[Wavelet Policy: Imitation Policy Learning in Frequency Domain with Wavelet Transforms](http://arxiv.org/abs/2504.04991v2)** | 2025-05-11 |  |
 | **[Beyond Patterns: Harnessing Causal Logic for Autonomous Driving Trajectory Prediction](http://arxiv.org/abs/2505.06856v1)** | 2025-05-11 |  |
 | **[TPK: Trustworthy Trajectory Prediction Integrating Prior Knowledge For Interpretability and Kinematic Feasibility](http://arxiv.org/abs/2505.06743v1)** | 2025-05-10 | <details><summary>Accep...</summary><p>Accepted in the 36th IEEE Intelligent Vehicles Symposium (IV 2025) for oral presentation</p></details> |
-| **[Boundary-Guided Trajectory Prediction for Road Aware and Physically Feasible Autonomous Driving](http://arxiv.org/abs/2505.06740v1)** | 2025-05-10 | <details><summary>Accep...</summary><p>Accepted in the 36th IEEE Intelligent Vehicles Symposium (IV 2025)</p></details> |
-| **[Realistic Adversarial Attacks for Robustness Evaluation of Trajectory Prediction Models via Future State Perturbation](http://arxiv.org/abs/2505.06134v1)** | 2025-05-09 | 20 pages, 3 figures |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CodeMerge: Codebook-Guided Model Merging for Robust Test-Time Adaptation in Autonomous Driving](http://arxiv.org/abs/2505.16524v1)** | 2025-05-22 |  |
 | **[An Empirical Bayes Analysis of Object Trajectory Representation Models](http://arxiv.org/abs/2211.01696v5)** | 2025-05-21 |  |
 | **[UPTor: Unified 3D Human Pose Dynamics and Trajectory Prediction for Human-Robot Interaction](http://arxiv.org/abs/2505.14866v1)** | 2025-05-20 | <details><summary>Proje...</summary><p>Project page: https://nisarganc.github.io/UPTor-page/</p></details> |
 | **[APEX: Empowering LLMs with Physics-Based Task Planning for Real-time Insight](http://arxiv.org/abs/2505.13921v1)** | 2025-05-20 |  |
@@ -38,5 +39,4 @@ labels: documentation
 | **[Future-Oriented Navigation: Dynamic Obstacle Avoidance with One-Shot Energy-Based Multimodal Motion Prediction](http://arxiv.org/abs/2505.00237v1)** | 2025-05-01 | <details><summary>Submi...</summary><p>Submitted to IEEE RA-L</p></details> |
 | **[BEVWorld: A Multimodal World Simulator for Autonomous Driving via Scene-Level BEV Latents](http://arxiv.org/abs/2407.05679v3)** | 2025-04-30 | 10 pages |
 | **[EgoAgent: A Joint Predictive Agent Model in Egocentric Worlds](http://arxiv.org/abs/2502.05857v2)** | 2025-04-29 |  |
-| **[Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset](http://arxiv.org/abs/2504.17371v2)** | 2025-04-25 |  |
 
