@@ -1,10 +1,12 @@
 ---
-title: Latest 15 Papers - May 26, 2025
+title: Latest 15 Papers - May 27, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DTRT: Enhancing Human Intent Estimation and Role Allocation for Physical Human-Robot Collaboration](http://arxiv.org/abs/2505.17490v1)** | 2025-05-23 |  |
+| **[The Alpha-Alternator: Dynamic Adaptation To Varying Noise Levels In Sequences Using The Vendi Score For Improved Robustness and Performance](http://arxiv.org/abs/2502.04593v2)** | 2025-05-22 | <details><summary>The c...</summary><p>The codebase will be made available upon publication. This paper is dedicated to Patrice Lumumba</p></details> |
 | **[SOLVE: Synergy of Language-Vision and End-to-End Networks for Autonomous Driving](http://arxiv.org/abs/2505.16805v1)** | 2025-05-22 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
 | **[Knowledge Integration Strategies in Autonomous Vehicle Prediction and Planning: A Comprehensive Survey](http://arxiv.org/abs/2502.10477v2)** | 2025-05-22 | <details><summary>Accep...</summary><p>Accepted for publication in Proceedings of the IEEE Intelligent Vehicles Symposium (IV), Cluj-Napoca - Romania, 22-25 June 2025</p></details> |
 | **[UPTor: Unified 3D Human Pose Dynamics and Trajectory Prediction for Human-Robot Interaction](http://arxiv.org/abs/2505.14866v1)** | 2025-05-20 | <details><summary>Proje...</summary><p>Project page: https://nisarganc.github.io/UPTor-page/</p></details> |
@@ -18,8 +20,6 @@ labels: documentation
 | **[AIS Data-Driven Maritime Monitoring Based on Transformer: A Comprehensive Review](http://arxiv.org/abs/2505.07374v1)** | 2025-05-12 |  |
 | **[Towards Accurate State Estimation: Kalman Filter Incorporating Motion Dynamics for 3D Multi-Object Tracking](http://arxiv.org/abs/2505.07254v1)** | 2025-05-12 |  |
 | **[Wavelet Policy: Imitation Policy Learning in Frequency Domain with Wavelet Transforms](http://arxiv.org/abs/2504.04991v2)** | 2025-05-11 |  |
-| **[Beyond Patterns: Harnessing Causal Logic for Autonomous Driving Trajectory Prediction](http://arxiv.org/abs/2505.06856v1)** | 2025-05-11 |  |
-| **[TPK: Trustworthy Trajectory Prediction Integrating Prior Knowledge For Interpretability and Kinematic Feasibility](http://arxiv.org/abs/2505.06743v1)** | 2025-05-10 | <details><summary>Accep...</summary><p>Accepted in the 36th IEEE Intelligent Vehicles Symposium (IV 2025) for oral presentation</p></details> |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
