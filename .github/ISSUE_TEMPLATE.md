@@ -1,11 +1,13 @@
 ---
-title: Latest 15 Papers - May 27, 2025
+title: Latest 15 Papers - May 28, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DTRT: Enhancing Human Intent Estimation and Role Allocation for Physical Human-Robot Collaboration](http://arxiv.org/abs/2505.17490v1)** | 2025-05-23 |  |
+| **[DTRT: Enhancing Human Intent Estimation and Role Allocation for Physical Human-Robot Collaboration](http://arxiv.org/abs/2505.17490v2)** | 2025-05-26 | <details><summary>Accep...</summary><p>Accepted by ICRA 2025</p></details> |
+| **[Continuous Simplicial Neural Networks](http://arxiv.org/abs/2503.12919v2)** | 2025-05-26 | 19 pages, 7 figures |
+| **[Echo Planning for Autonomous Driving: From Current Observations to Future Trajectories and Back](http://arxiv.org/abs/2505.18945v1)** | 2025-05-25 | 13 pages, 4 figures |
 | **[The Alpha-Alternator: Dynamic Adaptation To Varying Noise Levels In Sequences Using The Vendi Score For Improved Robustness and Performance](http://arxiv.org/abs/2502.04593v2)** | 2025-05-22 | <details><summary>The c...</summary><p>The codebase will be made available upon publication. This paper is dedicated to Patrice Lumumba</p></details> |
 | **[SOLVE: Synergy of Language-Vision and End-to-End Networks for Autonomous Driving](http://arxiv.org/abs/2505.16805v1)** | 2025-05-22 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
 | **[Knowledge Integration Strategies in Autonomous Vehicle Prediction and Planning: A Comprehensive Survey](http://arxiv.org/abs/2502.10477v2)** | 2025-05-22 | <details><summary>Accep...</summary><p>Accepted for publication in Proceedings of the IEEE Intelligent Vehicles Symposium (IV), Cluj-Napoca - Romania, 22-25 June 2025</p></details> |
@@ -18,12 +20,12 @@ labels: documentation
 | **[UVTM: Universal Vehicle Trajectory Modeling with ST Feature Domain Generation](http://arxiv.org/abs/2402.07232v4)** | 2025-05-13 |  |
 | **[SICNav-Diffusion: Safe and Interactive Crowd Navigation with Diffusion Trajectory Predictions](http://arxiv.org/abs/2503.08858v2)** | 2025-05-12 |  |
 | **[AIS Data-Driven Maritime Monitoring Based on Transformer: A Comprehensive Review](http://arxiv.org/abs/2505.07374v1)** | 2025-05-12 |  |
-| **[Towards Accurate State Estimation: Kalman Filter Incorporating Motion Dynamics for 3D Multi-Object Tracking](http://arxiv.org/abs/2505.07254v1)** | 2025-05-12 |  |
-| **[Wavelet Policy: Imitation Policy Learning in Frequency Domain with Wavelet Transforms](http://arxiv.org/abs/2504.04991v2)** | 2025-05-11 |  |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VideoJAM: Joint Appearance-Motion Representations for Enhanced Motion Generation in Video Models](http://arxiv.org/abs/2502.02492v2)** | 2025-05-26 |  |
+| **[Future-Oriented Navigation: Dynamic Obstacle Avoidance with One-Shot Energy-Based Multimodal Motion Prediction](http://arxiv.org/abs/2505.00237v2)** | 2025-05-26 | <details><summary>Accep...</summary><p>Accepted by IEEE RA-L</p></details> |
 | **[CodeMerge: Codebook-Guided Model Merging for Robust Test-Time Adaptation in Autonomous Driving](http://arxiv.org/abs/2505.16524v1)** | 2025-05-22 |  |
 | **[An Empirical Bayes Analysis of Object Trajectory Representation Models](http://arxiv.org/abs/2211.01696v5)** | 2025-05-21 |  |
 | **[UPTor: Unified 3D Human Pose Dynamics and Trajectory Prediction for Human-Robot Interaction](http://arxiv.org/abs/2505.14866v1)** | 2025-05-20 | <details><summary>Proje...</summary><p>Project page: https://nisarganc.github.io/UPTor-page/</p></details> |
@@ -36,7 +38,5 @@ labels: documentation
 | **[Human Motion Prediction via Test-domain-aware Adaptation with Easily-available Human Motions Estimated from Videos](http://arxiv.org/abs/2505.07301v2)** | 2025-05-13 | 5 pages, 4 figures |
 | **[Closing the Loop: Motion Prediction Models beyond Open-Loop Benchmarks](http://arxiv.org/abs/2505.05638v1)** | 2025-05-08 |  |
 | **[Dynamic Network Flow Optimization for Task Scheduling in PTZ Camera Surveillance Systems](http://arxiv.org/abs/2505.04596v1)** | 2025-05-07 | <details><summary>7 pag...</summary><p>7 pages, 3 Figures, Accepted at AIRC 2025</p></details> |
-| **[Future-Oriented Navigation: Dynamic Obstacle Avoidance with One-Shot Energy-Based Multimodal Motion Prediction](http://arxiv.org/abs/2505.00237v1)** | 2025-05-01 | <details><summary>Submi...</summary><p>Submitted to IEEE RA-L</p></details> |
 | **[BEVWorld: A Multimodal World Simulator for Autonomous Driving via Scene-Level BEV Latents](http://arxiv.org/abs/2407.05679v3)** | 2025-04-30 | 10 pages |
-| **[EgoAgent: A Joint Predictive Agent Model in Egocentric Worlds](http://arxiv.org/abs/2502.05857v2)** | 2025-04-29 |  |
 
