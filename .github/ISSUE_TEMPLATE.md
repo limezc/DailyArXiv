@@ -1,31 +1,32 @@
 ---
-title: Latest 15 Papers - August 30, 2025
+title: Latest 15 Papers - September 06, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning](http://arxiv.org/abs/2508.21043v1)** | 2025-08-28 | 8 pages, 7 figures |
+| **[HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning](http://arxiv.org/abs/2508.21043v2)** | 2025-09-04 | add more references |
+| **[sam-llm: interpretable lane change trajectoryprediction via parametric finetuning](http://arxiv.org/abs/2509.03462v1)** | 2025-09-03 | 5 pages |
+| **[KEPT: Knowledge-Enhanced Prediction of Trajectories from Consecutive Driving Frames with Vision-Language Models](http://arxiv.org/abs/2509.02966v1)** | 2025-09-03 |  |
+| **[An Observations-focused Assessment of Global AI Weather Prediction Models During the South Asian Monsoon](http://arxiv.org/abs/2509.01879v1)** | 2025-09-02 |  |
+| **[Multi-vessel Interaction-Aware Trajectory Prediction and Collision Risk Assessment](http://arxiv.org/abs/2509.01836v1)** | 2025-09-01 |  |
+| **[Entropy-Driven Curriculum for Multi-Task Training in Human Mobility Prediction](http://arxiv.org/abs/2509.01613v1)** | 2025-09-01 |  |
+| **[A Hybrid Input based Deep Reinforcement Learning for Lane Change Decision-Making of Autonomous Vehicle](http://arxiv.org/abs/2509.01611v1)** | 2025-09-01 |  |
+| **[Wavelet Policy: Imitation Policy Learning in the Scale Domain with Wavelet Transforms](http://arxiv.org/abs/2504.04991v3)** | 2025-09-01 |  |
+| **[Metamorphic Testing of Multimodal Human Trajectory Prediction](http://arxiv.org/abs/2509.01294v1)** | 2025-09-01 | <details><summary>Infor...</summary><p>Information and Software Technology</p></details> |
+| **[SocialTrack: Multi-Object Tracking in Complex Urban Traffic Scenes Inspired by Social Behavior](http://arxiv.org/abs/2508.12777v3)** | 2025-08-31 |  |
+| **[Vehicle-in-Virtual-Environment (VVE) Method for Developing and Evaluating VRU Safety of Connected and Autonomous Driving with Focus on Bicyclist Safety](http://arxiv.org/abs/2509.00624v1)** | 2025-08-30 |  |
+| **[Theory Foundation of Physics-Enhanced Residual Learning](http://arxiv.org/abs/2509.00348v1)** | 2025-08-30 | 24 pages, 8 figures |
+| **[Limitations of Physics-Informed Neural Networks: a Study on Smart Grid Surrogation](http://arxiv.org/abs/2508.21559v1)** | 2025-08-29 | <details><summary>Prese...</summary><p>Presented in PowerTech2025</p></details> |
 | **[Uncertainty-Aware Trajectory Prediction via Rule-Regularized Heteroscedastic Deep Classification](http://arxiv.org/abs/2504.13111v3)** | 2025-08-28 | <details><summary>17 Pa...</summary><p>17 Pages, 9 figures. Accepted to Robotics: Science and Systems(RSS), 2025</p></details> |
 | **[MegaCacheX: Towards Cost-Effective Hierarchical Collaborative Content Caching in Emerging Mega-Constellations](http://arxiv.org/abs/2508.20433v1)** | 2025-08-28 |  |
-| **[Bidirectional Task-Motion Planning Based on Hierarchical Reinforcement Learning for Strategic Confrontation](http://arxiv.org/abs/2504.15876v3)** | 2025-08-27 |  |
-| **[SocialTrack: Multi-Object Tracking in Complex Urban Traffic Scenes Inspired by Social Behavior](http://arxiv.org/abs/2508.12777v2)** | 2025-08-26 |  |
-| **[Adaptive Output Steps: FlexiSteps Network for Dynamic Trajectory Prediction](http://arxiv.org/abs/2508.17797v1)** | 2025-08-25 |  |
-| **[Uncertainty Propagation Networks for Neural Ordinary Differential Equations](http://arxiv.org/abs/2508.16815v1)** | 2025-08-22 |  |
-| **[EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video](http://arxiv.org/abs/2505.11709v2)** | 2025-08-20 |  |
-| **[Great GATsBi: Hybrid, Multimodal, Trajectory Forecasting for Bicycles using Anticipation Mechanism](http://arxiv.org/abs/2508.14523v1)** | 2025-08-20 |  |
-| **[FlightPatchNet: Multi-Scale Patch Network with Differential Coding for Flight Trajectory Prediction](http://arxiv.org/abs/2405.16200v3)** | 2025-08-20 | <details><summary>Accep...</summary><p>Accepted by UAI 2025. Code is available at https://github.com/graceLan1994/FlightPatchNet</p></details> |
-| **[3D FlowMatch Actor: Unified 3D Policy for Single- and Dual-Arm Manipulation](http://arxiv.org/abs/2508.11002v2)** | 2025-08-20 | <details><summary>Proje...</summary><p>Project page: https://3d-flowmatch-actor.github.io/</p></details> |
-| **[Reliability comparison of vessel trajectory prediction models via Probability of Detection](http://arxiv.org/abs/2508.14198v1)** | 2025-08-19 | <details><summary>2025 ...</summary><p>2025 IEEE Intelligent Vehicles Symposium (IV)</p></details> |
-| **[Hybrid Machine Learning Model with a Constrained Action Space for Trajectory Prediction](http://arxiv.org/abs/2501.03666v2)** | 2025-08-19 | <details><summary>Copyr...</summary><p>Copyright 2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
-| **[Autonomous Oil Spill Response Through Liquid Neural Trajectory Modeling and Coordinated Marine Robotics](http://arxiv.org/abs/2508.12456v1)** | 2025-08-17 | <details><summary>30 pa...</summary><p>30 pages, 40 figures. Framework combining Liquid Time-Constant Neural Networks with autonomous marine robotics for oil spill trajectory prediction and response coordination</p></details> |
-| **[Relative Position Matters: Trajectory Prediction and Planning with Polar Representation](http://arxiv.org/abs/2508.11492v1)** | 2025-08-15 |  |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Uncertainty Aware-Predictive Control Barrier Functions: Safer Human Robot Interaction through Probabilistic Motion Forecasting](http://arxiv.org/abs/2508.20812v1)** | 2025-08-28 |  |
 | **[CardioMorphNet: Cardiac Motion Prediction Using a Shape-Guided Bayesian Recurrent Deep Network](http://arxiv.org/abs/2508.20734v1)** | 2025-08-28 |  |
+| **[ScanMove: Motion Prediction and Transfer for Unregistered Body Meshes](http://arxiv.org/abs/2508.21095v1)** | 2025-08-27 |  |
 | **[Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset](http://arxiv.org/abs/2504.17371v3)** | 2025-08-22 |  |
 | **[DiffMesh: A Motion-aware Diffusion Framework for Human Mesh Recovery from Videos](http://arxiv.org/abs/2303.13397v7)** | 2025-08-18 | WACV 2025 |
 | **[EvoPSF: Online Evolution of Autonomous Driving Models via Planning-State Feedback](http://arxiv.org/abs/2508.11453v1)** | 2025-08-15 |  |
@@ -38,5 +39,4 @@ labels: documentation
 | **[LuKAN: A Kolmogorov-Arnold Network Framework for 3D Human Motion Prediction](http://arxiv.org/abs/2508.04847v1)** | 2025-08-06 |  |
 | **[X-Actor: Emotional and Expressive Long-Range Portrait Acting from Audio](http://arxiv.org/abs/2508.02944v1)** | 2025-08-04 | <details><summary>Proje...</summary><p>Project Page at https://byteaigc.github.io/X-Actor/</p></details> |
 | **[Text2Lip: Progressive Lip-Synced Talking Face Generation from Text via Viseme-Guided Rendering](http://arxiv.org/abs/2508.02362v1)** | 2025-08-04 |  |
-| **[AID4AD: Aerial Image Data for Automated Driving Perception](http://arxiv.org/abs/2508.02140v1)** | 2025-08-04 |  |
 
