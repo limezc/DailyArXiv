@@ -1,10 +1,12 @@
 ---
-title: Latest 15 Papers - September 06, 2025
+title: Latest 15 Papers - September 13, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MGTraj: Multi-Granularity Goal-Guided Human Trajectory Prediction with Recursive Refinement Network](http://arxiv.org/abs/2509.09200v1)** | 2025-09-11 |  |
+| **[Safe and Non-Conservative Contingency Planning for Autonomous Vehicles via Online Learning-Based Reachable Set Barriers](http://arxiv.org/abs/2509.07464v1)** | 2025-09-09 | 16 pages, 13 figures |
 | **[HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning](http://arxiv.org/abs/2508.21043v2)** | 2025-09-04 | add more references |
 | **[sam-llm: interpretable lane change trajectoryprediction via parametric finetuning](http://arxiv.org/abs/2509.03462v1)** | 2025-09-03 | 5 pages |
 | **[KEPT: Knowledge-Enhanced Prediction of Trajectories from Consecutive Driving Frames with Vision-Language Models](http://arxiv.org/abs/2509.02966v1)** | 2025-09-03 |  |
@@ -18,12 +20,15 @@ labels: documentation
 | **[Vehicle-in-Virtual-Environment (VVE) Method for Developing and Evaluating VRU Safety of Connected and Autonomous Driving with Focus on Bicyclist Safety](http://arxiv.org/abs/2509.00624v1)** | 2025-08-30 |  |
 | **[Theory Foundation of Physics-Enhanced Residual Learning](http://arxiv.org/abs/2509.00348v1)** | 2025-08-30 | 24 pages, 8 figures |
 | **[Limitations of Physics-Informed Neural Networks: a Study on Smart Grid Surrogation](http://arxiv.org/abs/2508.21559v1)** | 2025-08-29 | <details><summary>Prese...</summary><p>Presented in PowerTech2025</p></details> |
-| **[Uncertainty-Aware Trajectory Prediction via Rule-Regularized Heteroscedastic Deep Classification](http://arxiv.org/abs/2504.13111v3)** | 2025-08-28 | <details><summary>17 Pa...</summary><p>17 Pages, 9 figures. Accepted to Robotics: Science and Systems(RSS), 2025</p></details> |
-| **[MegaCacheX: Towards Cost-Effective Hierarchical Collaborative Content Caching in Emerging Mega-Constellations](http://arxiv.org/abs/2508.20433v1)** | 2025-08-28 |  |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ProgD: Progressive Multi-scale Decoding with Dynamic Graphs for Joint Multi-agent Motion Forecasting](http://arxiv.org/abs/2509.09210v1)** | 2025-09-11 |  |
+| **[EgoAgent: A Joint Predictive Agent Model in Egocentric Worlds](http://arxiv.org/abs/2502.05857v3)** | 2025-09-11 | <details><summary>Proje...</summary><p>Project Page: https://egoagent.github.io | Demo Video: https://youtu.be/qhfHp_sfDvY</p></details> |
+| **[A Survey of World Models for Autonomous Driving](http://arxiv.org/abs/2501.11260v4)** | 2025-09-10 | <details><summary>Ongoi...</summary><p>Ongoing project. Paper list: https://github.com/FengZicai/AwesomeWMAD Benchmark: https://github.com/FengZicai/WMAD-Benchmarks</p></details> |
+| **[ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras](http://arxiv.org/abs/2410.09374v4)** | 2025-09-08 |  |
+| **[Anticipatory Fall Detection in Humans with Hybrid Directed Graph Neural Networks and Long Short-Term Memory](http://arxiv.org/abs/2509.05337v1)** | 2025-09-01 | <details><summary>Prese...</summary><p>Presented at IEEE RO-MAN 2025</p></details> |
 | **[Uncertainty Aware-Predictive Control Barrier Functions: Safer Human Robot Interaction through Probabilistic Motion Forecasting](http://arxiv.org/abs/2508.20812v1)** | 2025-08-28 |  |
 | **[CardioMorphNet: Cardiac Motion Prediction Using a Shape-Guided Bayesian Recurrent Deep Network](http://arxiv.org/abs/2508.20734v1)** | 2025-08-28 |  |
 | **[ScanMove: Motion Prediction and Transfer for Unregistered Body Meshes](http://arxiv.org/abs/2508.21095v1)** | 2025-08-27 |  |
@@ -34,9 +39,4 @@ labels: documentation
 | **[STRIDE-QA: Visual Question Answering Dataset for Spatiotemporal Reasoning in Urban Driving Scenes](http://arxiv.org/abs/2508.10427v1)** | 2025-08-14 | <details><summary>Proje...</summary><p>Project Page: https://turingmotors.github.io/stride-qa/</p></details> |
 | **[Hypergraph-based Motion Generation with Multi-modal Interaction Relational Reasoning](http://arxiv.org/abs/2409.11676v2)** | 2025-08-12 |  |
 | **[Learning an Implicit Physics Model for Image-based Fluid Simulation](http://arxiv.org/abs/2508.08254v1)** | 2025-08-11 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025</p></details> |
-| **[A Multi-Model Probabilistic Framework for Seismic Risk Assessment and Retrofit Planning of Electric Power Networks](http://arxiv.org/abs/2508.07376v1)** | 2025-08-10 | 13 figures |
-| **[CoopDiff: Anticipating 3D Human-object Interactions via Contact-consistent Decoupled Diffusion](http://arxiv.org/abs/2508.07162v1)** | 2025-08-10 |  |
-| **[LuKAN: A Kolmogorov-Arnold Network Framework for 3D Human Motion Prediction](http://arxiv.org/abs/2508.04847v1)** | 2025-08-06 |  |
-| **[X-Actor: Emotional and Expressive Long-Range Portrait Acting from Audio](http://arxiv.org/abs/2508.02944v1)** | 2025-08-04 | <details><summary>Proje...</summary><p>Project Page at https://byteaigc.github.io/X-Actor/</p></details> |
-| **[Text2Lip: Progressive Lip-Synced Talking Face Generation from Text via Viseme-Guided Rendering](http://arxiv.org/abs/2508.02362v1)** | 2025-08-04 |  |
 
