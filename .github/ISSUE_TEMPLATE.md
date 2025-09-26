@@ -1,10 +1,18 @@
 ---
-title: Latest 15 Papers - September 20, 2025
+title: Latest 15 Papers - September 27, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MAIFormer: Multi-Agent Inverted Transformer for Flight Trajectory Prediction](http://arxiv.org/abs/2509.21004v1)** | 2025-09-25 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, submitted for IEEE Transactions on Intelligent Transportation System</p></details> |
+| **[Interaction-aware Lane-Changing Early Warning System in Congested Traffic](http://arxiv.org/abs/2509.18624v1)** | 2025-09-23 |  |
+| **[BlurBall: Joint Ball and Motion Blur Estimation for Table Tennis Ball Tracking](http://arxiv.org/abs/2509.18387v1)** | 2025-09-22 |  |
+| **[SocialTraj: Two-Stage Socially-Aware Trajectory Prediction for Autonomous Driving via Conditional Diffusion Model](http://arxiv.org/abs/2509.17850v1)** | 2025-09-22 |  |
+| **[CoPlanner: An Interactive Motion Planner with Contingency-Aware Diffusion for Autonomous Driving](http://arxiv.org/abs/2509.17080v1)** | 2025-09-21 |  |
+| **[Trajectory Prediction for Autonomous Driving: Progress, Limitations, and Future Directions](http://arxiv.org/abs/2503.03262v3)** | 2025-09-20 |  |
+| **[AdaSports-Traj: Role- and Domain-Aware Adaptation for Multi-Agent Trajectory Modeling in Sports](http://arxiv.org/abs/2509.16095v1)** | 2025-09-19 | <details><summary>Accep...</summary><p>Accepted by ICDM 2025</p></details> |
+| **[CoPAD : Multi-source Trajectory Fusion and Cooperative Trajectory Prediction with Anchor-oriented Decoder in V2X Scenarios](http://arxiv.org/abs/2509.15984v1)** | 2025-09-19 | <details><summary>7 pag...</summary><p>7 pages, 4 pages, IROS2025</p></details> |
 | **[Out-of-Sight Trajectories: Tracking, Fusion, and Prediction](http://arxiv.org/abs/2509.15219v1)** | 2025-09-18 |  |
 | **[STEP: Structured Training and Evaluation Platform for benchmarking trajectory prediction models](http://arxiv.org/abs/2509.14801v1)** | 2025-09-18 |  |
 | **[Ensemble of Pre-Trained Models for Long-Tailed Trajectory Prediction](http://arxiv.org/abs/2509.13914v1)** | 2025-09-17 | <details><summary>Accep...</summary><p>Accepted 2025 IEEE International Conference on Intelligent Transportation Systems (ITSC 2025)</p></details> |
@@ -12,18 +20,12 @@ labels: documentation
 | **[Dynamic Aware: Adaptive Multi-Mode Out-of-Distribution Detection for Trajectory Prediction in Autonomous Vehicles](http://arxiv.org/abs/2509.13577v1)** | 2025-09-16 | 8 pages, 7 figures |
 | **[HeLoFusion: An Efficient and Scalable Encoder for Modeling Heterogeneous and Multi-Scale Interactions in Trajectory Prediction](http://arxiv.org/abs/2509.11719v1)** | 2025-09-15 |  |
 | **[BEVTraj: Map-Free End-to-End Trajectory Prediction in Bird's-Eye View with Deformable Attention and Sparse Goal Proposals](http://arxiv.org/abs/2509.10080v1)** | 2025-09-12 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Intelligent Transportation Systems (under review)</p></details> |
-| **[Large Foundation Models for Trajectory Prediction in Autonomous Driving: A Comprehensive Survey](http://arxiv.org/abs/2509.10570v1)** | 2025-09-11 | 22 pages, 6 figures |
-| **[MGTraj: Multi-Granularity Goal-Guided Human Trajectory Prediction with Recursive Refinement Network](http://arxiv.org/abs/2509.09200v1)** | 2025-09-11 |  |
-| **[Safe and Non-Conservative Contingency Planning for Autonomous Vehicles via Online Learning-Based Reachable Set Barriers](http://arxiv.org/abs/2509.07464v1)** | 2025-09-09 | 16 pages, 13 figures |
-| **[HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning](http://arxiv.org/abs/2508.21043v2)** | 2025-09-04 | add more references |
-| **[sam-llm: interpretable lane change trajectoryprediction via parametric finetuning](http://arxiv.org/abs/2509.03462v1)** | 2025-09-03 | 5 pages |
-| **[KEPT: Knowledge-Enhanced Prediction of Trajectories from Consecutive Driving Frames with Vision-Language Models](http://arxiv.org/abs/2509.02966v1)** | 2025-09-03 |  |
-| **[An Observations-focused Assessment of Global AI Weather Prediction Models During the South Asian Monsoon](http://arxiv.org/abs/2509.01879v1)** | 2025-09-02 |  |
-| **[Multi-vessel Interaction-Aware Trajectory Prediction and Collision Risk Assessment](http://arxiv.org/abs/2509.01836v1)** | 2025-09-01 |  |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning Dexterous Manipulation with Quantized Hand State](http://arxiv.org/abs/2509.17450v1)** | 2025-09-22 |  |
+| **[Enriched Feature Representation and Motion Prediction Module for MOSEv2 Track of 7th LSVOS Challenge: 3rd Place Solution](http://arxiv.org/abs/2509.15781v1)** | 2025-09-19 | <details><summary>5 pag...</summary><p>5 pages,2 figures, ICCV Workshop (MOSEv2 Track of 7th LSVOS Challenge)</p></details> |
 | **[DECAMP: Towards Scene-Consistent Multi-Agent Motion Prediction with Disentangled Context-Aware Pre-Training](http://arxiv.org/abs/2509.10426v2)** | 2025-09-17 |  |
 | **[Weakly and Self-Supervised Class-Agnostic Motion Prediction for Autonomous Driving](http://arxiv.org/abs/2509.13116v1)** | 2025-09-16 | <details><summary>An ex...</summary><p>An extension of our CVPR 2023 paper, "Weakly Supervised Class-Agnostic Motion Prediction for Autonomous Driving," accepted for publication in TPAMI</p></details> |
 | **[DYNAMO: Dependency-Aware Deep Learning Framework for Articulated Assembly Motion Prediction](http://arxiv.org/abs/2509.12430v1)** | 2025-09-15 |  |
@@ -37,6 +39,4 @@ labels: documentation
 | **[ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras](http://arxiv.org/abs/2410.09374v4)** | 2025-09-08 |  |
 | **[Anticipatory Fall Detection in Humans with Hybrid Directed Graph Neural Networks and Long Short-Term Memory](http://arxiv.org/abs/2509.05337v1)** | 2025-09-01 | <details><summary>Prese...</summary><p>Presented at IEEE RO-MAN 2025</p></details> |
 | **[Uncertainty Aware-Predictive Control Barrier Functions: Safer Human Robot Interaction through Probabilistic Motion Forecasting](http://arxiv.org/abs/2508.20812v1)** | 2025-08-28 |  |
-| **[CardioMorphNet: Cardiac Motion Prediction Using a Shape-Guided Bayesian Recurrent Deep Network](http://arxiv.org/abs/2508.20734v1)** | 2025-08-28 |  |
-| **[ScanMove: Motion Prediction and Transfer for Unregistered Body Meshes](http://arxiv.org/abs/2508.21095v1)** | 2025-08-27 |  |
 
