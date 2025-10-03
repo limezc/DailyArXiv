@@ -1,29 +1,34 @@
 ---
-title: Latest 15 Papers - September 27, 2025
+title: Latest 15 Papers - October 04, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multi-Marginal Flow Matching with Adversarially Learnt Interpolants](http://arxiv.org/abs/2510.01159v1)** | 2025-10-01 |  |
+| **[From Seeing to Predicting: A Vision-Language Framework for Trajectory Forecasting and Controlled Video Generation](http://arxiv.org/abs/2510.00806v1)** | 2025-10-01 |  |
+| **[Collaborative-Distilled Diffusion Models (CDDM) for Accelerated and Lightweight Trajectory Prediction](http://arxiv.org/abs/2510.00627v1)** | 2025-10-01 |  |
+| **[EgoTraj-Bench: Towards Robust Trajectory Prediction Under Ego-view Noisy Observations](http://arxiv.org/abs/2510.00405v1)** | 2025-10-01 |  |
+| **[SSTP: Efficient Sample Selection for Trajectory Prediction](http://arxiv.org/abs/2409.17385v3)** | 2025-09-30 |  |
+| **[Trajectory Prediction via Bayesian Intention Inference under Unknown Goals and Kinematics](http://arxiv.org/abs/2509.24928v1)** | 2025-09-29 |  |
+| **[Certified Neural Approximations of Nonlinear Dynamics](http://arxiv.org/abs/2505.15497v2)** | 2025-09-29 | <details><summary>first...</summary><p>first and second author contributed equally</p></details> |
+| **[Less is More: Lean yet Powerful Vision-Language Model for Autonomous Driving](http://arxiv.org/abs/2510.00060v1)** | 2025-09-29 |  |
+| **[Hazy Pedestrian Trajectory Prediction via Physical Priors and Graph-Mamba](http://arxiv.org/abs/2509.24020v1)** | 2025-09-28 |  |
+| **[A Neural ODE Approach to Aircraft Flight Dynamics Modelling](http://arxiv.org/abs/2509.23307v1)** | 2025-09-27 |  |
+| **[Physically Plausible Multi-System Trajectory Generation and Symmetry Discovery](http://arxiv.org/abs/2509.23003v1)** | 2025-09-26 |  |
+| **[Text2Move: Text-to-moving sound generation via trajectory prediction and temporal alignment](http://arxiv.org/abs/2509.21919v1)** | 2025-09-26 |  |
+| **[DroneFL: Federated Learning for Multi-UAV Visual Target Tracking](http://arxiv.org/abs/2509.21523v1)** | 2025-09-25 |  |
 | **[MAIFormer: Multi-Agent Inverted Transformer for Flight Trajectory Prediction](http://arxiv.org/abs/2509.21004v1)** | 2025-09-25 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, submitted for IEEE Transactions on Intelligent Transportation System</p></details> |
 | **[Interaction-aware Lane-Changing Early Warning System in Congested Traffic](http://arxiv.org/abs/2509.18624v1)** | 2025-09-23 |  |
-| **[BlurBall: Joint Ball and Motion Blur Estimation for Table Tennis Ball Tracking](http://arxiv.org/abs/2509.18387v1)** | 2025-09-22 |  |
-| **[SocialTraj: Two-Stage Socially-Aware Trajectory Prediction for Autonomous Driving via Conditional Diffusion Model](http://arxiv.org/abs/2509.17850v1)** | 2025-09-22 |  |
-| **[CoPlanner: An Interactive Motion Planner with Contingency-Aware Diffusion for Autonomous Driving](http://arxiv.org/abs/2509.17080v1)** | 2025-09-21 |  |
-| **[Trajectory Prediction for Autonomous Driving: Progress, Limitations, and Future Directions](http://arxiv.org/abs/2503.03262v3)** | 2025-09-20 |  |
-| **[AdaSports-Traj: Role- and Domain-Aware Adaptation for Multi-Agent Trajectory Modeling in Sports](http://arxiv.org/abs/2509.16095v1)** | 2025-09-19 | <details><summary>Accep...</summary><p>Accepted by ICDM 2025</p></details> |
-| **[CoPAD : Multi-source Trajectory Fusion and Cooperative Trajectory Prediction with Anchor-oriented Decoder in V2X Scenarios](http://arxiv.org/abs/2509.15984v1)** | 2025-09-19 | <details><summary>7 pag...</summary><p>7 pages, 4 pages, IROS2025</p></details> |
-| **[Out-of-Sight Trajectories: Tracking, Fusion, and Prediction](http://arxiv.org/abs/2509.15219v1)** | 2025-09-18 |  |
-| **[STEP: Structured Training and Evaluation Platform for benchmarking trajectory prediction models](http://arxiv.org/abs/2509.14801v1)** | 2025-09-18 |  |
-| **[Ensemble of Pre-Trained Models for Long-Tailed Trajectory Prediction](http://arxiv.org/abs/2509.13914v1)** | 2025-09-17 | <details><summary>Accep...</summary><p>Accepted 2025 IEEE International Conference on Intelligent Transportation Systems (ITSC 2025)</p></details> |
-| **[DECAMP: Towards Scene-Consistent Multi-Agent Motion Prediction with Disentangled Context-Aware Pre-Training](http://arxiv.org/abs/2509.10426v2)** | 2025-09-17 |  |
-| **[Dynamic Aware: Adaptive Multi-Mode Out-of-Distribution Detection for Trajectory Prediction in Autonomous Vehicles](http://arxiv.org/abs/2509.13577v1)** | 2025-09-16 | 8 pages, 7 figures |
-| **[HeLoFusion: An Efficient and Scalable Encoder for Modeling Heterogeneous and Multi-Scale Interactions in Trajectory Prediction](http://arxiv.org/abs/2509.11719v1)** | 2025-09-15 |  |
-| **[BEVTraj: Map-Free End-to-End Trajectory Prediction in Bird's-Eye View with Deformable Attention and Sparse Goal Proposals](http://arxiv.org/abs/2509.10080v1)** | 2025-09-12 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Intelligent Transportation Systems (under review)</p></details> |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Physics-Informed Learning for Human Whole-Body Kinematics Prediction via Sparse IMUs](http://arxiv.org/abs/2509.25704v1)** | 2025-09-30 |  |
+| **[Controllable Motion Generation via Diffusion Modal Coupling](http://arxiv.org/abs/2503.02353v2)** | 2025-09-29 |  |
+| **[Forge4D: Feed-Forward 4D Human Reconstruction and Interpolation from Uncalibrated Sparse-view Videos](http://arxiv.org/abs/2509.24209v1)** | 2025-09-29 |  |
+| **[In-2-4D: Inbetweening from Two Single-View Images to 4D Generation](http://arxiv.org/abs/2504.08366v3)** | 2025-09-27 | <details><summary>SIGGR...</summary><p>SIGGRAPH ASIA 2025; Project page at https://in-2-4d.github.io/</p></details> |
+| **[An Adaptive ICP LiDAR Odometry Based on Reliable Initial Pose](http://arxiv.org/abs/2509.22058v1)** | 2025-09-26 |  |
 | **[Learning Dexterous Manipulation with Quantized Hand State](http://arxiv.org/abs/2509.17450v1)** | 2025-09-22 |  |
 | **[Enriched Feature Representation and Motion Prediction Module for MOSEv2 Track of 7th LSVOS Challenge: 3rd Place Solution](http://arxiv.org/abs/2509.15781v1)** | 2025-09-19 | <details><summary>5 pag...</summary><p>5 pages,2 figures, ICCV Workshop (MOSEv2 Track of 7th LSVOS Challenge)</p></details> |
 | **[DECAMP: Towards Scene-Consistent Multi-Agent Motion Prediction with Disentangled Context-Aware Pre-Training](http://arxiv.org/abs/2509.10426v2)** | 2025-09-17 |  |
@@ -34,9 +39,4 @@ labels: documentation
 | **[GGMotion: Group Graph Dynamics-Kinematics Networks for Human Motion Prediction](http://arxiv.org/abs/2507.07515v2)** | 2025-09-13 |  |
 | **[HHI-Assist: A Dataset and Benchmark of Human-Human Interaction in Physical Assistance Scenario](http://arxiv.org/abs/2509.10096v1)** | 2025-09-12 | <details><summary>Accep...</summary><p>Accepted to RA-L 2025</p></details> |
 | **[ProgD: Progressive Multi-scale Decoding with Dynamic Graphs for Joint Multi-agent Motion Forecasting](http://arxiv.org/abs/2509.09210v1)** | 2025-09-11 |  |
-| **[EgoAgent: A Joint Predictive Agent Model in Egocentric Worlds](http://arxiv.org/abs/2502.05857v3)** | 2025-09-11 | <details><summary>Proje...</summary><p>Project Page: https://egoagent.github.io | Demo Video: https://youtu.be/qhfHp_sfDvY</p></details> |
-| **[A Survey of World Models for Autonomous Driving](http://arxiv.org/abs/2501.11260v4)** | 2025-09-10 | <details><summary>Ongoi...</summary><p>Ongoing project. Paper list: https://github.com/FengZicai/AwesomeWMAD Benchmark: https://github.com/FengZicai/WMAD-Benchmarks</p></details> |
-| **[ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras](http://arxiv.org/abs/2410.09374v4)** | 2025-09-08 |  |
-| **[Anticipatory Fall Detection in Humans with Hybrid Directed Graph Neural Networks and Long Short-Term Memory](http://arxiv.org/abs/2509.05337v1)** | 2025-09-01 | <details><summary>Prese...</summary><p>Presented at IEEE RO-MAN 2025</p></details> |
-| **[Uncertainty Aware-Predictive Control Barrier Functions: Safer Human Robot Interaction through Probabilistic Motion Forecasting](http://arxiv.org/abs/2508.20812v1)** | 2025-08-28 |  |
 
