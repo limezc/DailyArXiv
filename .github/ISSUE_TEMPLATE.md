@@ -1,37 +1,42 @@
 ---
-title: Latest 15 Papers - November 08, 2025
+title: Latest 15 Papers - November 15, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Geomechanically-Informed Framework for Wellbore Trajectory Prediction: Integrating First-Principles Kinematics with a Rigorous Derivation of Gated Recurrent Networks](http://arxiv.org/abs/2510.07564v2)** | 2025-11-06 | 22 pages, 6 figures |
-| **[Virtual Target Trajectory Prediction for Stochastic Targets](http://arxiv.org/abs/2504.01851v2)** | 2025-11-04 | <details><summary>Manus...</summary><p>Manuscript accepted by Journal of Guidance, Control, and Dynamics</p></details> |
-| **[Towards Predicting Any Human Trajectory In Context](http://arxiv.org/abs/2506.00871v3)** | 2025-11-04 | NeurIPS 2025 |
-| **[Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving](http://arxiv.org/abs/2502.16589v3)** | 2025-11-02 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, ICRA 2025</p></details> |
-| **[Listwise Preference Diffusion Optimization for User Behavior Trajectories Prediction](http://arxiv.org/abs/2511.00530v1)** | 2025-11-01 |  |
-| **[X-TRACK: Physics-Aware xLSTM for Realistic Vehicle Trajectory Prediction](http://arxiv.org/abs/2511.00266v1)** | 2025-10-31 |  |
-| **[Dynamic Model Selection for Trajectory Prediction via Pairwise Ranking and Meta-Features](http://arxiv.org/abs/2511.00126v1)** | 2025-10-31 |  |
-| **[SEE4D: Pose-Free 4D Generation via Auto-Regressive Video Inpainting](http://arxiv.org/abs/2510.26796v1)** | 2025-10-30 | <details><summary>26 pa...</summary><p>26 pages; 21 figures; 3 tables; project page: https://see-4d.github.io/</p></details> |
-| **[GaussianFusion: Gaussian-Based Multi-Sensor Fusion for End-to-End Autonomous Driving](http://arxiv.org/abs/2506.00034v2)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted at NeurIPS2025 (Spotlight)</p></details> |
-| **[SimpleVSF: VLM-Scoring Fusion for Trajectory Prediction of End-to-End Autonomous Driving](http://arxiv.org/abs/2510.17191v2)** | 2025-10-28 |  |
-| **[Interpretable Neural ODEs for Gene Regulatory Network Discovery under Perturbations](http://arxiv.org/abs/2501.02409v4)** | 2025-10-27 |  |
-| **[FlightKooba: A Fast Interpretable FTP Model](http://arxiv.org/abs/2506.19885v2)** | 2025-10-27 | <details><summary>Versi...</summary><p>Version 2: Major revision of the manuscript to refine the narrative, clarify the model's theoretical limitations and application scope, and improve overall presentation for journal submission</p></details> |
-| **[TrajGATFormer: A Graph-Based Transformer Approach for Worker and Obstacle Trajectory Prediction in Off-site Construction Environments](http://arxiv.org/abs/2510.22205v1)** | 2025-10-25 |  |
-| **[Continuous Simplicial Neural Networks](http://arxiv.org/abs/2503.12919v3)** | 2025-10-24 | <details><summary>20 pa...</summary><p>20 pages, 7 figures, Accepted at NeurIPS 2025</p></details> |
-| **[ProTerrain: Probabilistic Physics-Informed Rough Terrain World Modeling](http://arxiv.org/abs/2510.19364v1)** | 2025-10-22 | <details><summary>This ...</summary><p>This paper is submitted to IEEE International Conference on Robotics and Automation (ICRA) 2026</p></details> |
+| **[A Scalable Framework for Trajectory Prediction](https://arxiv.org/abs/1806.03582v3)** | 2019-02-27 | <details><summary>Accep...</summary><p>Accepted in IEEE Transactions on Intelligent Transportation System. Info: 15 Pages, 9 Figures, 5 Tables</p></details> |
+| **[Trajectory-Prediction with Vision: A Survey](https://arxiv.org/abs/2303.13354v1)** | 2023-03-15 |  |
+| **[Certified Human Trajectory Prediction](https://arxiv.org/abs/2403.13778v2)** | 2025-06-06 | CVPR 2025 |
+| **[Trajectory Prediction with Linguistic Representations](https://arxiv.org/abs/2110.09741v2)** | 2022-03-09 | <details><summary>Accep...</summary><p>Accepted in ICRA 2022</p></details> |
+| **[Manipulating Trajectory Prediction with Backdoors](https://arxiv.org/abs/2312.13863v2)** | 2024-01-03 | 9 pages, 7 figures |
+| **[Online Learning for Ground Trajectory Prediction](https://arxiv.org/abs/1212.3998v1)** | 2012-12-17 | <details><summary>SESAR...</summary><p>SESAR 2nd Innovation Days (2012)</p></details> |
+| **[TNT: Target-driveN Trajectory Prediction](https://arxiv.org/abs/2008.08294v2)** | 2020-08-21 |  |
+| **[Stochastic Trajectory Prediction under Unstructured Constraints](https://arxiv.org/abs/2503.14203v1)** | 2025-03-18 | <details><summary>has b...</summary><p>has been accepted by ICRA 2025</p></details> |
+| **[Predictability of the imitative learning trajectories](https://arxiv.org/abs/1807.04862v3)** | 2018-11-15 |  |
+| **[Evaluating Human Trajectory Prediction with Metamorphic Testing](https://arxiv.org/abs/2407.18756v1)** | 2024-07-26 | <details><summary>MET'2...</summary><p>MET'24: 9th ACM International Workshop on Metamorphic Testing</p></details> |
+| **[Enhancing Trajectory Prediction through Self-Supervised Waypoint Noise Prediction](https://arxiv.org/abs/2312.09466v1)** | 2023-11-26 | Under review |
+| **[Cross-domain Trajectory Prediction with CTP-Net](https://arxiv.org/abs/2110.11645v2)** | 2022-08-16 | <details><summary>Work ...</summary><p>Work is accepted by CICAI(CAAI International Conference on Artificial Intelligence), 12 pages</p></details> |
+| **[On Adversarial Robustness of Trajectory Prediction for Autonomous Vehicles](https://arxiv.org/abs/2201.05057v3)** | 2022-08-22 | <details><summary>13 pa...</summary><p>13 pages, 13 figures, accepted by CVPR 2022</p></details> |
+| **[Topological Trajectory Prediction with Homotopy Classes](https://arxiv.org/abs/2301.09821v1)** | 2023-01-24 | <details><summary>7 pag...</summary><p>7 pages, 7 figures, accepted to ICRA 2023</p></details> |
+| **[It Is Not the Journey but the Destination: Endpoint Conditioned Trajectory Prediction](https://arxiv.org/abs/2004.02025v3)** | 2020-07-18 | <details><summary>Accep...</summary><p>Accepted at ECCV 2020 (Oral)</p></details> |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Shared Spatial Memory Through Predictive Coding](http://arxiv.org/abs/2511.04235v1)** | 2025-11-06 | <details><summary>We ha...</summary><p>We have prepared the open-source code and video demonstration pages: 1. Code: github.com/fangzr/SSM-PC 2. Demo: fangzr.github.io/SSM-PC/index.html</p></details> |
-| **[Adv-BMT: Bidirectional Motion Transformer for Safety-Critical Traffic Scenario Generation](http://arxiv.org/abs/2506.09485v2)** | 2025-11-04 |  |
-| **[UniLION: Towards Unified Autonomous Driving Model with Linear Group RNNs](http://arxiv.org/abs/2511.01768v1)** | 2025-11-03 |  |
-| **[PROFIT: A Specialized Optimizer for Deep Fine Tuning](http://arxiv.org/abs/2412.01930v3)** | 2025-10-30 | <details><summary>techn...</summary><p>technical report, 23 pages, NeurIPS 2025 poster</p></details> |
-| **[Learning Neural Observer-Predictor Models for Limb-level Sampling-based Locomotion Planning](http://arxiv.org/abs/2510.22789v1)** | 2025-10-26 |  |
-| **[HumanCM: One Step Human Motion Prediction](http://arxiv.org/abs/2510.16709v2)** | 2025-10-23 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, 2 tables</p></details> |
-| **[OmniMotion-X: Versatile Multimodal Whole-Body Motion Generation](http://arxiv.org/abs/2510.19789v1)** | 2025-10-22 |  |
-| **[ProTerrain: Probabilistic Physics-Informed Rough Terrain World Modeling](http://arxiv.org/abs/2510.19364v1)** | 2025-10-22 | <details><summary>This ...</summary><p>This paper is submitted to IEEE International Conference on Robotics and Automation (ICRA) 2026</p></details> |
-| **[Enhanced Motion Forecasting with Plug-and-Play Multimodal Large Language Models](http://arxiv.org/abs/2510.17274v1)** | 2025-10-20 | <details><summary>In pr...</summary><p>In proceedings of IROS 2025</p></details> |
-| **[APEX: Empowering LLMs with Physics-Based Task Planning for Real-time Insight](http://arxiv.org/abs/2505.13921v2)** | 2025-10-16 |  |
+| **[Dyadic Human Motion Prediction](https://arxiv.org/abs/2112.00396v2)** | 2022-01-13 | <details><summary>added...</summary><p>added reference for section 2</p></details> |
+| **[HumanMAC: Masked Motion Completion for Human Motion Prediction](https://arxiv.org/abs/2302.03665v4)** | 2023-08-14 | <details><summary>Accep...</summary><p>Accepted by ICCV 2023</p></details> |
+| **[Long-Term Human Motion Prediction by Modeling Motion Context and Enhancing Motion Dynamic](https://arxiv.org/abs/1805.02513v1)** | 2018-05-07 | <details><summary>Accep...</summary><p>Accepted by IJCAI 2018</p></details> |
+| **[Investigating Pose Representations and Motion Contexts Modeling for 3D Motion Prediction](https://arxiv.org/abs/2112.15012v1)** | 2021-12-30 | <details><summary>Accep...</summary><p>Accepted to IEEE TPAMI, 27 Dec. 2021</p></details> |
+| **[PREF: Predictability Regularized Neural Motion Fields](https://arxiv.org/abs/2209.10691v2)** | 2023-04-05 | <details><summary>Accep...</summary><p>Accepted at ECCV 2022 (oral). Paper + supplementary material</p></details> |
+| **[Uncertainty-aware Human Motion Prediction](https://arxiv.org/abs/2107.03575v1)** | 2021-07-08 |  |
+| **[Deja Vu: Motion Prediction in Static Images](https://arxiv.org/abs/1803.06951v2)** | 2018-03-21 | <details><summary>Publi...</summary><p>Published in the proceedings of the European Conference on Computer Vision (ECCV), 2014</p></details> |
+| **[3D Human Motion Prediction: A Survey](https://arxiv.org/abs/2203.01593v2)** | 2022-03-07 |  |
+| **[Multimodal Motion Prediction with Stacked Transformers](https://arxiv.org/abs/2103.11624v2)** | 2021-03-24 | CVPR2021 |
+| **[AdvMT: Adversarial Motion Transformer for Long-term Human Motion Prediction](https://arxiv.org/abs/2401.05018v2)** | 2024-02-19 | <details><summary>The p...</summary><p>The paper is under consideration at Pattern Recognition Letters</p></details> |
+| **[The MI-Motion Dataset and Benchmark for 3D Multi-Person Motion Prediction](https://arxiv.org/abs/2306.13566v2)** | 2023-06-26 |  |
+| **[Learning Snippet-to-Motion Progression for Skeleton-based Human Motion Prediction](https://arxiv.org/abs/2307.14006v1)** | 2023-07-26 |  |
+| **[Physics Constrained Motion Prediction with Uncertainty Quantification](https://arxiv.org/abs/2302.01060v3)** | 2023-05-24 | Accepted at IV 2023 |
+| **[Multi-level Motion Attention for Human Motion Prediction](https://arxiv.org/abs/2106.09300v1)** | 2021-06-17 | <details><summary>Accep...</summary><p>Accepted by IJCV. arXiv admin note: substantial text overlap with arXiv:2007.11755</p></details> |
+| **[Adversarial Refinement Network for Human Motion Prediction](https://arxiv.org/abs/2011.11221v2)** | 2020-11-24 | <details><summary>Accep...</summary><p>Accepted by ACCV 2020(Oral)</p></details> |
 
