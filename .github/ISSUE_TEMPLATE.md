@@ -1,42 +1,42 @@
 ---
-title: Latest 15 Papers - November 29, 2025
+title: Latest 15 Papers - December 06, 2025
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos](https://arxiv.org/abs/2511.21690v1)** | 2025-11-26 |  |
-| **[Model-Based Policy Adaptation for Closed-Loop End-to-End Autonomous Driving](https://arxiv.org/abs/2511.21584v1)** | 2025-11-26 | <details><summary>Publi...</summary><p>Published at NeurIPS 2025: https://openreview.net/forum?id=4OLbpaTKJe</p></details> |
-| **[ENMA: Tokenwise Autoregression for Generative Neural PDE Operators](https://arxiv.org/abs/2506.06158v2)** | 2025-11-26 |  |
-| **[MonoMPC: Monocular Vision Based Navigation with Learned Collision Model and Risk-Aware Model Predictive Control](https://arxiv.org/abs/2508.07387v3)** | 2025-11-26 |  |
-| **[SocialNav: Training Human-Inspired Foundation Model for Socially-Aware Embodied Navigation](https://arxiv.org/abs/2511.21135v1)** | 2025-11-26 |  |
-| **[HardFlow: Hard-Constrained Sampling for Flow-Matching Models via Trajectory Optimization](https://arxiv.org/abs/2511.08425v2)** | 2025-11-26 |  |
-| **[Development of a Testbed for Autonomous Vehicles: Integrating MPC Control with Monocular Camera Lane Detection](https://arxiv.org/abs/2511.19655v2)** | 2025-11-26 | 49 pages, 23 figures |
-| **[Inversion-Free Style Transfer with Dual Rectified Flows](https://arxiv.org/abs/2511.20986v1)** | 2025-11-26 |  |
-| **[A Unified Noise-Curvature View of Loss of Trainability](https://arxiv.org/abs/2509.19698v2)** | 2025-11-25 |  |
-| **[Conformal Safety Monitoring for Flight Testing: A Case Study in Data-Driven Safety Learning](https://arxiv.org/abs/2511.20811v1)** | 2025-11-25 | <details><summary>ICRA ...</summary><p>ICRA 2025 Workshop on Robot safety under uncertainty from intangible specifications</p></details> |
-| **[Metric, inertially aligned monocular state estimation via kinetodynamic priors](https://arxiv.org/abs/2511.20496v1)** | 2025-11-25 |  |
-| **[FREE: Uncertainty-Aware Autoregression for Parallel Diffusion Transformers](https://arxiv.org/abs/2511.20390v1)** | 2025-11-25 |  |
-| **[Complexity Reduction Study Based on RD Costs Approximation for VVC Intra Partitioning](https://arxiv.org/abs/2511.20349v1)** | 2025-11-25 | <details><summary>2025 ...</summary><p>2025 Data Compression Conference (DCC)</p></details> |
-| **[How Robot Kinematics Influence Human Performance in Virtual Robot-to-Human Handover Tasks](https://arxiv.org/abs/2511.20299v1)** | 2025-11-25 |  |
-| **[Back to the Feature: Explaining Video Classifiers with Video Counterfactual Explanations](https://arxiv.org/abs/2511.20295v1)** | 2025-11-25 |  |
+| **[TV2TV: A Unified Framework for Interleaved Language and Video Generation](https://arxiv.org/abs/2512.05103v1)** | 2025-12-04 |  |
+| **[Human Mobility Datasets Enriched With Contextual and Social Dimensions](https://arxiv.org/abs/2510.02333v2)** | 2025-12-04 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, 1 table</p></details> |
+| **[Quantised Academic Mobility: Network and Cluster Analysis of Degree Switching, Plan Changes, and Re-entries in an Engineering Faculty (1980-2019)](https://arxiv.org/abs/2512.04652v1)** | 2025-12-04 | <details><summary>23 pa...</summary><p>23 pages, 4 tables , 5 figures</p></details> |
+| **[Resilience Inference for Supply Chains with Hypergraph Neural Network](https://arxiv.org/abs/2511.06208v2)** | 2025-12-04 |  |
+| **[MindDrive: An All-in-One Framework Bridging World Models and Vision-Language Model for End-to-End Autonomous Driving](https://arxiv.org/abs/2512.04441v1)** | 2025-12-04 |  |
+| **[BrainPath: A Biologically-Informed AI Framework for Individualized Aging Brain Generation](https://arxiv.org/abs/2508.16667v3)** | 2025-12-04 |  |
+| **[Q-STAC: Q-Guided Stein Variational Model Predictive Actor-Critic](https://arxiv.org/abs/2507.06625v2)** | 2025-12-04 | 9 pages, 10 figures |
+| **[Co-Evolving Agents: Learning from Failures as Hard Negatives](https://arxiv.org/abs/2511.22254v2)** | 2025-12-04 |  |
+| **[Inference-time Stochastic Refinement of GRU-Normalizing Flow for Real-time Video Motion Transfer](https://arxiv.org/abs/2512.04282v1)** | 2025-12-03 |  |
+| **[Refining Machine Learning Potentials through Thermodynamic Theory of Phase Transitions](https://arxiv.org/abs/2512.03974v1)** | 2025-12-03 |  |
+| **[MPCFormer: A physics-informed data-driven approach for explainable socially-aware autonomous driving](https://arxiv.org/abs/2512.03795v1)** | 2025-12-03 | 17 pages, 18 figures |
+| **[Delving into Dynamic Scene Cue-Consistency for Robust 3D Multi-Object Tracking](https://arxiv.org/abs/2508.11323v2)** | 2025-12-03 |  |
+| **[Safety Reinforced Model Predictive Control (SRMPC): Improving MPC with Reinforcement Learning for Motion Planning in Autonomous Driving](https://arxiv.org/abs/2512.03774v1)** | 2025-12-03 |  |
+| **[Language-Driven Object-Oriented Two-Stage Method for Scene Graph Anticipation](https://arxiv.org/abs/2509.05661v2)** | 2025-12-03 |  |
+| **[Bayesian Optimization for Automatic Tuning of Torque-Level Nonlinear Model Predictive Control](https://arxiv.org/abs/2512.03772v1)** | 2025-12-03 | <details><summary>6 pag...</summary><p>6 pages, 7 figures, 3 tables</p></details> |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos](https://arxiv.org/abs/2511.21690v1)** | 2025-11-26 |  |
-| **[SKEL-CF: Coarse-to-Fine Biomechanical Skeleton and Surface Mesh Recovery](https://arxiv.org/abs/2511.20157v2)** | 2025-11-26 | <details><summary>Proje...</summary><p>Project page: https://pokerman8.github.io/SKEL-CF/</p></details> |
-| **[Image as an IMU: Estimating Camera Motion from a Single Motion-Blurred Image](https://arxiv.org/abs/2503.17358v4)** | 2025-11-26 | <details><summary>Proje...</summary><p>Project page: https://jerredchen.github.io/image-as-imu/</p></details> |
-| **[Passive Dementia Screening via Facial Temporal Micro-Dynamics Analysis of In-the-Wild Talking-Head Video](https://arxiv.org/abs/2511.13802v2)** | 2025-11-26 |  |
-| **[Evaluating the Performance of Deep Learning Models in Whole-body Dynamic 3D Posture Prediction During Load-reaching Activities](https://arxiv.org/abs/2511.20615v1)** | 2025-11-25 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, 7 tables</p></details> |
-| **[Safe and Stable Neural Network Dynamical Systems for Robot Motion Planning](https://arxiv.org/abs/2511.20593v1)** | 2025-11-25 |  |
-| **[Metric, inertially aligned monocular state estimation via kinetodynamic priors](https://arxiv.org/abs/2511.20496v1)** | 2025-11-25 |  |
-| **[3D Motion Perception of Binocular Vision Target with PID-CNN](https://arxiv.org/abs/2511.20332v1)** | 2025-11-25 | <details><summary>7 pag...</summary><p>7 pages, 9 figures, 2 tables</p></details> |
-| **[How Robot Kinematics Influence Human Performance in Virtual Robot-to-Human Handover Tasks](https://arxiv.org/abs/2511.20299v1)** | 2025-11-25 |  |
-| **[Back to the Feature: Explaining Video Classifiers with Video Counterfactual Explanations](https://arxiv.org/abs/2511.20295v1)** | 2025-11-25 |  |
-| **[Dynamic-ICP: Doppler-Aware Iterative Closest Point Registration for Dynamic Scenes](https://arxiv.org/abs/2511.20292v1)** | 2025-11-25 | 8 pages, 5 figures |
-| **[Map-World: Masked Action planning and Path-Integral World Model for Autonomous Driving](https://arxiv.org/abs/2511.20156v1)** | 2025-11-25 |  |
-| **[ACIT: Attention-Guided Cross-Modal Interaction Transformer for Pedestrian Crossing Intention Prediction](https://arxiv.org/abs/2511.20020v1)** | 2025-11-25 |  |
-| **[Multi-Context Fusion Transformer for Pedestrian Crossing Intention Prediction in Urban Environments](https://arxiv.org/abs/2511.20011v1)** | 2025-11-25 |  |
-| **[Pedestrian Crossing Intention Prediction Using Multimodal Fusion Network](https://arxiv.org/abs/2511.20008v1)** | 2025-11-25 |  |
+| **[QKAN-LSTM: Quantum-inspired Kolmogorov-Arnold Long Short-term Memory](https://arxiv.org/abs/2512.05049v1)** | 2025-12-04 |  |
+| **[Contact-Implicit Modeling and Simulation of a Snake Robot on Compliant and Granular Terrain](https://arxiv.org/abs/2512.05008v1)** | 2025-12-04 |  |
+| **[Visuospatial navigation from the bottom-up: without vestibular integration, distance prediction, or maps](https://arxiv.org/abs/2407.13535v4)** | 2025-12-04 |  |
+| **[Back to Basics: Motion Representation Matters for Human Motion Generation Using Diffusion Model](https://arxiv.org/abs/2512.04499v1)** | 2025-12-04 |  |
+| **[DeRA: Decoupled Representation Alignment for Video Tokenization](https://arxiv.org/abs/2512.04483v1)** | 2025-12-04 |  |
+| **[FMA-Net++: Motion- and Exposure-Aware Real-World Joint Video Super-Resolution and Deblurring](https://arxiv.org/abs/2512.04390v1)** | 2025-12-04 | <details><summary>20 pa...</summary><p>20 pages, 15 figures. Project Page: https://kaist-viclab.github.io/fmanetpp_site/</p></details> |
+| **[Gamma-from-Mono: Road-Relative, Metric, Self-Supervised Monocular Geometry for Vehicular Applications](https://arxiv.org/abs/2512.04303v1)** | 2025-12-03 | Accepted in 3DV 2026 |
+| **[Inference-time Stochastic Refinement of GRU-Normalizing Flow for Real-time Video Motion Transfer](https://arxiv.org/abs/2512.04282v1)** | 2025-12-03 |  |
+| **[Driving is a Game: Combining Planning and Prediction with Bayesian Iterative Best Response](https://arxiv.org/abs/2512.03936v1)** | 2025-12-03 |  |
+| **[Delving into Dynamic Scene Cue-Consistency for Robust 3D Multi-Object Tracking](https://arxiv.org/abs/2508.11323v2)** | 2025-12-03 |  |
+| **[Safety Reinforced Model Predictive Control (SRMPC): Improving MPC with Reinforcement Learning for Motion Planning in Autonomous Driving](https://arxiv.org/abs/2512.03774v1)** | 2025-12-03 |  |
+| **[Prediction-Driven Motion Planning: Route Integration Strategies in Attention-Based Prediction Models](https://arxiv.org/abs/2512.03756v1)** | 2025-12-03 | <details><summary>In Pr...</summary><p>In Proceedings of the IEEE International Conference on Intelligent Transportation Systems (ITSC), Gold Coast, AUSTRALIA, 18-21 November 2025</p></details> |
+| **[SwarmDiffusion: End-To-End Traversability-Guided Diffusion for Embodiment-Agnostic Navigation of Heterogeneous Robots](https://arxiv.org/abs/2512.02851v2)** | 2025-12-03 | <details><summary>This ...</summary><p>This work has been submitted for publication and is currently under review</p></details> |
+| **[GeoVideo: Introducing Geometric Regularization into Video Generation Model](https://arxiv.org/abs/2512.03453v1)** | 2025-12-03 | <details><summary>Proje...</summary><p>Project Page: https://geovideo.github.io/GeoVideo/</p></details> |
+| **[Does Hearing Help Seeing? Investigating Audio-Video Joint Denoising for Video Generation](https://arxiv.org/abs/2512.02457v2)** | 2025-12-03 | <details><summary>Proje...</summary><p>Project page at https://jianzongwu.github.io/projects/does-hearing-help-seeing/</p></details> |
 
