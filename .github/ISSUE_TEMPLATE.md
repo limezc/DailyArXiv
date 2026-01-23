@@ -1,29 +1,32 @@
 ---
-title: Latest 15 Papers - January 17, 2026
+title: Latest 15 Papers - January 24, 2026
 labels: documentation
 ---
 ## Trajectory Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fast Surrogate Models for Adaptive Aircraft Trajectory Prediction in En route Airspace](https://arxiv.org/abs/2601.03075v2)** | 2026-01-19 |  |
+| **[CARLA-Round: A Multi-Factor Simulation Dataset for Roundabout Trajectory Prediction](https://arxiv.org/abs/2601.12119v1)** | 2026-01-17 |  |
 | **[DeepUrban: Interaction-Aware Trajectory Prediction and Planning for Automated Driving by Aerial Imagery](https://arxiv.org/abs/2601.10554v1)** | 2026-01-15 |  |
 | **[Reward Learning through Ranking Mean Squared Error](https://arxiv.org/abs/2601.09236v2)** | 2026-01-15 |  |
 | **[Physically Plausible Multi-System Trajectory Generation and Symmetry Discovery](https://arxiv.org/abs/2509.23003v2)** | 2026-01-14 |  |
+| **[Verifying Physics-Informed Neural Network Fidelity using Classical Fisher Information from Differentiable Dynamical System](https://arxiv.org/abs/2601.11638v1)** | 2026-01-14 | <details><summary>This ...</summary><p>This paper has been submitted and is currently under review at IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</p></details> |
 | **[ReflexDiffusion: Reflection-Enhanced Trajectory Planning for High-lateral-acceleration Scenarios in Autonomous Driving](https://arxiv.org/abs/2601.09377v1)** | 2026-01-14 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[How vehicles change lanes after encountering crashes: Empirical analysis and modeling](https://arxiv.org/abs/2601.08125v1)** | 2026-01-13 |  |
 | **[LatentVLA: Efficient Vision-Language Models for Autonomous Driving via Latent Action Prediction](https://arxiv.org/abs/2601.05611v1)** | 2026-01-09 |  |
-| **[Fast Surrogate Models for Adaptive Aircraft Trajectory Prediction in En route Airspace](https://arxiv.org/abs/2601.03075v1)** | 2026-01-06 |  |
 | **[EscherVerse: An Open World Benchmark and Dataset for Teleo-Spatial Intelligence with Physical-Dynamic and Intent-Driven Understanding](https://arxiv.org/abs/2601.01547v1)** | 2026-01-04 |  |
 | **[Flowing from Reasoning to Motion: Learning 3D Hand Trajectory Prediction from Egocentric Human Interaction Videos](https://arxiv.org/abs/2512.16907v2)** | 2025-12-30 | <details><summary>Proje...</summary><p>Project website: https://egoman-project.github.io</p></details> |
 | **[DCHO: A Decomposition-Composition Framework for Predicting Higher-Order Brain Connectivity to Enhance Diverse Downstream Applications](https://arxiv.org/abs/2509.09696v2)** | 2025-12-29 |  |
 | **[Embodied AI-Enhanced IoMT Edge Computing: UAV Trajectory Optimization and Task Offloading with Mobility Prediction](https://arxiv.org/abs/2512.20902v1)** | 2025-12-24 |  |
 | **[Predictive Modeling of Maritime Radar Data Using Transformer Architecture](https://arxiv.org/abs/2512.17098v2)** | 2025-12-22 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, 1 table</p></details> |
 | **[Efficient Image-Goal Navigation with Representative Latent World Model](https://arxiv.org/abs/2511.11011v2)** | 2025-12-19 |  |
-| **[Recent Advances in Multi-Agent Human Trajectory Prediction: A Comprehensive Review](https://arxiv.org/abs/2506.14831v2)** | 2025-12-16 | 45 pages |
-| **[Measuring What Matters: Scenario-Driven Evaluation for Trajectory Predictors in Autonomous Driving](https://arxiv.org/abs/2512.12211v1)** | 2025-12-13 | 9 Pages, 8 Figures |
 
 ## Motion Prediction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Collision Probability Estimation for Optimization-based Vehicular Motion Planning](https://arxiv.org/abs/2505.21161v3)** | 2026-01-21 | 14 pages, 7 figures |
+| **[STRIDE-QA: Visual Question Answering Dataset for Spatiotemporal Reasoning in Urban Driving Scenes](https://arxiv.org/abs/2508.10427v3)** | 2026-01-19 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 (Oral). project page: https://turingmotors.github.io/stride-qa/</p></details> |
+| **[Future Optical Flow Prediction Improves Robot Control & Video Generation](https://arxiv.org/abs/2601.10781v1)** | 2026-01-15 | <details><summary>Proje...</summary><p>Project Site (Code, Models, Demo): https://fofpred.github.io</p></details> |
 | **[Proactive Local-Minima-Free Robot Navigation: Blending Motion Prediction with Safe Control](https://arxiv.org/abs/2601.10233v1)** | 2026-01-15 | <details><summary>Co-fi...</summary><p>Co-first authors: Yifan Xue and Ze Zhang</p></details> |
 | **[How Human Motion Prediction Quality Shapes Social Robot Navigation Performance in Constrained Spaces](https://arxiv.org/abs/2601.09856v1)** | 2026-01-14 |  |
 | **[A Taxonomy and Review of Algorithms for Modeling and Predicting Human Driver Behavior](https://arxiv.org/abs/2006.08832v4)** | 2026-01-14 | <details><summary>This ...</summary><p>This revision has been accepted for publication in the Proceedings of the IEEE. The final version is available on IEEE Xplore</p></details> |
@@ -36,7 +39,4 @@ labels: documentation
 | **[The Seismic Wavefield Common Task Framework](https://arxiv.org/abs/2512.19927v1)** | 2025-12-22 | 35 pages, 7 figures |
 | **[Modeling Non-Ergodic Path Effects Using Conditional Generative Model for Fourier Amplitude Spectra](https://arxiv.org/abs/2512.19909v1)** | 2025-12-22 |  |
 | **[LLaViDA: A Large Language Vision Driving Assistant for Explicit Reasoning and Enhanced Trajectory Planning](https://arxiv.org/abs/2512.18211v1)** | 2025-12-20 |  |
-| **[Closing the Loop: Motion Prediction Models beyond Open-Loop Benchmarks](https://arxiv.org/abs/2505.05638v2)** | 2025-12-16 |  |
-| **[Transfer Learning-Based Surrogate Modeling for Nonlinear Time-History Response Analysis of High-Fidelity Structural Models](https://arxiv.org/abs/2512.14161v1)** | 2025-12-16 | 20 pages, 21 figures |
-| **[PrediFlow: A Flow-Based Prediction-Refinement Framework for Real-Time Human Motion Prediction in Human-Robot Collaboration](https://arxiv.org/abs/2512.13903v1)** | 2025-12-15 |  |
 
